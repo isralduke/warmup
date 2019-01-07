@@ -1,6 +1,6 @@
 ---
-image: /sql-saturday-app-concept-designed-by-isral-c-duke.jpg
-thumb: /sql-saturday-app-concept-designed-by-isral-c-duke-t.jpg
+image: sql-saturday-app-concept-designed-by-isral-c-duke.jpg
+thumb: sql-saturday-app-concept-designed-by-isral-c-duke-t.jpg
 excerpt: Concept guidebook app designed for SQL Saturday 2018 by Isral C Duke
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
