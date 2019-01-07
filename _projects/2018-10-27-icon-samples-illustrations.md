@@ -1,6 +1,6 @@
 ---
-image: projects/icons-designed-isral-duke.jpg
-thumb: projects/icons-designed-isral-duke-t.jpg
+image: icons-designed-isral-duke.jpg
+thumb: icons-designed-isral-duke-t.jpg
 excerpt: Samples of my icon design work.
 employment_context:
   - 60873a36-5847-4aff-a2bb-61c49d4ca824

@@ -1,6 +1,6 @@
 ---
-image: /assets/images/projects/book-ebook-safety-company-design-isral-duke.png
-thumb: /assets/images/projects/book-ebook-safety-company-design-isral-duke-t.png
+image: book-ebook-safety-company-design-isral-duke.png
+thumb: book-ebook-safety-company-design-isral-duke-t.png
 excerpt: A printed and ebook I designed to communicate the thought leadership of a safety training company.
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
