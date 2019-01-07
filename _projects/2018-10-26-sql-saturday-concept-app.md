@@ -9,6 +9,7 @@ id: 5f4e9277-b93d-4e59-9fc4-a5e6f2c7f60d
 project_roles:
   - ui-designer
   - ux-designer
+project_featured: true
 project_type:
   - app
 skills:
