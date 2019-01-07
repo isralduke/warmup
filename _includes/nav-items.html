@@ -1,7 +1,7 @@
 {% for page in site.pages %}
 	{% if page.title %}
 	<li class="nav-list-item">
-		<a href="{{ page.url }}" class="nav-list-item-link" title="Go to {{ page.title }}" tabindex="0">
+		<a href="{{site.baseurl}}/{{ page.url }}" class="nav-list-item-link" title="Go to {{ page.title }}" tabindex="0">
 			{{ page.title }}
 		</a>
 	</li>
