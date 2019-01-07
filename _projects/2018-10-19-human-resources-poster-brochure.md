@@ -2,6 +2,7 @@
 image: marketing-education-Human-Resources-Poster-Brochure-designed-isral-Duke.png
 thumb: marketing-education-Human-Resources-Poster-Brochure-designed-isral-Duke-t.png
 excerpt: Human Resources assets to improve employee retention in a ship-building company.
+project_type: brand
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
 title: Human Resources Poster and Brochure
