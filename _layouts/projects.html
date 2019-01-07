@@ -7,7 +7,7 @@ layout: default
 		<div class="container-fluid">
 			<div class="row">
 				{% for project in site.projects %}
-				{% assign image = site.baseurl | append: project.thumb %}
+				{% assign image = site.baseurl | append:"/assets/images/projects/" | append: project.thumb %}
 				{% assign finalurl = site.baseurl | append: project.url %}
 					<div class="col-12 col-sm-6 col-lg-4">
 						{% include card-item.html title=project.title excerpt=project.excerpt thumb=image buttontext="See this Project" imagealt=project.title url=finalurl %}
