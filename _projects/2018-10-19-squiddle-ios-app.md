@@ -14,6 +14,7 @@ id: 2b4b44fa-221a-4fb7-860f-5eeb5d31f30f
 project_roles:
   - ui-designer
   - graphic-designer
+project_featured: true
 project_type:
   - app
 skills:
