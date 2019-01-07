@@ -16,7 +16,7 @@ layout: default
 		{% for project in site.projects %}
     {% if project.project_featured %}
 		<a href="{{site.url}}{{project.url}}" class="site-section site-section-link" title="See Digital works by Isral Duke">
-			<img class="img-fluid img-project " src="{{baseurl}}{{project.thumb}}" alt="Preview image for {{project.title}}">	
+			<img class="img-fluid img-project " src="{{site.baseurl}}{{project.thumb}}" alt="Preview image for {{project.title}}">	
 			<h3 class="h4">{{project.title}}</h3>
 		</a>
     {% endif %}
