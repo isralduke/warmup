@@ -1,6 +1,6 @@
 <article class="card listing-item">
 	{% if include.thumb %}
-		<img class="img-fluid" src="{{include.thumb}}" alt="Image of {{include.imagealt}}">
+		<img class="img-fluid" src="{{include.path}}{{include.thumb}}" alt="Image of {{include.imagealt}}">
 	{% endif %}	
 	<div class="card-body">
 		<h3 class="card-title h4 mb-0">{{include.title}}</h3>

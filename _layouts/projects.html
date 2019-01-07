@@ -6,10 +6,11 @@ layout: default
 	<div class="listing-items">
 		<div class="container-fluid">
 			<div class="row">
-				{% assign collection = site[page.collection] | sort: 'date' | reverse %}
 				{% for project in site.projects %}
+				{% assign image = site.url | append: project.thumb %}
+				{% assign finalurl = site.baseurl | append: project.url %}
 					<div class="col-12 col-sm-6 col-lg-4">
-						{% include card-item.html title=project.title excerpt=project.excerpt thumb=project.image buttontext="See this Project" imagealt=project.title url=project.url path="/assets/images/projects/" %}
+						{% include card-item.html title=project.title excerpt=project.excerpt thumb=image buttontext="See this Project" imagealt=project.title url=finalurl %}
 					</div>
 				{% endfor %}
 			</div>
