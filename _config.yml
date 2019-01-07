@@ -28,3 +28,17 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+      title: ""
+
+collections:
+  projects:
+      output: true
+      permalink: /projects/:title
