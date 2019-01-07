@@ -1,13 +1,13 @@
 <section class="section content content-project border-bottom ">
 	<div class="row no-gutters">
 		<div class="col-12 image-wrap">
-			<img src="{{site.url}}{{ page.image }}" alt="{{alt}}" class="img-fluid img-project shadow" />
+			<img src="{{site.baseurl}}/assets/images/projects/{{page.image}}" alt="{{alt}}" class="img-fluid img-project shadow" />
 		</div>
 	</div>		
 	<div class="container ">
 		<div class="row justify-content-center">
 			<div class="col-12 col-md-9 ">
-				<h4 class="h4 leadin text-blue-darker mt-2">{{ page.excerpt }}</h4>
+				<h4 class="h4 leadin text-blue-darker mt-2">{{page.excerpt}}</h4>
 			</div>
 		</div>
 		<div class="row justify-content-center">
@@ -32,8 +32,8 @@
 			<div class="col-12 col-md-9">
 				<div class="thumbnails">
 					{% for image in page.images %}
-						<a data-fancybox="gallery" href="{{site.url}}{{ image }}" title="See {{alt}}, larger" class="">
-							<img class="img-fluid " src="{{site.url}}{{ image }}" alt="{{alt}}">
+						<a data-fancybox="gallery" href="{{site.baseurl}}/assets/images/projects/{{image}}" title="See {{alt}}, larger" class="">
+							<img class="img-fluid " src="{{site.baseurl}}/assets/images/projects/{{image}}" alt="{{alt}}">
 						</a>
 					{% endfor %}
 				</div>
