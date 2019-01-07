@@ -7,9 +7,7 @@ layout: default
 		<div class="container-fluid">
 			<div class="row">
 				{% assign collection = site[page.collection] | sort: 'date' | reverse %}
-				{% for project in collection %}
-				{% assign image = site.url | append: project.thumb %}
-				{% assign finalurl = site.url | append: project.url %}
+				{% for project in site.projects %}
 					<div class="col-12 col-sm-6 col-lg-4">
 						{% include card-item.html title=project.title excerpt=project.excerpt thumb=image buttontext="See this Project" imagealt=project.title url=finalurl %}
 					</div>
