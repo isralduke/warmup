@@ -23,7 +23,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
+theme: isralduke
 
 plugins:
  - jekyll-feed
