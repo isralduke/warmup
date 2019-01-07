@@ -1,10 +1,10 @@
 ---
-image: /assets/images/projects/app-ui-squiddle-ios-app-ui-designed-isral-c-duke.png
-thumb: /assets/images/projects/app-ui-squiddle-ios-app-ui-designed-isral-c-duke-t.png
+image: app-ui-squiddle-ios-app-ui-designed-isral-c-duke.png
+thumb: app-ui-squiddle-ios-app-ui-designed-isral-c-duke-t.png
 images:
-  - /assets/images/projects/app-ui-Squiddle-Sketches-Round-by-isral-duke.jpg
-  - /assets/images/projects/illustration-app-Squiddle-design-isral-duke.png
-  - /assets/images/projects/squiddle-ios-app-icon-final-designed-by-duke-branding.png
+  - app-ui-Squiddle-Sketches-Round-by-isral-duke.jpg
+  - illustration-app-Squiddle-design-isral-duke.png
+  - squiddle-ios-app-icon-final-designed-by-duke-branding.png
 excerpt: A free sketching app on the iTunes App Store.
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
