@@ -1,18 +1,10 @@
-<header class="header">
+<header class="header d-flex justify-content-between">
 	<a href="{{ site.url }}" title="Go to the Homepage" class="logo-site-link" tabindex="0">
-		<img src="{{site.url}}/assets/images/logos/isral-duke-design-logo.svg" alt="Logo for {{ site.title }}" class="logo-site">
+		<img src="{{site.baseurl}}/assets/images/logos/isral-duke-design-logo.svg" alt="Logo for {{ site.title }}" class="logo-site">
 	</a>
-	<button id="navbuttontop" role="button" class="btn btn-nav btn-nav-top">
-		<span class="fas fa-bars"></span> Menu
-	</button>
 	<nav id="navtop" class="navigation navigation-top">
-		<ul class="nav-list nav-list-top">
+		<ul class="list-unstyled list-inline nav-list nav-list-top">
 			{% include nav-items.html %}
-			<li class="nav-list-item last">
-				<button id="navbuttontopClose" class="btn btn-block">
-					<span class="fas fa-angle-up"></span>
-				</button>
-			</li>
 		</ul>
 	</nav>
 </header>
