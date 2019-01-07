@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Brand
+title: Projects
 permalink: /projects/
 collection: projects
 ---
