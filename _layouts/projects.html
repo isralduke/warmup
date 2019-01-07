@@ -9,7 +9,7 @@ layout: default
 				{% assign collection = site[page.collection] | sort: 'date' | reverse %}
 				{% for project in site.projects %}
 					<div class="col-12 col-sm-6 col-lg-4">
-						{% include card-item.html title=project.title excerpt=project.excerpt thumb=project.image buttontext="See this Project" imagealt=project.title url=finalurl %}
+						{% include card-item.html title=project.title excerpt=project.excerpt thumb=project.image buttontext="See this Project" imagealt=project.title url=project.url path="/assets/images/projects/" %}
 					</div>
 				{% endfor %}
 			</div>
