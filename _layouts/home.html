@@ -13,21 +13,11 @@ layout: default
 <section class="section site-description">
 	<h2 class="d-none">{{site.description}}</h2>	
 	<div class="site-sections">
-		<a href="{{site.url}}/digital" class="site-section site-section-link" title="See Digital works by Isral Duke">
+		{% for project in collection %}
+		<a href="{{site.url}}/projects/" class="site-section site-section-link" title="See Digital works by Isral Duke">
 			<img class="img-fluid img-project " src="{{site.url}}/assets/images/projects/sql-saturday-app-concept-designed-by-isral-c-duke-t.jpg" alt="Preview image for digital projects by Isral Duke">	
 			<h3 class="h4">Digital</h3>
 		</a>
-		<a href="{{site.url}}/print" class="site-section site-section-link" title="See Print works by Isral Duke">
-			<img class="img-fluid img-project " src="{{site.url}}/assets/images/projects/branding-natchez-half-tricentennial-design-isral-duke-designed-isral-duke-t.png" alt="Preview image for print projects by Isral Duke">	
-			<h3 class="h4">Print</h3>
-		</a>
-		<a href="{{site.url}}/illustration" class="site-section site-section-link" title="See Illustration works by Isral Duke">
-			<img class="img-fluid img-project " src="{{site.url}}/assets/images/projects/illustration-app-Squiddle-design-isral-duke-t.png" alt="Preview image for illustration projects by Isral Duke">	
-			<h3 class="h4">Illustration</h3>
-		</a>
-		<a href="{{site.url}}/brand" class="site-section site-section-link" title="See Brand works by Isral Duke">
-			<img class="img-fluid img-project " src="{{site.url}}/assets/images/projects/illustration-Explore-design-isral-duke-t.jpg" alt="Preview image for brand projects by Isral Duke">	
-			<h3 class="h4">Brand</h3>
-		</a>
+		{% endfor %}
 	</div>
 </section>
