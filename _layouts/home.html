@@ -13,12 +13,13 @@ layout: default
 <section class="section site-description">
 	<h2 class="d-none">{{site.description}}</h2>	
 	<div class="site-sections">
-
 		{% for project in site.projects %}
+    {% if project.project_featured %}
 		<a href="{{site.url}}/projects/{{project.url}}" class="site-section site-section-link" title="See Digital works by Isral Duke">
 			<img class="img-fluid img-project " src="{{project.thumb}}" alt="Preview image for {{project.title}}">	
 			<h3 class="h4">{{project.title}}</h3>
 		</a>
+    {% endif %}
 		{% endfor %}
 	</div>
 </section>
