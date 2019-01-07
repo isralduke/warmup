@@ -1,0 +1,44 @@
+<section class="section content content-project border-bottom ">
+	<div class="row no-gutters">
+		<div class="col-12 image-wrap">
+			<img src="{{site.url}}{{ page.image }}" alt="{{alt}}" class="img-fluid img-project shadow" />
+		</div>
+	</div>		
+	<div class="container ">
+		<div class="row justify-content-center">
+			<div class="col-12 col-md-9 ">
+				<h4 class="h4 leadin text-blue-darker mt-2">{{ page.excerpt }}</h4>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-12 col-md-8">
+				{% if page.skills %}
+				<p class="muted"><strong>Skills:</strong> 
+					{% for skill in page.skills %}
+						<em>{{ skill | capitalize | replace: "-", " " }}</em>{% if forloop.last %}{% else %}, {% endif %}
+					{% endfor %}
+				</p>
+				{% endif %}
+				<article class="user-content">
+					{{ page.content }}
+				</article>
+			</div>
+		</div>
+		{% if page.images %}
+		<div class="row justify-content-center">
+			 <div class="col-12 col-md-9">
+			 	<p class="h5 mb-2">Additional Images</p>
+			 </div>
+			<div class="col-12 col-md-9">
+				<div class="thumbnails">
+					{% for image in page.images %}
+						<a data-fancybox="gallery" href="{{site.url}}{{ image }}" title="See {{alt}}, larger" class="">
+							<img class="img-fluid " src="{{site.url}}{{ image }}" alt="{{alt}}">
+						</a>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+		{% endif %}
+	</div>
+</section>

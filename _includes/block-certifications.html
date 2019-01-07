@@ -1,0 +1,22 @@
+<section class="section certifications border-bottom ">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-10">
+				<h2 class="h2 mb-2">Certifications</h2>
+			</div>
+		</div>
+		<div class="row justify-content-center align-items-start">
+			{{collection:certifications}}
+			<div class="col-4 col-md-3 col-lg-2 ">
+				<a href="{{url_certificate}}" title="See the {{title}} certification awarded to {{site_name}}" target="_blank" class="link-thumbnail">
+				{{assets:image_preview}}
+				<img class="img-fluid shadow highlights" src="{{glide:image_preview preset="thumbsm"}}" alt="{{alt}}">
+				{{/assets:image_preview}}
+				</a>
+				<h3 class="h5 d-none">{{title}}</h3>
+				<h4 class="h4 d-none">{{authority}}</h4>
+			</div>
+			{{/collection:certifications}}			
+		</div>
+	</div>
+</section>

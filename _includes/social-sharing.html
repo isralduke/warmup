@@ -1,0 +1,7 @@
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@isralduke" />
+<meta name="twitter:creator" content="@isralduke" />
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:image" content="{{site.url}}{{page.image}}" />

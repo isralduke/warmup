@@ -1,0 +1,55 @@
+<div class="pager pager-pictoral">
+	<div class="container">
+		<div class="row">
+			{{ collection:previous in="{in}" limit="1"}}
+				{{ if no_results }}
+				{{ else }}
+					<div class="col-6 mr-auto">
+						<div class="row align-items-end">
+							<div class="col-12 col-md-4">
+								<a href="{{url}}" title="" class="link-thumbnail">
+									{{assets:image}}
+									<img class="img-fluid " src="{{glide:image preset="thumbsm"}}" alt="{{alt}}">
+									{{/assets:image}}
+								</a>
+							</div>
+							<div class="col-12 col-md-8 d-none d-md-block">
+								<p class="h5">{{title}}</p>
+							</div>
+						</div>
+						<div class="row ">
+							<div class="col-12 col-md-4">
+								{{partial:snippets/btn-secondary pass="See Previous Project"}}
+							</div>
+						</div>
+					</div>
+				{{/if}}
+			{{/collection:previous}}
+			{{ collection:next in="{in}" limit="1"}}
+				{{ if no_results }}
+				{{else}}
+					<div class="col-6 ml-auto text-right">
+						<div class="row align-items-end">
+							<div class="col-12 col-md-8 d-none d-md-block">
+								<p class="h5">{{title}}</p>
+							</div>
+							<div class="col-12 col-md-4">
+								<a href="{{url}}" title="" class="link-thumbnail">
+									{{assets:image}}
+									<img class="img-fluid " src="{{glide:image preset="thumbsm"}}" alt="{{alt}}">
+									{{/assets:image}}
+								</a>
+							</div>
+						</div>
+						
+						<div class="row ">
+							<div class="col-12 col-md-4 offset-md-8">
+								{{partial:snippets/btn-secondary pass="See Next Project"}}
+							</div>
+						</div>
+					</div>
+				{{/if}}
+			{{/collection:next}}
+		</div>
+	</div>
+</div>

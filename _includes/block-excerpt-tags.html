@@ -1,0 +1,14 @@
+{% if page.excerpt || page.tags %}
+	<div class="row justify-content-center">
+		{% if page.excerpt %}
+		<div class="col-12 col-md-8">
+			<h3 class="h3 leadin text-blue-darker mb-2">{{ page.excerpt }}</h3>
+		</div>
+		{% endif %}
+		{% if page.tags %}
+			<div class="col-10 col-md-8">
+				<p class="muted"><em>{{ page.tags}}</em></p>
+			</div>
+		{% endif %}	
+	</div>
+{% endif %}
