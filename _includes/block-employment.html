@@ -13,7 +13,7 @@
 				{% else %}
 					<a title="Isral Duke worked at {{ employment.title }}, site is no longer available" class="link-thumbnail" target="_blank">
 				{% endif %}	
-					<img class="img-fluid employer-logo" src="{{site.url}}{{ employment.logo }}" alt="Isral Duke worked at {{ employment.title }}. Logo for {{ employment.title }}">
+					<img class="img-fluid employer-logo" src="{{site.baseurl}}{{employment.logo}}" alt="Isral Duke worked at {{employment.title}}. Logo for {{employment.title}}">
 				</a>
 			</div>
 			{% endfor %}
