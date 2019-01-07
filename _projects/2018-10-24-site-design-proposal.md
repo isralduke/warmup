@@ -1,8 +1,8 @@
 ---
-image: projects/site-unversity-proposed-design-isral-duke.jpg
-thumb: projects/site-unversity-proposed-design-isral-duke-t.jpg
+image: site-unversity-proposed-design-isral-duke.jpg
+thumb: site-unversity-proposed-design-isral-duke-t.jpg
 images:
-  - projects/site-design-proposal-for-university-designed-isral-duke-detail.jpg
+  - site-design-proposal-for-university-designed-isral-duke-detail.jpg
 excerpt: >
   I proposed this design for a website for a university looking to reboot its primary online property
   with a crisp, modern look.
