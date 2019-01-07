@@ -35,5 +35,5 @@ skills:
 </p>
 <p>The development code was written with XCode by <a href="http://www.bigbluefly.com/patrickrills" target="_blank" title="Patrick Rills Website">Patrick Rills, an iOS developer</a> based in Boston. The UI was designed with <a href="https://www.paintcodeapp.com" target="_blank">PaintCode</a>, and the homescreen icon was designed with <a href="https://affinity.serif.com/en-us/" target="_blank">Affinity Designer</a>.<br>
 </p>
-<p><a href="https://itunes.apple.com/us/app/squiddle/id1161266643?mt=8" title="Download Squiddle on the App Store" target="_blank"><img src="/assets/images/general/Download_on_the_App_Store_Badge.svg" alt="Download Squiddle on the App Store"></a>
+<p><a href="https://itunes.apple.com/us/app/squiddle/id1161266643?mt=8" title="Download Squiddle on the App Store" target="_blank"><img src="{{site.baseurl}}/assets/images/general/Download_on_the_App_Store_Badge.svg" alt="Download Squiddle on the App Store"></a>
 </p>
