@@ -5,6 +5,7 @@ images:
   - branding-Natchez-Half-Medals-designed-isral-duke.png
   - branding-Natchez-Half-Trifecta-designed-isral-duke.png
 excerpt: A collection of event paraphernalia I designed for a running event celebrating a civic anniversary.
+project_featured: true
 project_type: brand
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
