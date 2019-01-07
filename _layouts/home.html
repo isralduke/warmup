@@ -15,9 +15,9 @@ layout: default
 	<div class="site-sections">
 
 		{% for project in site.projects %}
-		<a href="{{site.url}}/projects/" class="site-section site-section-link" title="See Digital works by Isral Duke">
+		<a href="{{site.url}}/projects/{{project.url}}" class="site-section site-section-link" title="See Digital works by Isral Duke">
 			<img class="img-fluid img-project " src="{{site.url}}/assets/images/projects/sql-saturday-app-concept-designed-by-isral-c-duke-t.jpg" alt="Preview image for digital projects by Isral Duke">	
-			<h3 class="h4">Digital</h3>
+			<h3 class="h4">{{project.title}}</h3>
 		</a>
 		{% endfor %}
 	</div>
