@@ -13,7 +13,7 @@
 				{% for employer in employment %}
 					{% if role == employer.eid %}
 				<div class="col-10 col-md-4">
-					<img class="img-fluid employer-logo" src="{{site.url}}/assets/images/employerlogos/{{ employer.logo }}" alt="{{ employer.title }} Logo. Isral Duke worked here when this project was produced.">
+					<img class="img-fluid employer-logo" src="{{site.baseurl}}/assets/images/employerlogos/{{employer.logo}}" alt="{{ employer.title }} Logo. Isral Duke worked here when this project was produced.">
 				</div>
 					{% endif %}
 				{% endfor %}
