@@ -1,9 +1,9 @@
-<header class="header d-flex justify-content-between">
+<header class="header d-flex justify-content-between align-items-center">
 	<a href="{{ site.url }}" title="Go to the Homepage" class="logo-site-link" tabindex="0">
 		<img src="{{site.baseurl}}/assets/images/logos/isral-duke-design-logo.svg" alt="Logo for {{ site.title }}" class="logo-site">
 	</a>
-	<nav id="navtop" class="navigation navigation-top">
-		<ul class="list-unstyled list-inline nav-list nav-list-top">
+	<nav id="navtop" class="d-none d-md-flex navigation navigation-top">
+		<ul class="d-flex justify-content-between align-items-center list-unstyled mb-0">
 			{% include nav-items.html %}
 		</ul>
 	</nav>

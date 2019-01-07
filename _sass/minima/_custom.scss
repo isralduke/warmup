@@ -379,16 +379,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 .navigation {
 	&-top {
-		position: absolute;
-		top: 100%; right: 0;
 		.nav-list {
-			display: flex;
-			flex-direction: column;
-			justify-content: flex-start;
-			background-image: linear-gradient(to right, #167ab8, $blue);
-			border-bottom: 1px solid $blue-darker;
-			border-left:   1px solid $blue-darker;
-			
 			.nav-list-item-link {
 				font-size: $spacer*1.5;
 				font-weight: 100;
@@ -435,6 +426,13 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 		}
 	}
 }
+.nav-list-item {
+	transition: background-color $easing $speed;
+	&:hover, &:active {
+		background-color: $blue;
+		color: $white;
+	}
+}
 .nav-list-item.social {
 
 	flex: 0 0 44px;
@@ -446,6 +444,12 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	flex-direction: column;
 	justify-content: center;
 	padding: $spacer*.5 $spacer;
+	max-height: 100%;
+	transition: background-color $easing $speed;
+	&:hover, &:active {
+		background-color: $blue;
+		color: $white;
+	}
 }
 .main {
 	@extend .bg-white-grey-stripes;
