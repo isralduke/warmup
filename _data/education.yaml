@@ -1,0 +1,13 @@
+- education:
+  degree: BFA Fine Arts
+  name: Graphic Design
+  year: 2007
+  logo: /assets/images/logos/LSU-Logo.png
+  institution: Louisiana State University A&M
+
+- education:
+  degree: Interaction Design
+  name: Interaction Design
+  year: 2018
+  logo: /assets/images/logos/UCSD-Design-Lab-Logo.png
+  institution: University California San Diego Design Lab
