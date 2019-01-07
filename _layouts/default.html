@@ -1,20 +1,25 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  {%- include head.html -%}
-
-  <body>
-
-    {%- include header.html -%}
-
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-
-    {%- include footer.html -%}
-
-  </body>
-
+<html>
+{% include head.html %}
+<body>
+	{% include header.html %}
+	<main class="main">
+	{{ content }}
+	</main>
+	{% include footer.html %}
+	{% include nav-bottom.html %}
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			$('#navbuttontop, #navbuttontopClose').click(function(){
+				$('#navbuttontop').toggleClass('active');
+				$('#navtop li').slideToggle(250);
+			});
+			$('#navbuttonbottom').click(function(){
+				$('#navbottom').toggleClass('open');
+			});
+		});
+	</script>
+</body>
 </html>

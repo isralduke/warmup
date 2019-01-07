@@ -1,34 +1,33 @@
 ---
 layout: default
 ---
-
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <p class="feed-subscribe"><svg class="svg-icon orange"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p>
-  {%- endif -%}
-
-</div>
+<section class="section site-title">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<h1 class="h1">Designer. <br class="d-block d-md-none"/><small>UX. Interaction. Graphic. UI.</small></h1>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="section site-description">
+	<h2 class="d-none">{{site.description}}</h2>	
+	<div class="site-sections">
+		<a href="{{site.url}}/digital" class="site-section site-section-link" title="See Digital works by Isral Duke">
+			<img class="img-fluid img-project " src="{{site.url}}/assets/images/projects/sql-saturday-app-concept-designed-by-isral-c-duke-t.jpg" alt="Preview image for digital projects by Isral Duke">	
+			<h3 class="h4">Digital</h3>
+		</a>
+		<a href="{{site.url}}/print" class="site-section site-section-link" title="See Print works by Isral Duke">
+			<img class="img-fluid img-project " src="{{site.url}}/assets/images/projects/branding-natchez-half-tricentennial-design-isral-duke-designed-isral-duke-t.png" alt="Preview image for print projects by Isral Duke">	
+			<h3 class="h4">Print</h3>
+		</a>
+		<a href="{{site.url}}/illustration" class="site-section site-section-link" title="See Illustration works by Isral Duke">
+			<img class="img-fluid img-project " src="{{site.url}}/assets/images/projects/illustration-app-Squiddle-design-isral-duke-t.png" alt="Preview image for illustration projects by Isral Duke">	
+			<h3 class="h4">Illustration</h3>
+		</a>
+		<a href="{{site.url}}/brand" class="site-section site-section-link" title="See Brand works by Isral Duke">
+			<img class="img-fluid img-project " src="{{site.url}}/assets/images/projects/illustration-Explore-design-isral-duke-t.jpg" alt="Preview image for brand projects by Isral Duke">	
+			<h3 class="h4">Brand</h3>
+		</a>
+	</div>
+</section>
