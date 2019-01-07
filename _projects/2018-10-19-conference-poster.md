@@ -1,6 +1,6 @@
 ---
 image: activate-conference-poster-designed-isral-duke.jpg
-thumb: activate-conference-poster-designed-isral-duke-t.jpg
+thumb: https://www.dropbox.com/s/0e6jjst2cyjn08t/activate-conference-poster-designed-isral-duke-t.jpg?dl=0
 images:
   - swag-poster.png
 excerpt: I designed this poster to be a swag bag item for an annual technology conference.
