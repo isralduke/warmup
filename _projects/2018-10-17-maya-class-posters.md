@@ -7,7 +7,7 @@ images:
 excerpt: Poster I designed to promote a Maya class while working for LSU School of Art.
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: Maya Class Promo Posters
+title: Software Education Promo Posters
 id: e6baa7e9-f041-4797-8547-c440c0b8c401
 project_roles:
   - graphic-designer

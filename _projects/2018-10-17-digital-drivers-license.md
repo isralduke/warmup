@@ -17,7 +17,7 @@ images:
 excerpt: La Wallet is Louisiana’s Digital Driver’s License as a mobile app for iOS and Android.
 employment_context:
   - e06b92e7-05de-45b3-87fc-a9aed063e6e8
-title: Digital Driver’s License
+title: Digital License App UI
 id: 7cf0c654-2729-4998-bde2-d0b6f8774077
 project_roles:
   - ux-designer

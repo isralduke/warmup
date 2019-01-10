@@ -9,7 +9,7 @@ excerpt: A free sketching app on the iTunes App Store.
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
 cta_label: Download on the App Store
-title: Squiddle iOS App
+title: iOS Visual Notes App
 id: 2b4b44fa-221a-4fb7-860f-5eeb5d31f30f
 project_roles:
   - ui-designer

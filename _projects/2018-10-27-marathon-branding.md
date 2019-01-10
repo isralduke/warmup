@@ -9,7 +9,7 @@ project_featured: true
 project_type: brand
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: Marathon Marketing Collateral
+title: Marathon Branding
 id: 53619c3d-7815-4e12-baf9-1895382f867f
 project_roles:
   - graphic-designer

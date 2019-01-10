@@ -13,7 +13,7 @@ excerpt: >
 project_type: brand
 employment_context:
   - 37c882a5-c0db-4390-a8e3-56cf493e11dd
-title: Crane Data System Marketing Assets
+title: Logistics Infrastructure Marketing Assets
 id: db7f063f-6080-4721-812c-be49574c6320
 project_roles:
   - graphic-designer

@@ -4,7 +4,7 @@ thumb: book-ebook-safety-company-design-isral-duke-t.png
 excerpt: A printed and ebook I designed to communicate the thought leadership of a safety training company.
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: Mission Statement and Corporate Philosophy Book
+title: Mission Statement and Philosophy Book
 id: 6caeeb47-310e-4bee-b6d7-a04a198eb691
 project_roles:
   - graphic-designer

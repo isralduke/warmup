@@ -6,7 +6,7 @@ excerpt: >
   culture lens.
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: Book Cover for Faux History Book
+title: Book Cover for History Book
 id: 10e84b70-6122-40bb-8a0f-8f6718cd981b
 project_roles:
   - graphic-designer

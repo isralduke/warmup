@@ -1,5 +1,5 @@
 ---
-title: Violinist Brand Assets, Duke Strings
+title: Violinist Brand Assets
 image: Jivka-Duke-Strings-Website-Logo-Business-Card-designed-by-isral-Duke.jpg
 thumb: Jivka-Duke-Strings-Website-Logo-Business-Card-designed-by-isral-Duke-t.jpg
 excerpt: Brand and website designed for a classically-trained violinist.

@@ -8,7 +8,7 @@ excerpt: >
   foundation.
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: House Leveling Illustration
+title: Home Services Illustration
 id: d7b348ca-e458-4b8c-b38e-40f9831e5d3f
 project_roles:
   - graphic-designer

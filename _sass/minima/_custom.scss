@@ -483,10 +483,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 		@extend .py-4;
 		.h1 {
 			@extend .m-0;
-			text-shadow: -1 1 0 $blue;
+			
 			small {
 				font-size: $spacer*1.5;
-				text-shadow: none;
+				
 			}
 		}
 	}
@@ -629,19 +629,13 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 					border-color: lighten($purple, 40%) transparent transparent transparent;
 				}
 			}
-		}
-			
+		}	
 	}
 	&.page-title {
 		border-top: 1px solid fade-out($white,.85);
 		@extend .bg-color-black;
 		@extend .text-white;
-		@extend .py-1;
-		
-		& .h2 {
-			text-shadow: -2px 2px 0 fade-out($white,.65);
-		}
-			
+		@extend .py-1;			
 	}
 	&.listing {
 		&.projects, &.articles {
@@ -700,7 +694,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 			}
 			.card-title {
 				@extend .text-grey-text;
-				text-shadow: -1px 1px 0 fade-out($black,.65);
 			}
 		}
 		&.articles {

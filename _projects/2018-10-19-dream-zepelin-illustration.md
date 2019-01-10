@@ -7,7 +7,7 @@ excerpt: 'This illustration is about patience when speed is possible, but not ad
 project_featured: true
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: Asleep Until I AM Ready
+title: Fantasy Illustration
 id: 6764d84a-9ab3-40ac-9fe3-8f7adbe45c3c
 project_roles:
   - graphic-designer

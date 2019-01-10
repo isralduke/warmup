@@ -9,7 +9,7 @@ images:
 excerpt: A Web application for safety training and certification of pipeline workers.
 employment_context:
   - aec4aea6-03b0-4d38-9609-78d27eb4420c
-title: Pinion LMS
+title: LMS UX &amp; UI
 id: f920db1d-a26f-414b-8171-e6f0aa5ece2b
 project_roles:
   - ux-designer

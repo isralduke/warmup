@@ -6,7 +6,7 @@ images:
 excerpt: Patent drawings for a patent successfully-submitted and granted, illustrated by me.
 employment_context:
   - 37c882a5-c0db-4390-a8e3-56cf493e11dd
-title: Patent Drawings
+title: Patent Illustrations
 id: 8e90e64e-9d1e-4c82-9b21-6bd28203235e
 project_roles:
   - graphic-designer

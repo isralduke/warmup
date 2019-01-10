@@ -8,7 +8,7 @@ images:
 excerpt: Blog Post graphics which I illustrated for STUN Design
 employment_context:
   - 04a7dfc7-41c1-4a19-862f-962794bd02a9
-title: Blog Post Illustrations for STUN Design
+title: Blog Post Illustrations
 id: ddfd2f06-dd99-4b10-8db3-3e2c283561ca
 project_roles:
   - graphic-designer

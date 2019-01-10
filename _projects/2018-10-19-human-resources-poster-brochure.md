@@ -5,7 +5,7 @@ excerpt: Human Resources assets to improve employee retention in a ship-building
 project_type: brand
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: Human Resources Poster and Brochure
+title: Human Resources Poster &amp; Brochure
 id: 57f8f6a0-20f2-4906-a775-73dd1e8cada9
 project_roles:
   - graphic-designer

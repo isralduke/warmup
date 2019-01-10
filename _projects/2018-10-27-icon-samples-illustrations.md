@@ -8,7 +8,7 @@ employment_context:
   - 37c882a5-c0db-4390-a8e3-56cf493e11dd
   - aec4aea6-03b0-4d38-9609-78d27eb4420c
   - e06b92e7-05de-45b3-87fc-a9aed063e6e8
-title: Icon Samples
+title: Various Icons
 id: d87cc48f-ee14-4ddf-8bef-153c1f1c2dc9
 project_roles:
   - graphic-designer

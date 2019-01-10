@@ -6,7 +6,7 @@ images:
 excerpt: An illustration I drew which is a musician who spends time in his composition space.
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: The Hermit Melody
+title: Character Illustration
 id: 6f283338-9c72-4052-bdf3-202315638ff7
 project_roles:
   - graphic-designer

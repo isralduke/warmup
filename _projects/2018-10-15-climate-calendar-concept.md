@@ -4,7 +4,7 @@ thumb: app-climate-calendar-concept-isral-duke-t.jpg
 excerpt: Low-fidelity UX and UI concept work for a climate awareness calendar.
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: Climate Calendar Concept
+title: Climate Calendar App Concept
 id: c632344d-a437-41c9-9d7d-52bab902e2eb
 project_roles:
   - ux-designer

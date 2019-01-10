@@ -5,7 +5,7 @@ excerpt: Brand assets for a company which did hardware prototyping, software pro
 project_type: brand
 employment_context:
   - 37c882a5-c0db-4390-a8e3-56cf493e11dd
-title: St James Technologies Brand Assets
+title: Hardware &amp; Software Engineering Branding
 id: 45ca61ee-d8b0-4ba5-b405-89278d7905a8
 project_roles:
   - graphic-designer

@@ -9,7 +9,7 @@ excerpt: >
   maintenance purposes.
 employment_context:
   - 37c882a5-c0db-4390-a8e3-56cf493e11dd
-title: Crane Data System UI
+title: Logistics Software UI
 id: e6d6cf1c-9979-445f-ac36-342d27f6b8d8
 project_roles:
   - frontend-developer

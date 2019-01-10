@@ -4,7 +4,7 @@ thumb: book-SafetyPro-Resources-Course-Catalog-designed-by-isral-Duke-t.png
 excerpt: Catalog of training courses for a safety training company.
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: Catalog of Training Courses
+title: Training Course Catalog
 id: 60249e83-7378-46b0-8042-2d181634fbb2
 project_roles:
   - graphic-designer

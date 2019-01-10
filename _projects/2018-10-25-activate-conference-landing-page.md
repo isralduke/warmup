@@ -4,7 +4,7 @@ thumb: activate-conference-2019-landing-page-designed-isral-duke-t.jpg
 excerpt: 'Activate Conference is a conference for all things interactive. '
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: Activate Conference 2019 Landing Page
+title: Conference Landing Page
 id: 701368c5-22ea-42a8-a0a1-ce1c0e943b6c
 project_roles:
   - ux-designer

@@ -5,7 +5,7 @@ excerpt: Marketing and brand assets for an upscale spirits merchant.
 project_type: brand
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: 'Brand Assets for Roux Wine & Spirits'
+title: Branding for Premium Drink Vendor
 id: 4b65410e-c285-4065-a81c-5c71e8fde240
 project_roles:
   - graphic-designer

@@ -5,7 +5,7 @@ excerpt: A personal touch travel agency got a personal touch of branding.
 project_type: brand
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
-title: ' Bespoke Travel Agency Branding'
+title: Travel Agency Branding
 id: 2c9c3465-3b14-445a-bff5-5bb6eec62343
 project_roles:
   - graphic-designer

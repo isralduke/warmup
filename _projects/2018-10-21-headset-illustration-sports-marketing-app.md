@@ -6,7 +6,7 @@ images:
 excerpt: A sports scouting iPad app icon.
 employment_context:
   - 60873a36-5847-4aff-a2bb-61c49d4ca824
-title: Headset Illustration for Sports Marketing App
+title: Illustration for Sports Marketing App
 id: 0f66d8c4-8a04-4746-a9fa-8760dc37b5ce
 project_roles:
   - graphic-designer

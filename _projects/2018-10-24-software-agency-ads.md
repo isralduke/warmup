@@ -9,7 +9,7 @@ excerpt: A sampling of print ads I designed for a software agency where I worked
 project_type: brand
 employment_context:
   - 60873a36-5847-4aff-a2bb-61c49d4ca824
-title: Magazine Print Ads for Software Agency
+title: Software Agency Print Ads
 id: c751e6bb-9895-41c9-a9c9-4c0a48159243
 project_roles:
   - graphic-designer

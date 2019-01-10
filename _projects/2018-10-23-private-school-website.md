@@ -9,7 +9,7 @@ images:
 excerpt: Website Design for a Private School
 employment_context:
   - e06b92e7-05de-45b3-87fc-a9aed063e6e8
-title: Private School Website Design
+title: School Website Design
 id: 977ed602-c818-477d-8fd7-3dd3d3ba9618
 project_roles:
   - graphic-designer
