@@ -7,4 +7,3 @@
 #
 layout: home
 ---
-<img src="https://www.dropbox.com/s/7ww2ij6qtiqf6u0/2012-08-23%2011.00.09%2013563560455.jpg?dl=0" />

@@ -6,9 +6,10 @@ layout: default
 	<div class="listing-items">
 		<div class="container-fluid">
 			<div class="row">
-				{% for project in site.projects %}
+				{% assign projects = (site.projects | sort: 'date') | reverse %}
+				{% for project in projects %}
 				<article class="col-12 col-sm-6 col-lg-4">
-					<a href="{{site.baseurl}}/{{project.url}}" class="card listing-item" title="see {{include.title}}">
+					<a href="{{site.baseurl}}{{project.url}}" class="card listing-item" title="see {{include.title}}">
 						<img class="img-fluid" src="{{site.baseurl}}/assets/images/projects/{{project.thumb}}" alt="Image of {{Project.imagealt}}">
 						<div class="card-body">
 							<h3 class="card-title h4 mb-0">{{project.title}}</h3>
