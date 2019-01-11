@@ -13,7 +13,8 @@ layout: default
 <section class="section site-description">
 	<h2 class="d-none">{{site.description}}</h2>	
 	<div class="site-sections">
-		{% for project in site.projects %}
+		{% assign projects = (site.projects | sort: 'date') | reverse %}
+		{% for project in projects %}
     {% if project.project_featured %}
 		<a href="{{site.baseurl}}{{project.url}}" class="site-section site-section-link" title="See Digital works by Isral Duke">
 			<img class="img-fluid img-project " src="{{site.baseurl}}/assets/images/projects/{{project.thumb}}" alt="Preview image for {{project.title}}">	
