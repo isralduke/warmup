@@ -4,7 +4,6 @@ thumb: illustration-Asleep-22278-design-isral-duke-t.jpg
 images:
   - illustration-Asleep-22278-design-isral-duke.jpg
 excerpt: 'This illustration is about patience when speed is possible, but not advised. '
-project_featured: true
 employment_context:
   - 04410262-0ec0-409f-8f71-99660b262015
 title: Fantasy Illustration

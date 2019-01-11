@@ -21,6 +21,7 @@ project_roles:
   - ux-designer
   - ui-designer
   - graphic-designer
+project_featured: true
 project_type:
   - app
 skills:
