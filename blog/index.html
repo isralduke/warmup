@@ -11,7 +11,7 @@ exclude: true
       {% for post in paginator.posts %}
       <div class="row">
         <div class="col-md-5 col-lg-4">
-          <img src="{{site.url}}/assets/images/blog/{{post.image}}" class="img-fluid" alt="" />
+          <img src="{{site.url}}/assets/images/blog/{{page.image}}" class="img-fluid" alt="" />
         </div>
         <div class="col-md-7 col-lg-8">
           <h3 class="h3"><a href="{{ post.url }}">{{ post.title }}</a></h3>
