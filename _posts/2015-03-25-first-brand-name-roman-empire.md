@@ -17,7 +17,7 @@ From the Gizmodo article,
 Ennion made me. Those were the words molded on glass vases and jars that survived centuries of dust, change, and trauma all over the classical world.
 </blockquote>
 
-<a href="http://gizmodo.com/the-first-brand-name-was-a-1st-century-roman-glassblowe-1693509526"><img src="http://www.dukebranding.com/artboards/uploads/2015/03/Ennion-Roman-Glassblower-Sample-image-from-Gizmodo.jpg" alt="Ennion Roman Glassblower Sample image from Gizmodo" class="size-full wp-image-4867" /></a> 
+<a href="http://gizmodo.com/the-first-brand-name-was-a-1st-century-roman-glassblowe-1693509526"><img src="/assets/images/blog/Ennion-Roman-Glassblower-Sample-image-from-Gizmodo.jpg" alt="Ennion Roman Glassblower Sample image from Gizmodo" class="size-full wp-image-4867" /></a> 
 You’ll note that the article speaks of Ennion as a Brand Manager. 
 
 What’s a Brand Manager? 
