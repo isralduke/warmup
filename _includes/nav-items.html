@@ -1,4 +1,5 @@
 {% for page in site.pages %}
+	{% unless page.exclude %}
 	{% if page.title %}
 	<li class="nav-list-item">
 		<a href="{{site.baseurl}}{{page.url}}" class="d-flex justify-content-center align-items-stretch nav-list-item-link" title="Go to {{page.title}}" tabindex="0">
@@ -6,4 +7,8 @@
 		</a>
 	</li>
 	{% endif %}
+	{% endunless %}
 {% endfor %}
+<li class="nav-list-item">
+		<a href="{{site.baseurl}}/blog/" class="d-flex justify-content-center align-items-stretch nav-list-item-link" title="" tabindex="0">Blog</a>
+	</li>
