@@ -8,7 +8,7 @@ layout: default
         </div>
     </div>
     <div class="container {% if page.image %} offset-vertical {% else page.image %} pt-6 {% endif %}">
-        {% if page.image %}
+        {% if post.image %}
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
                     <img class="img-fluid " src="{{site.url}}/assets/images/blog/{{ post.image }}" alt="{{ page.imagealt }}">
