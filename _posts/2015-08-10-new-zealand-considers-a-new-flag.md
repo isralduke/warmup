@@ -1,6 +1,6 @@
 ---
 title: New Zealand Considers a New Flag
-big_image: /assets/img/blog/Land_Of_The_Long_White_Cloud_Traditional_Blue__by_Mike_Archer.jpg
+image: Land_Of_The_Long_White_Cloud_Traditional_Blue__by_Mike_Archer.jpg
 aux_images:
   - 
     aux_image: /assets/img/blog/Tukutuku_by_Pax_Zwanikken.png
