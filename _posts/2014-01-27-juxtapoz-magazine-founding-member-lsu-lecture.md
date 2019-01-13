@@ -7,7 +7,7 @@ categories:
   - art
   - juxtapoz
 big_image_alt: Juxtapoz Founding Member Greg Escalante at LSU Art Lecture
-big_image: /assets/img/blog/Juxtapoz-Escalanted-LSU-Art-LEcture.jpg
+image: Juxtapoz-Escalanted-LSU-Art-LEcture.jpg
 aux_images: ""
 ---
 Juxtapoz Magazine is one of the best selling art magazines in the United States. Greg Escalante, one of the founders, gave a talk at LSU for its College of Art + Design Lecture Series. <!--more-->

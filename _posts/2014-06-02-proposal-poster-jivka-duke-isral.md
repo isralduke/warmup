@@ -7,7 +7,7 @@ categories:
   - proposal
   - love
 big_image_alt: Proposal Poster designed by Duke Branding
-big_image: /assets/img/blog/Proposal-Poster-designed-by-Duke-Branding.jpg
+image: Proposal-Poster-designed-by-Duke-Branding.jpg
 aux_images: ""
 ---
 We&rsquo;re ecstatic to announce that our Director Isral Duke is engaged!

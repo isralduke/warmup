@@ -4,10 +4,10 @@ excerpt: I am very happy to add some new portfolio items to my body of work from
 categories:
   - photography
 big_image_alt: Copper Pools Genesis Expanse ionizer, photographs by Duke Branding
-big_image: /assets/img/blog/Genesis-isometric.jpg
+image: Genesis-isometric.jpg
 aux_images:
   - 
-    aux_image: /assets/img/blog/CV-40-isometric.jpg
+    aux_image: CV-40-isometric.jpg
     aux_image_alt: Copper Pools CV 40 ionizer, photographs by Duke Branding
 ---
 I am very happy to add some new portfolio items to my body of work from a service that I have dabbled in very little, photography.

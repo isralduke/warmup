@@ -7,7 +7,7 @@ categories:
   - ancient art
   - anthropology
   - humanity
-big_image: /assets/img/blog/mental-floss-petroglyphs-IMAGE-CREDIT-LIDIA-ZOTKINA.jpg
+image: mental-floss-petroglyphs-IMAGE-CREDIT-LIDIA-ZOTKINA.jpg
 aux_images: ""
 big_image_alt: 'Image Credit: Lidia Zotkina.'
 twitter_description: Ancient art rocks. Duke Branding remarks on a Siberian Times report on new old petroglyphs.

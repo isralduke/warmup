@@ -6,7 +6,7 @@ categories:
   - icon
   - redesign
 big_image_alt: iOS 7 Screen Shots. What’s best for your client’s to understand what you intend to help them?
-big_image: /assets/img/blog/ios-7-designers-argue.png
+image: ios-7-designers-argue.png
 aux_images: ""
 ---
 When you reach out to a professional, a specialist or some discipline or another, you expect them to fully be aware of how to do their job. You also expect that one professional will have a differing opinion to another in that same field.

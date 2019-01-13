@@ -7,7 +7,7 @@ categories:
   - mythology
   - science
 big_image_alt: 'Earth Moon. Image Credit: By Apollo 8 crew member Bill Anders (NASA [1]) [Public domain], via Wikimedia Commons'
-big_image: /assets/img/blog/Earth-moon.jpg
+image: Earth-moon.jpg
 aux_images: ""
 ---
 The moon is a frequent element in human mythology and legends. It guided people on migratory travels, served as a time-keeping  reminder, fueled suspicion of hairy people, and is often blamed for bad behavior.

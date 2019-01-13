@@ -4,7 +4,7 @@ excerpt: 'We have a lot of reasons to be anxious: Will I pass that test? Will my
 categories:
   - spiritual
 big_image_alt: 'Philippians 4:11&ndash;12'
-big_image: /assets/img/blog/apostle-paul-models-being-content.png
+image: apostle-paul-models-being-content.png
 aux_images: ""
 ---
 <blockquote>“<em>What you don’t have / You don’t need it now / You don’t need it now</em>”

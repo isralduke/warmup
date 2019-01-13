@@ -1,13 +1,13 @@
 ---
 title: New Orleans, LA, USA Bead Artist, Stephan Wanger
 excerpt: Self-taught artist Stephan Wanger employs a unique mosaic art form which uses recycled Mardi Gras beads.
-big_image: /assets/img/blog/wanger-nola.jpg
+image: wanger-nola.jpg
 aux_images:
   - 
-    aux_image: /assets/img/blog/wanger-lsu.jpg
+    aux_image: wanger-lsu.jpg
     aux_image_alt: New Orleans Bead Artist, Stephan Wanger, LSU scene
   - 
-    aux_image: /assets/img/blog/wanger-fq.jpg
+    aux_image: wanger-fq.jpg
     aux_image_alt: New Orleans Bead Artist, Stephan Wanger, French Quarter scene
 big_image_alt: New Orleans Bead Artist, Stephan Wanger, New Orleans Panorama
 categories:

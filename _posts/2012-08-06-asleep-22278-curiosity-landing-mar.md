@@ -8,7 +8,7 @@ categories:
   - curiosity
   - illustration
 big_image_alt: Asleep 22278 illustrated by isral Duke
-big_image: /assets/img/blog/Asleep-22278-illustrated-by-isral-Duke.jpg
+image: Asleep-22278-illustrated-by-isral-Duke.jpg
 aux_images: ""
 ---
 This is called Asleep 22278 and it was finished on 6 August 2012, just two hours after Curiosity’s landing on Mars.

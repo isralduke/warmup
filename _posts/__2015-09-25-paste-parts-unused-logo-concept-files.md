@@ -4,7 +4,7 @@ excerpt: “Bits and Pieces for Your Logo Project Inspiration”
 categories:
   - logo
   - concepts
-big_image: /assets/img/blog/paste-parts-logo-projects-sale.png
+image: paste-parts-logo-projects-sale.png
 big_image_alt: Paste Parts Unused Logo Concepts
 twitter_description: Inspiration for Your Logo Project
 aux_images: ""

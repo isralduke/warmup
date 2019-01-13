@@ -4,7 +4,7 @@ categories:
   - art
   - spiritual
   - semiotics
-big_image: /assets/img/blog/Philippe_de_Champaigne_-_Annunciation_-_WGA04705.jpg
+image: Philippe_de_Champaigne_-_Annunciation_-_WGA04705.jpg
 aux_images: ""
 excerpt: '“The Annunciation” by Philippe de Champaigne, c.1648,  is an item in the Wallace Collection, a privately held collection in London, UK. '
 big_image_alt: 'Image above: “The Annunciation”, by Philippe de Champaigne, is an item in the Wallace Collection, a privately held collection in London, UK. Isral Duke claims no rights to this painting, he only made the photograph here with his own camera on vacation in London for the purposes of this blog entry'

@@ -4,7 +4,7 @@ excerpt: Internet Explorer 11 uses Flexbox but has a consideration to keep in mi
 categories:
   - css
   - websites
-big_image: /assets/img/blog/flexbox-text-wrap-ie11.png
+image: flexbox-text-wrap-ie11.png
 aux_images: ""
 twitter_description: Internet Explorer 11 uses Flexbox but has a consideration to keep in mind when using long lines of text.
 big_image_alt: Internet Explorer 11 uses Flexbox but has a consideration to keep in mind when using long lines of text.

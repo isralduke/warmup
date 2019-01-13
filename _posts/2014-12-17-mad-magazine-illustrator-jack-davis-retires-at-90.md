@@ -7,7 +7,7 @@ categories:
   - history
   - comics
 big_image_alt: Jack Davis pencil sketch
-big_image: /assets/img/blog/Jack-Davis-pencil-sketch.png
+image: Jack-Davis-pencil-sketch.png
 aux_images: ""
 ---
 Jack Davis, famous American illustrator who has worked on covers for Mad Magazine and Time, is retiring at 90! 

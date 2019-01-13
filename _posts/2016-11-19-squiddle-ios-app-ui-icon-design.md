@@ -1,6 +1,6 @@
 ---
 title: 'Squiddle iOS App UI & Icon Design'
-image: /assets/img/blog/squiddle-ios-app-mockup-designed-duke-branding.png
+image: squiddle-ios-app-mockup-designed-duke-branding.png
 aux_images: ""
 excerpt: Isral Duke designed the Icon and UI for the iOS App “Squiddle”
 big_image_alt: Squiddle iOS App Icon and User Interface designed by Isral Duke of Duke Design Agency

@@ -1,13 +1,13 @@
 ---
 title: Art Deco Society of Louisiana Organization Publicity Posters
 excerpt: 'The Art Deco Society of Louisiana (ADSL) promotes awareness of the rich aesthetic hsitory of Art Deco in Louisiana, USA. '
-big_image: /assets/img/blog/Art_Deco_Society_of_Louisiana_Organization_Publicity_Posters_designed_by_isral_Duke.png
+image: Art_Deco_Society_of_Louisiana_Organization_Publicity_Posters_designed_by_isral_Duke.png
 aux_images:
   - 
-    aux_image: /assets/img/blog/Art_Deco_Society_of_Louisiana_Organization_Publicity_Posters_designed_by_isral_Duke_1.png
+    aux_image: Art_Deco_Society_of_Louisiana_Organization_Publicity_Posters_designed_by_isral_Duke_1.png
     aux_image_alt: Art Deco Society of Louisiana Organization Publicity Posters designed by isral Duke
   - 
-    aux_image: /assets/img/blog/Art_Deco_Society_of_Louisiana_Organization_Publicity_Posters_designed_by_isral_Duke_2.png
+    aux_image: Art_Deco_Society_of_Louisiana_Organization_Publicity_Posters_designed_by_isral_Duke_2.png
     aux_image_alt: Art Deco Society of Louisiana Organization Publicity Posters designed by isral Duke
 categories:
   - art

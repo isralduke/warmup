@@ -8,7 +8,7 @@ categories:
   - logo
   - history
 big_image_alt: The Beatles’ dropped “T” logo.
-big_image: /assets/img/blog/beatles-dropped-t-logo.jpg
+image: beatles-dropped-t-logo.jpg
 aux_images: ""
 ---
 The Beatles are one of the most famous bands in western music and everyone knows their famous logo, with the &ldquo;droppedT.&rdquo; We learned a few things about this communications asset from the referenced article below.

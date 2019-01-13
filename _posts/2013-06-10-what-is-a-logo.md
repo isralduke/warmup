@@ -6,10 +6,10 @@ categories:
   - logo
   - adapt
 big_image_alt: Whitney Museum Logo on Membership Promotional Materials
-big_image: /assets/img/blog/Whitney-museum-logo-contexts.jpg
+image: Whitney-museum-logo-contexts.jpg
 aux_images:
   - 
-    aux_image: /assets/img/blog/whitney-museum-on-buttons.jpg
+    aux_image: whitney-museum-on-buttons.jpg
     aux_image_alt: Whitney Museum on Buttons
 ---
 What is a logo? For businesses, organizations, it&rsquo;s a mark that represents the essence of what your business does, what your organization accomplishes. But is it static or dynamic?

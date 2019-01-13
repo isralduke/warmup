@@ -6,7 +6,7 @@ categories:
   - inspiration
   - entrepreneur
 big_image_alt: Sir Richard Branson in Moscow, Russia. Photo by James Clear
-big_image: /assets/img/blog/main-qimg-ea4296dcd4b4e45678fcc70b2683ff8b.png
+image: main-qimg-ea4296dcd4b4e45678fcc70b2683ff8b.png
 aux_images: ""
 ---
 Business mogul Sir Richard Branson says you should just get on with your business idea. Well, that's not exactly what he said.

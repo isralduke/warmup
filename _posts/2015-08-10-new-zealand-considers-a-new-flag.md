@@ -3,10 +3,10 @@ title: New Zealand Considers a New Flag
 image: Land_Of_The_Long_White_Cloud_Traditional_Blue__by_Mike_Archer.jpg
 aux_images:
   - 
-    aux_image: /assets/img/blog/Tukutuku_by_Pax_Zwanikken.png
+    aux_image: Tukutuku_by_Pax_Zwanikken.png
     aux_image_alt: Tukutuku by Pax Zwanikken
   - 
-    aux_image: /assets/img/blog/Land_Of_The_Long_White_Cloud_by_Mike_Archer.jpg
+    aux_image: Land_Of_The_Long_White_Cloud_by_Mike_Archer.jpg
     aux_image_alt: Land Of The Long White Cloud by Mike Archer
 excerpt: New Zealand considers 40 designs in a move to select a new national flag.
 categories:

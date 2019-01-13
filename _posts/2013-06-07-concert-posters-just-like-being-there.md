@@ -6,7 +6,7 @@ categories:
   - posters
   - concert
 big_image_alt: Just Like Being There, documentary poster image
-big_image: /assets/img/blog/Just-Like-Being-There-header.jpg
+image: Just-Like-Being-There-header.jpg
 aux_images: ""
 ---
 What&rsquo;s the relationship between art and music? I think that music can be enjoyed over and over again by the musician playing the song and the fan listening to the music. But art can only be done once, just like that one concert you attended and loved. <!--more-->

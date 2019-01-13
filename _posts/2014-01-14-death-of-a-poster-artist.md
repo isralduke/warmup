@@ -6,7 +6,7 @@ categories:
   - music
   - posters
 big_image_alt: Gary Grimshaw Poster Artist image licensed to Levis Vintage Clothing
-big_image: /assets/img/blog/Gary-Grimshaw-Poster-Artist-image-licensed-to-Levis-Vntage-Clothing.png
+image: Gary-Grimshaw-Poster-Artist-image-licensed-to-Levis-Vntage-Clothing.png
 aux_images: ""
 ---
 Gary Grimshaw is a renowned and prolific poster artist. He recently passed but his work will live on to inspire younger poster artists for many years to come. 

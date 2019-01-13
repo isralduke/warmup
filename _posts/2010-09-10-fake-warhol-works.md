@@ -7,7 +7,7 @@ categories:
   - history
   - warhol
   - popart
-big_image: /assets/img/blog/Warhol-Brillo-Box-Copies.jpg
+image: Warhol-Brillo-Box-Copies.jpg
 aux_images: ""
 big_image_alt: Warhol Works Found to be Fake
 ---

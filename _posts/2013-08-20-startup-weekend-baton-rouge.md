@@ -5,7 +5,7 @@ categories:
   - weekend
   - business
 big_image_alt: Baton Rouge Startup Weekend
-big_image: /assets/img/blog/EP-130829992.jpg
+image: EP-130829992.jpg
 aux_images: ""
 ---
 <a href="http://batonrouge.startupweekend.org" title="Baton Rouge Startup Weekend" target="_blank">Baton Rouge Startup Weekend</a> is an event that thrusts creative, technical, and business people together to launch a business in 54 hours. It's part of <a href="http://startupweekend.org" title="Startup Weekend" target="_blank">Startup Weekend</a>, global organization designed to merge ideas and people to start a business.

@@ -7,7 +7,7 @@ categories:
   - politics
   - war
 big_image_alt: Pollock work at Tate Modern, UK
-big_image: /assets/img/blog/pollock-Tate-Modern.gif
+image: pollock-Tate-Modern.gif
 aux_images: ""
 ---
 An interesting article by The Independent suggests that modern art at one time was a tool for the CIA To promote American values among communists.

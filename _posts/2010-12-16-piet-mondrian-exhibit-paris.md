@@ -6,7 +6,7 @@ categories:
   - museum
   - dutch
   - mondrian
-big_image: /assets/img/blog/piet_mondrian_002_composizione_1929.jpg
+image: piet_mondrian_002_composizione_1929.jpg
 aux_images: ""
 big_image_alt: Piet Mondrian, Composition
 ---

@@ -6,7 +6,7 @@ categories:
   - startup weekend
   - entrepreneur
 big_image_alt: Startup Weekend, August 2013, Baton Rouge
-big_image: /assets/img/blog/startup-weekend-2013-baton-rouge.jpg
+image: startup-weekend-2013-baton-rouge.jpg
 aux_images: ""
 ---
 Most people use the weekend to get away from work, but our Director, Isral Duke, recently used one weekend to work <strong>even more</strong> than normal!

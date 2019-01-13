@@ -5,7 +5,7 @@ categories:
   - font design
   - museum
 big_image_alt: Cooper Hewitt is a museum of design based in New York, New York.
-big_image: /assets/img/blog/Cooper-Hewitt-Typeface-990x260.png
+image: Cooper-Hewitt-Typeface-990x260.png
 aux_images: ""
 ---
 Cooper Hewitt is a museum of design based in New York, New York. They've released to the public domain a free font available in desktop and webfont variants.

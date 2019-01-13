@@ -7,10 +7,10 @@ categories:
   - sprite
   - less css
 big_image_alt: Icon Sprite Made with LESS CSS
-big_image: /assets/img/blog/sprite-990x260.png
+image: sprite-990x260.png
 aux_images:
   - 
-    aux_image: /assets/img/blog/icon-sprite-full.png
+    aux_image: icon-sprite-full.png
     aux_image_alt: icon-sprite-full
 ---
 <h2>The Project</h2>

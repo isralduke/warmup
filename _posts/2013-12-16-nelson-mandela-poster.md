@@ -6,7 +6,7 @@ categories:
   - poster
   - history
 big_image_alt: Nelson Mandela Education Quote Poster designed by Duke Branding
-big_image: /assets/img/blog/Nelson-Mandela-Education-Quote-Poster-designed-by-Duke-Brandning.jpg
+image: Nelson-Mandela-Education-Quote-Poster-designed-by-Duke-Brandning.jpg
 aux_images: ""
 ---
 Nelson Mandela, a pivotal figure in South Africa's history, passed away on 5 December 2013.

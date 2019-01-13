@@ -5,7 +5,7 @@ categories:
   - history
   - music
 big_image_alt: 'Viola Organista. (Photo Credit: Tomasz Wiech/AFP)'
-big_image: /assets/img/blog/1384827483-0.jpg
+image: 1384827483-0.jpg
 aux_images: ""
 ---
 No one would deny that Leonardo da Vinci was a very accomplished person. He has a long string of achievements to his credit.

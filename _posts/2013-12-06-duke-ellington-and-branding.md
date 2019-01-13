@@ -6,7 +6,7 @@ categories:
   - history
   - branding
 big_image_alt: Duke Ellington and Billy Strayhorn photo from Steven Lasker Collection
-big_image: /assets/img/blog/Duke-Ellington-and-Billy-Strayhorn-photo-from-Steven-Lasker-Collection.jpg
+image: Duke-Ellington-and-Billy-Strayhorn-photo-from-Steven-Lasker-Collection.jpg
 aux_images: ""
 ---
 Duke Ellington is doubtless one of the top names in jazz, if not 20th century American music.

@@ -5,7 +5,7 @@ categories:
   - comics
   - illustration
 big_image_alt: Rude Tales Comic Cover illustrated by isral “Chris” Duke 1997
-big_image: /assets/img/blog/Rude-Tales-Comic-Cover-illustrated-by-isral-Duke-1997.jpg
+image: Rude-Tales-Comic-Cover-illustrated-by-isral-Duke-1997.jpg
 aux_images: ""
 ---
 I am extremely pleased to have found this cover that I drew from back in 1997 because I lost the originals a very, very long time ago.

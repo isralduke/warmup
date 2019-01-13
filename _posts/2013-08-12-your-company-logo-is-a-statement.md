@@ -6,7 +6,7 @@ categories:
   - logo
   - revenue
 big_image_alt: 'Famous, Big Company, Logos. Credit: 123Print'
-big_image: /assets/img/blog/big-company-logos.png
+image: big-company-logos.png
 aux_images: ""
 ---
 What does your company logo look like? <a href="http://www.entrepreneur.com/article/227766" target="_blank">Entrepreneur magazine says what any graphic designer will tell you: your logo is the first message you send about your service.</a>

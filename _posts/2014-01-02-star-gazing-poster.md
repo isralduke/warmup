@@ -7,7 +7,7 @@ categories:
   - literature
   - poster
 big_image_alt: Oscar Wilde quote poster designed by Duke Branding
-big_image: /assets/img/blog/Star-Gutter.jpg
+image: Star-Gutter.jpg
 aux_images: ""
 ---
 This poster, one of several designed for an educational setting, is inspired by literary giant Oscar Wilde. Wilde is well-known for his enthusiasm for life, so we thought to incorporate him into the collection of quotes to display to learners.

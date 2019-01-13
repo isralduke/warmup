@@ -8,7 +8,7 @@ categories:
   - semiotics
   - typography
 big_image_alt: Duke Branding blog graphic for the history of the @ character.
-big_image: /assets/img/blog/duke-branding-blog-history-at-character.svg
+image: duke-branding-blog-history-at-character.svg
 aux_images: ""
 ---
 Very good, very short, article on the history of the @ symbol. 

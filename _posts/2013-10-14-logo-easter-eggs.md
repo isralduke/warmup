@@ -5,7 +5,7 @@ categories:
   - logo
   - hidden
 big_image_alt: Tostitos Logo has two people in the logo sharing the chips and Tostito dip
-big_image: /assets/img/blog/tostitos.jpg
+image: tostitos.jpg
 aux_images: ""
 ---
 Software developers sometimes hide little features or surprises in their work. The hidden gems are called &ldquo;easter eggs&rdquo;. Well, there are some logos which have them too.

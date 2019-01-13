@@ -6,7 +6,7 @@ categories:
   - copyright
   - culture
 big_image_alt: Milton Glaser in his studio. Photo from The Independent UK.
-big_image: /assets/img/blog/milton-glaser-in-his-studio-independent-uk.png
+image: milton-glaser-in-his-studio-independent-uk.png
 aux_images: ""
 ---
 I think when the day that Designers are viewed as artists in their own right is the day we can stop having the plagiarism discussion. 

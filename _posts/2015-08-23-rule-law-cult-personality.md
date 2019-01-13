@@ -7,7 +7,7 @@ categories:
   - rule of law
   - freedom
   - dialogue
-big_image: /assets/img/blog/ARKANSAS-STATEHOUSE.jpg
+image: ARKANSAS-STATEHOUSE.jpg
 big_image_alt: Arkansas Statehouse
 twitter_description: The Rule of Law and Dialogue doesn’t need a statue to be interesting.
 aux_images: ""

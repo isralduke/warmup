@@ -5,7 +5,7 @@ categories:
   - website design
   - content management
 big_image_alt: Local Web Development Presentation of a Flat-File Content Management System
-big_image: /assets/img/blog/Local-Web-Development-Presentation-of-a-Flat-File-Content-Management-System-704x260.png
+image: Local-Web-Development-Presentation-of-a-Flat-File-Content-Management-System-704x260.png
 aux_images: ""
 ---
 Isral Duke, director of Duke Branding gave a presentation about using a flat-file content management system to a local web development and design group in Baton Rouge, LA. 

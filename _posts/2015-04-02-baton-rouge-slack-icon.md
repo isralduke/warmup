@@ -6,7 +6,7 @@ categories:
   - design
   - communication
 big_image_alt: Baton Rouge Slack Communication Icon designed by Duke Branding
-big_image: /assets/img/blog/Baton-Rouge-Slack-Communication-Icon-designed-by-Duke-Branding.png
+image: Baton-Rouge-Slack-Communication-Icon-designed-by-Duke-Branding.png
 aux_images: ""
 ---
 Slack is a popular messaging and productivity app for business that aims to replace email, file storage, and innovate a new way to power project communication.

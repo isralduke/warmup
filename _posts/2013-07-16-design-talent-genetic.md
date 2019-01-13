@@ -5,7 +5,7 @@ categories:
   - education
   - talent
   - work
-big_image: /assets/img/blog/photo-by-northern-life-canada.jpg
+image: photo-by-northern-life-canada.jpg
 aux_images: ""
 big_image_alt: Photo by Northern Life Canada
 ---

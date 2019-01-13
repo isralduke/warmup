@@ -1,7 +1,7 @@
 ---
 title: Golda Meir and the Birth of Israel by S. Brett Kaufman
 excerpt: When we look at art we often don’t have the luxury of having the artist with us to explain the work which we see.
-big_image: /assets/img/blog/Golda-Meir-by-Kaufman.jpg
+image: Golda-Meir-by-Kaufman.jpg
 aux_images: ""
 categories:
   - art

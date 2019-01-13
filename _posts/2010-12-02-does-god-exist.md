@@ -4,7 +4,7 @@ excerpt: "Let me start by positing that humanity is not the center of the univer
 categories:
   - theology
   - creativity
-big_image: /assets/img/blog/Creation-of-Adam-Michelangelo.jpg
+image: Creation-of-Adam-Michelangelo.jpg
 aux_images: ""
 big_image_alt: Creation of Adam, Michelangelo
 ---

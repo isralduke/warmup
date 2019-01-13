@@ -9,7 +9,7 @@ categories:
   - comics
   - protest
 big_image_alt: Courage, by isral Duke of Duke Branding, in memory of Assassinated French Cartoonists
-big_image: /assets/img/blog/Courage-by-isral-Duke-of-Duke-Branding-in-memory-of-Assassinated-French-Cartoonists.jpg
+image: Courage-by-isral-Duke-of-Duke-Branding-in-memory-of-Assassinated-French-Cartoonists.jpg
 aux_images: ""
 ---
 7 January 2015, Paris, a violent attack on a French satire magazine claimed the lives of several staff members.

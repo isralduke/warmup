@@ -5,7 +5,7 @@ categories:
   - branding
   - politics
 big_image_alt: Is it a matter of simple preference?
-big_image: /assets/img/blog/brand-loyalty.png
+image: brand-loyalty.png
 aux_images: ""
 ---
 It’s no surprise that people have preferences. This reply to <a href="http://adage.com/article?article_id=146663" target="_blank">this Advertising Age article</a> is not an explanation of why these preferences exist but an acknowledgement to the fact that preferential forces can be quantified, at least to an extent. While Advertising Age hasn’t said anything new, it’s another support to the fact that there’s patterns to be found in data. Patterns are valuable design tools. Advertising is most effective, or, creating conversions, when the message is nuanced just right for the receptacle.

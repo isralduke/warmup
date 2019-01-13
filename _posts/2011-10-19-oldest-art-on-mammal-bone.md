@@ -7,7 +7,7 @@ categories:
   - humanity
   - knowledge
 big_image_alt: Mammal Bone, oldest Art. National Geographic
-big_image: /assets/img/blog/mammoth-bone-oldest-art-americas_36837_600x450.jpg
+image: mammoth-bone-oldest-art-americas_36837_600x450.jpg
 aux_images: ""
 ---
 I firmly believe that ancient man, what some would refer to as the first homo sapiens, was just as intellectually capable as we are today.

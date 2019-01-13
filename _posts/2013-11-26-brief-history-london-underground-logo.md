@@ -6,7 +6,7 @@ categories:
   - history
   - london
 big_image_alt: London Underground Roundel Logo
-big_image: /assets/img/blog/London-Underground-Roundel-Logo.jpg
+image: London-Underground-Roundel-Logo.jpg
 aux_images: ""
 ---
 No, we didn&rsquo;t design it, someone else did.

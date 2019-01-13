@@ -4,7 +4,7 @@ categories:
   - typography
   - communication
   - education
-big_image: /assets/img/blog/abecedarium_anguliscum_scan.jpg
+image: abecedarium_anguliscum_scan.jpg
 aux_images: ""
 excerpt: We were taught by our professors and mentors that we should never detract from the legibility of the message.
 big_image_alt: Early Latin alphabet

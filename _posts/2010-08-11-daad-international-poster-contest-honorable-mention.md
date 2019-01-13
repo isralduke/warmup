@@ -1,7 +1,7 @@
 ---
 title: International Poster Content, Honorable Mention
 big_image_alt: DAAD Plakat designed by isral Duke
-big_image: /assets/img/blog/DAAD_Plakat_designed-by_isral_Duke.svg
+image: DAAD_Plakat_designed-by_isral_Duke.svg
 aux_images: ""
 excerpt: I was very excited to design a poster that manifested all of the aesthetic euphoriaI’d received by learning about the Bauhaus in my graphic design and classes at Louisiana State University.
 categories:

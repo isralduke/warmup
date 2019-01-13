@@ -5,7 +5,7 @@ categories:
   - art project
   - abstract art
   - science fiction
-big_image: '/assets/img/blog/Silent_Sights_isral_Duke_book_2.jpg'
+image: '/assets/img/blog/Silent_Sights_isral_Duke_book_2.jpg'
 big_image_alt: Silent Sights, Book Two, by Isral Duke, cover
 twitter_description: Silent Sights, Book Two, by Isral Duke. Memoirs from Deep Space
 aux_images: ""

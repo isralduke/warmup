@@ -1,6 +1,6 @@
 ---
 title: Pentagram Project is Pilfered by P. Diddy
-big_image: /assets/img/blog/seduction_pentagram_pdiddy.jpeg
+image: seduction_pentagram_pdiddy.jpeg
 aux_images: ""
 categories:
   - art

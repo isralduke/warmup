@@ -8,7 +8,7 @@ categories:
   - ipad
   - brightness
 big_image_alt: Tip for Resetting the Auto Brightness on Your iPhone or iPad
-big_image: /assets/img/blog/IMG_0818-560x271.png
+image: IMG_0818-560x271.png
 aux_images: ""
 ---
 We came across this tip earlier and thought it was too good to pass up, so we’re sharing it with you as well. It’s an easy way to reset the auto brightness feature on your iPhone or iPad.

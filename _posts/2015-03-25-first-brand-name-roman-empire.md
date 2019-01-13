@@ -1,7 +1,7 @@
 ---
 title: First Brand Name, from the Roman Empire
 big_image_alt: Ennion Roman Glassblower Sample image from Gizmodo
-big_image: /assets/img/blog/Ennion-Roman-Glassblower-Sample-image-from-Gizmodo.jpg
+image: Ennion-Roman-Glassblower-Sample-image-from-Gizmodo.jpg
 aux_images: ""
 categories:
   - history
