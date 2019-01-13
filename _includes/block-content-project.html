@@ -1,7 +1,7 @@
 <section class="section content content-project border-bottom ">
 	<div class="row no-gutters">
 		<div class="col-12 image-wrap">
-			<img src="{{site.baseurl}}/assets/images/projects/{{page.image}}" alt="Image for {{page.title}}" class="img-fluid img-project shadow" />
+			<img src="{{site.url}}/assets/images/projects/{{page.image}}" alt="Image for {{page.title}}" class="img-fluid img-project shadow" />
 		</div>
 	</div>		
 	<div class="container ">
@@ -32,8 +32,8 @@
 			<div class="col-12 col-md-9">
 				<div class="thumbnails">
 					{% for image in page.images %}
-						<a data-fancybox="gallery" href="{{site.baseurl}}/assets/images/projects/{{image}}" title="Additionl image for {{page.title}}, larger." class="">
-							<img class="img-fluid " src="{{site.baseurl}}/assets/images/projects/{{image}}" alt="Additional image for {{page.title}}.">
+						<a data-fancybox="gallery" href="{{site.url}}/assets/images/projects/{{image}}" title="Additionl image for {{page.title}}, larger." class="">
+							<img class="img-fluid " src="{{site.url}}/assets/images/projects/{{image}}" alt="Additional image for {{page.title}}.">
 						</a>
 					{% endfor %}
 				</div>
