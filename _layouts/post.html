@@ -7,7 +7,7 @@ layout: default
         <div class="overlay-content bg-image-overlay-color-white">
         </div>
     </div>
-    <div class="container {% if post.image %} offset-vertical {% else post.image %} pt-6 {% endif %}">
+    <div class="container {% if page.image %} offset-vertical {% else page.image %} pt-6 {% endif %}">
         <div class="row justify-content-center">
             <div class="col-12 col-md-10">
                 <img class="img-fluid " src="{{site.url}}/assets/images/blog/{{ page.image }}" alt="{{ post.imagealt }}">
