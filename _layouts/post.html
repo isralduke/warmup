@@ -8,22 +8,18 @@ layout: default
         </div>
     </div>
     <div class="container {% if post.image %} offset-vertical {% else post.image %} pt-6 {% endif %}">
-        {% if post.image %}
-            <div class="row justify-content-center">
-                <div class="col-12 col-md-10">
-                    <img class="img-fluid " src="{{site.url}}/assets/images/blog/{{ page.image }}" alt="{{ post.imagealt }}">
-                </div>
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-10">
+                <img class="img-fluid " src="{{site.url}}/assets/images/blog/{{ page.image }}" alt="{{ post.imagealt }}">
             </div>
-        {% endif %}
-        {% if content %}
-            <div class="row justify-content-center">
-                <div class="col-12 col-md-8">
-                    <article class="user-content">
-                        {{ content }}
-                    </article>
-                </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-8">
+                <article class="user-content">
+                    {{ content }}
+                </article>
             </div>
-        {% endif %}
+        </div>
     </div>
 </section>
 {% include block-employment.html %}
