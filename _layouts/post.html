@@ -1,11 +1,31 @@
 ---
 layout: default
 ---
-
-<h2>{{ page.title }}</h2>
-<time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
-
-<img src="/assets/images/blog/{{page.image}}" class="img-fluid" />
-
-
-{{ content }}
+<section class="section content content-basic border-bottom ">
+    {% include block-page-title.html %}
+    <div class="overlay-pin bg-image" style="background-image: url('{{site.url}}{{ page.background-image }}');">
+        <div class="overlay-content bg-image-overlay-color-white">
+        </div>
+    </div>
+    <div class="container {% if page.image %} offset-vertical {% else page.image %} pt-6 {% endif %}">
+        {% if page.image %}
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-10">
+                    <img class="img-fluid " src="{{site.url}}{{ page.image }}" alt="{{ page.imagealt }}">
+                </div>
+            </div>
+        {% endif %}
+        {% if content %}
+            <div class="row justify-content-center">
+                <div class="col-12 col-md-8">
+                    <article class="user-content">
+                        {{ content }}
+                    </article>
+                </div>
+            </div>
+        {% endif %}
+    </div>
+</section>
+{% include block-employment.html %}
+{% include block-skills.html     %}
+{% include block-education.html  %}
