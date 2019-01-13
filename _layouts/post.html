@@ -3,7 +3,7 @@ layout: default
 ---
 <section class="section content content-basic border-bottom ">
     {% include block-page-title.html %}
-    <div class="overlay-pin bg-image" style="background-image: url('{{site.url}}/assets/images/blog/{{ page.image }}');">
+    <div class="overlay-pin bg-image" style="background-image: url('{{site.url}}/assets/images/blog/{{ post.image }}');">
         <div class="overlay-content bg-image-overlay-color-white">
         </div>
     </div>
@@ -11,7 +11,7 @@ layout: default
         {% if page.image %}
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10">
-                    <img class="img-fluid " src="{{site.url}}/assets/images/blog/{{ page.image }}" alt="{{ page.imagealt }}">
+                    <img class="img-fluid " src="{{site.url}}/assets/images/blog/{{ post.image }}" alt="{{ page.imagealt }}">
                 </div>
             </div>
         {% endif %}
