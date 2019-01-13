@@ -6,8 +6,7 @@ categories:
   - religion
   - spiritual
 big_image_alt: Does religious imagery cheapen faith?
-big_image: /assets/img/blog/does-religious-imagery-cheapen-faith.jpg
-aux_images: ""
+image: does-religious-imagery-cheapen-faith.jpg
 ---
 We use images to communicate ideas and knowledge. We’ve used images to communicate records, stories. 
 
