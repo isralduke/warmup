@@ -3,11 +3,10 @@ title: Blog
 layout: default
 exclude: true
 ---
-
+{%  include block-page-title.html %}
 <section class="section listing projects">
 	<div class="listing-items">
-		<div class="container-fluid">
-      {%  include block-page-title.html %}
+		<div class="container">
       {% for post in paginator.posts %}
       <div class="row">
         <div class="col-md-5 col-lg-4">
