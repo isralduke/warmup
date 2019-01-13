@@ -16,8 +16,8 @@ layout: default
 		{% assign projects = (site.projects | sort: 'date') | reverse %}
 		{% for project in projects %}
     {% if project.project_featured %}
-		<a href="{{site.baseurl}}{{project.url}}" class="site-section site-section-link" title="See Digital works by Isral Duke">
-			<img class="img-fluid img-project " src="{{site.baseurl}}/assets/images/projects/{{project.thumb}}" alt="Preview image for {{project.title}}">	
+		<a href="{{site.url}}{{project.url}}" class="site-section site-section-link" title="See Digital works by Isral Duke">
+			<img class="img-fluid img-project " src="{{site.url}}/assets/images/projects/{{project.thumb}}" alt="Preview image for {{project.title}}">	
 			<h3 class="h4">{{project.title}}</h3>
 		</a>
     {% endif %}
