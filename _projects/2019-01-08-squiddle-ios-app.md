@@ -23,6 +23,7 @@ skills:
   - ux-design
   - ui-design
   - adobe-creative-cloud
+redirect_from: "/digital/squiddle-ios-app"
 ---
 <p><strong>Squiddle is a free note taking and sketch app on the App Store. It’s meant to be fun and easy for the user without being ugly or sparse.</strong>
 </p>
