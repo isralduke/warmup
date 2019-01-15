@@ -25,9 +25,12 @@ title: Where did that page go?
 	<div class="row no-gutters">
 		{% assign projects = (site.projects | sort: 'date') | reverse %}
 				{% for project in projects %}
-				<article class="col-12 col-sm-6 col-lg-2 mb-0">
+				<article class="col-12 col-sm-6 col-lg-2">
 					<a href="{{site.url}}{{project.url}}" class="card listing-item" title="see {{include.title}}">
 						<img class="img-fluid" src="{{site.url}}/assets/images/projects/{{project.thumb}}" alt="Image of {{project.imagealt}}">
+						<div class="card-body">
+							<h3 class="card-title h4 mb-0">{{project.title}}</h3>
+						</div>
 					</a>	
 				</article>
 		{% endfor %}
