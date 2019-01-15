@@ -22,3 +22,28 @@ layout: default
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
 </div>
+
+{% include block-page-title.html %}
+<section class="section site-title">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<h1 class="h1">Designer. <br class="d-block d-md-none"/><small>UX. Interaction. Graphic. UI.</small></h1>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="section site-description">
+	<h2 class="d-none">{{site.description}}</h2>	
+	<div class="site-sections">
+		{% assign projects = (site.projects | sort: 'date') | reverse %}
+		{% for project in projects %}
+    {% if project.project_featured %}
+		<a href="{{site.url}}{{project.url}}" class="site-section site-section-link" title="See Digital works by Isral Duke">
+			<img class="img-fluid img-project " src="{{site.url}}/assets/images/projects/{{project.thumb}}" alt="Preview image for {{project.title}}">	
+			<h3 class="h4">{{project.title}}</h3>
+		</a>
+    {% endif %}
+		{% endfor %}
+	</div>
+</section>
