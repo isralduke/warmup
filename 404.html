@@ -24,10 +24,10 @@ exclude: true
 </section>
 <section class="section content">
 	<div class="row no-gutters">
-		{% assign projects = (site.projects | sort: 'date') | reverse | sample:10) %}
+		{% assign projects = (site.projects | sort: 'date' | reverse | sample:10) %}
 				{% for project in projects %}
 				<article class="col-12 col-sm-6 col-lg-2 mb-0">
-					<a href="{{site.url}}{{project.url}}" class="card listing-item" title="see {{include.title}}">
+					<a href="{{site.url}}{{project.url}}" class="card " title="see {{include.title}}">
 						<img class="img-fluid" src="{{site.url}}/assets/images/projects/{{project.thumb}}" alt="Image of {{project.imagealt}}">
 							<p class="card-title mb-0">{{project.title}}</p>
 					</a>	
