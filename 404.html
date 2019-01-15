@@ -27,10 +27,8 @@ exclude: true
 		{% assign projects = site.projects | sort: 'date' | reverse %}
 				{% for project in projects %}
 				<article class="col-12 col-sm-6 col-lg-2 mb-0">
-					<a href="{{site.url}}{{project.url}}" class="card listing-item" title="see {{include.title}}">
+					<a href="{{site.url}}{{project.url}}" class="card listing-item mb-0" title="see {{include.title}}">
 						<img class="img-fluid" src="{{site.url}}/assets/images/projects/{{project.thumb}}" alt="Image of {{project.imagealt}}">
-							<p class="card-title mb-0">{{project.title}}</p>
-
 					</a>	
 				</article>
 		{% endfor %}
