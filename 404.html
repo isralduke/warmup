@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Where did that page go?
 ---
 
 
@@ -29,7 +30,7 @@ layout: default
 	</div>
 </section>
 <section class="section content">
-	<div class="row">
+	<div class="row no-gutters">
 		{% assign projects = (site.projects | sort: 'date') | reverse %}
 				{% for project in projects %}
 				<article class="col-12 col-sm-6 col-lg-2">
@@ -40,7 +41,7 @@ layout: default
 						</div>
 					</a>	
 				</article>
-				{% endfor %}
+		{% endfor %}
 	</div>
 </section>
 {% include block-employment.html %}
