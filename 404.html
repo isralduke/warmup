@@ -22,7 +22,7 @@ exclude: true
 </section>
 <section class="section content">
 	<div class="row no-gutters">
-		{% assign projects = site.projects | random | limit:10 %}
+		{% assign projects = site.projects | sort: 'random' | limit:10 %}
 				{% for project in projects %}
 				<article class="col-12 col-sm-6 col-md-3 col-lg-2 mb-0">
 					<a href="{{site.url}}{{project.url}}" class="card mb-0" title="see {{include.title}}">
