@@ -6,6 +6,7 @@ background-image: /assets/images/biophotos/isral-duke-drawing.jpg
 image: /assets/images/biophotos/isral-duke-drawing.jpg
 imagealt: Isral Duke drawing in his sketchbook.
 excerpt: During the work day, Isral Duke is an Interaction Designer, a UX Designer, a Graphic Designer, and a Frontend Designer.
+exclude: true
 ---
 
 <!-- ### During the work day I am an Interaction Designer, a UX Designer, a Graphic Designer, and a Frontend Designer. -->
