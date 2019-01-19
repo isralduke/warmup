@@ -274,7 +274,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 		height: 100%;
 	}
 	&-overlay-color-white {
-		background-color: fade-out($white, .25);
+		background-color: fade-out($white, .9);
 		height: 100%;
 	}
 	@include media-breakpoint-up(md){
@@ -325,7 +325,6 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	margin-top: $spacer*7*-1;
 	img {
 		@extend .shadow-huge;
-		
 		@extend .mb-3;
 	}
 	@include media-breakpoint-up(md){
