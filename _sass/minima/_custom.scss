@@ -451,8 +451,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	color: $white;
 	display: flex;
 	flex-direction: column;
+  text-align:center;
 	justify-content: center;
-	padding: $spacer*.5 $spacer;
+	padding: $spacer;
 	max-height: 100%;
 	transition: background-color $easing $speed;
 	&:hover, &:active {
