@@ -1,0 +1,59 @@
+---
+title: Articles
+htmlClass: background-light
+layout: default
+---
+{% assign image = site.posts.first.images[0] %}
+{% include big-title-space.html image=image %}
+<main class="pb-16 pb-md-0 mt-4"> 
+<div class="container">
+	{% assign posts = site.posts | sort: 'date' | reverse %}
+	{% for post in paginator.posts %}
+	{% assign image = post.images[0] %}
+	<div class="row align-items-start align-items-md-end mb-md-8">
+		<div class="col-12 col-md-6 mb-4 mb-md-0">
+			<a title="Read {{post.title}}" href="{{site.baseurl}}{{post.url}}" class="">
+				<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='tall{{id}}' />
+			</a>
+		</div>
+		<div class="col-12 col-md-6">
+			<h3 class="h3">{{post.title}}</h3>
+			<p class="">{{post.excerpt}}</p>
+			<a title="Read {{post.title}}" href="{{site.baseurl}}{{post.url}}" class="btn btn-azure">Read This</a>
+		</div>
+	</div>
+	<hr class="d-block my-4 d-md-none">
+	{% endfor %}					
+</div>
+<hr>					
+<div class="container-fluid paginator">
+	<div class="row">
+		<div class="col-12 col-md-6 ml-md-auto">
+			{% if paginator.total_pages > 1 %}
+			<ul class="pagination justify-content-center justify-content-md-start">
+				{% if paginator.previous_page %}
+					<li class="page-item text-center"><a class="page-link" href="{{site.baseurl}}{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; </a></li>
+					
+				{% endif %}
+
+				{% for page in (1..paginator.total_pages) %}
+					{% if page == paginator.page %}
+						<li class=" flex-fill page-item text-center"><a class="page-link active">{{ page }}</a></li>
+					{% elsif page == 1 %}
+						<li class=" flex-fill page-item text-center"><a class="page-link" href="/articles">{{ page }}</a></li>
+					{% else %}
+						<li class=" flex-fill page-item text-center"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+					{% endif %}
+				{% endfor %}
+
+				{% if paginator.next_page %}
+				<li class="page-item text-center"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"> &raquo;</a></li>
+				
+				{% endif %}
+
+			</ul>
+			{% endif %}
+		</div>
+	</div>
+</div>
+</main>

@@ -1,0 +1,37 @@
+<hr class="mt-8">
+<div class="py-4 py-md-8 bg-white">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<h2 class="h2">Skills</h2>
+			</div>
+				<div class="col-12 col-md-4">
+					<h5>Design</h5>
+					<p>
+						{% assign design = site.skills | where:'group','design' %}
+						{% for skill in design %}
+						<span class="badge badge-azure">{{skill.title}}</span>
+						{% endfor %}
+					</p>
+				</div>
+				<div class="col-12 col-md-4">
+					<h5>Technical</h5>
+					<p>
+						{% assign technical = site.skills | where:'group','technical' %}
+						{% for skill in technical %}
+						<span class="badge badge-violet">{{skill.title}}</span>
+						{% endfor %}
+					</p>
+				</div>
+				<div class="col-12 col-md-4">
+					<h5>User-Centric</h5>
+					<p>
+						{% assign usercentric = site.skills | where:'group','usercentric' %}
+						{% for skill in usercentric %}
+						<span class="badge badge-gold">{{skill.title}}</span>
+						{% endfor %}
+					</p>
+				</div>
+		</div>
+	</div>
+</div>

@@ -1,0 +1,66 @@
+<hr>
+<div class="container-fluid paginator">
+	<div class="row">
+		<div class="col-12 col-md-6 ml-md-auto">
+			<nav aria-label="Page navigation example">
+				
+				<ul class="pagination justify-content-center justify-content-md-start">
+					{{ if prev_page }}
+						<li class="page-item"><a class="page-link" href="{{ prev_page }}">&laquo;</a></li>
+					{{ else }}
+						<li class="page-item disabled"><a class="page-link">&laquo;</a></li>
+					{{ /if }}
+	
+					{{ links:segments }}
+			
+						{{ first }}
+							{{ if page == current_page }}
+								<li class="page-item active"><a class="page-link">{{ page }}</a></li>
+							{{ else }}
+								<li class="page-item"><a class="page-link" href="{{ url }}">{{ page }}</a></li>
+							{{ /if }}
+						{{ /first }}
+
+						{{ last }}
+							{{ if page == current_page }}
+								<li class="page-item active"><A class="page-link">{{ page }}</A></li>
+							{{ else }}
+								<li class="page-item "><a class="page-link" href="{{ url }}">{{ page }}</a></li>
+							{{ /if }}
+						{{ /last }}
+			
+					{{ /links:segments }}
+			
+					{{ if next_page }}
+						<li class="page-item "><a class="page-link"href="{{ next_page }}">&raquo;</a></li>
+					{{ else }}
+						<li class="page-item disabled"><a class='page-link'>&raquo;</a></li>
+					{{ /if }}
+				</ul>
+			
+			</nav>
+		</div>
+	</div>
+</div>
+
+
+				
+				
+<!-- Pagination links -->
+<div class="pagination">
+	{% if paginator.previous_page %}
+	  <a href="{{ paginator.previous_page_path }}" class="previous">
+		Previous
+	  </a>
+	{% else %}
+	  <span class="previous">Previous</span>
+	{% endif %}
+	<span class="page_number ">
+	  Page: {{ paginator.page }} of {{ paginator.total_pages }}
+	</span>
+	{% if paginator.next_page %}
+	  <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+	{% else %}
+	  <span class="next ">Next</span>
+	{% endif %}
+  </div>

@@ -1,0 +1,30 @@
+{% case page.employer %}
+	{% when 'dda' %}
+		{% assign logo = 'duke-design-agency-logo.svg' %}
+		{% assign emp  = 'Duke Design Agency' %}
+	{% when 'itbd' %}
+		{% assign logo = 'it-by-design-logo.svg' %}
+		{% assign emp  = 'I.T. by Design' %}
+	{% when 'sjt' %}
+		{% assign logo = 'st-james-technologies-logo.svg' %}
+		{% assign emp  = 'St. James Technologies' %}
+	{% when 'plms' %}
+		{% assign logo = 'pinion-lms-logo.svg' %}
+		{% assign emp  = 'Pinion LMS' %}
+	{% when 'stun' %}
+		{% assign logo = 'stun-design-logo.svg' %}
+		{% assign emp  = 'Stun Design' %}
+	{% when 'envoc' %}
+		{% assign logo = 'envoc-logo.svg' %}
+		{% assign emp  = 'Envoc' %}
+	{% else %}
+{% endcase %}
+<div class="row">
+	<div class="col-12">
+		<div class="card">
+			<div class="card-body">
+				<img src="{{site.baseurl}}/assets/logos/{{logo}}" alt="Isral Duke designed this working for {{emp}}" class="img-fluid">
+			</div>
+		</div>
+	</div>
+</div>					

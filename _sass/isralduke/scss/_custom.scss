@@ -1,0 +1,196 @@
+html, body {
+	min-height: 100vh;
+}
+body {
+	padding-top: 48px;
+}
+h1, .h1 {
+	font-family: $font-weight-bolder;
+}
+.background-gradient-brand {
+	background: $azure;
+	background: linear-gradient(135deg, rgba(0,130,187,1) 0%, rgba(149,45,152,1) 50%, rgba(224,0,52,1) 100%);;
+}
+.background-dark {
+	background-color: #000000;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpolygon fill='%230c0c0c' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%23181818' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%23252525' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%23313131' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%233d3d3d' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
+	background-attachment: fixed;
+	background-size: cover;
+	@extend .text-white;
+}
+.background-light {
+	background-color: #e6e7e8;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg %3E%3Cpolygon fill='%23eaebec' points='1600 160 0 460 0 350 1600 50'/%3E%3Cpolygon fill='%23edeeef' points='1600 260 0 560 0 450 1600 150'/%3E%3Cpolygon fill='%23f1f2f3' points='1600 360 0 660 0 550 1600 250'/%3E%3Cpolygon fill='%23f4f5f6' points='1600 460 0 760 0 650 1600 350'/%3E%3Cpolygon fill='%23f8f9fa' points='1600 800 0 800 0 750 1600 450'/%3E%3C/g%3E%3C/svg%3E");
+	background-attachment: fixed;
+	background-size: cover;
+	@extend .text-dark;
+}
+
+.big-title-space {
+	@extend .background-gradient-brand;
+	padding: $spacer 0;
+	@extend .position-relative;
+	.overlay {
+		@extend .position-absolute;
+		width: 100%; height: 100%;
+		top: 0; left: 0;
+		background-position: center center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		opacity: .25;
+	}
+	@include media-breakpoint-up(md){
+		padding: $spacer*4 0;
+	}
+}
+.big-title-text {
+	@extend .h2;
+	@extend .text-white;
+	text-shadow: 0 5px 0 fade-out($black, .50);			
+}
+svg.social-icon {
+	width: 28px; height: 28px;
+	fill: $white;
+}
+.shadow-large {
+	box-shadow: 16px 16px 4px 0 rgba(0,0,0,.25);
+}
+.shadow-small {
+	box-shadow: 4px 4px 4px 0 rgba(0,0,0,.25);
+}
+
+.align-self-center {
+	align-self: center;
+}
+.content {
+	
+}
+.nav-link {
+	a {
+		@extend .h-100;
+		@extend .d-flex;
+		@extend .text-white;
+		@extend .justify-content-center;
+		@extend .align-items-center;
+		padding-right: 20px;
+		padding-left: 20px;
+		transition: all 250ms ease-out;
+		&:hover, &:active {
+			background: $brand-gradient-1;
+		}
+	}
+}
+.nav-top, .nav-bottom {
+	.nav-link {
+		@extend .p-0;
+	}
+}
+.nav-top {
+	background-color: fade-out($gray-800, .05);
+	.nav-link-text {
+		display: none;
+		@include media-breakpoint-up(md){
+			display: block;
+		}
+	}
+	.nav-link-icon {
+		
+		
+	
+		@include media-breakpoint-down(sm){
+			margin-right: 10px;
+			a {
+				padding-right: 6px;
+				padding-left:  6px;
+				svg {
+					width: 24px; height: 24px;
+				}	
+			}
+		}	
+	}
+}
+.nav-bottom {
+	justify-content: center;
+	.nav-link {
+		a {
+			@extend .py-4;
+		}
+	}
+	@include media-breakpoint-down(sm){
+		
+		.nav-link-text {
+			width: calc(33%);
+		}
+	}
+	.nav-link-icon {
+		display: none;
+		@include media-breakpoint-up(md){
+			display: block;
+		}
+	}
+}
+hr {
+	margin: 0;
+	border-top: 4px solid $gray-500;
+}
+.paginator {
+	background-color: $gray-300;
+	@extend .pt-3;
+}
+.pagination {
+	& ul {
+		box-shadow: 0 2px 2px 0 fade-out($black, .75);
+	}
+}
+.page-link {
+	&.active {
+		background-color: lighten($azure,50%);
+		&:hover {
+			background-color: lighten($azure,50%);
+		}
+	}
+	&:hover {
+	  z-index: 2;
+	  color: $pagination-hover-color;
+	  text-decoration: none;
+	  background-color: $pagination-hover-bg;
+	  border-color: $pagination-hover-border-color;
+	}
+	&:focus {
+	  z-index: 2;
+	  outline: $pagination-focus-outline;
+	  box-shadow: $pagination-focus-box-shadow;
+	}
+  }
+.footer {
+	background-color: $black;
+	@include media-breakpoint-down(sm){
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+	}
+}
+.img-fluid {
+	border-radius: $border-radius;
+}
+.home {
+	img {
+		border-radius: 0;
+	}
+}
+.excerpt {
+	color: $violet;
+	@extend .background-gradient-brand;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.trigger {
+	&:hover {
+		cursor: pointer;
+	}
+}
+blockquote {
+	padding: $spacer*.5 $spacer;
+	border-left: 4px solid $gray-500;
+	font-style: italic;
+}

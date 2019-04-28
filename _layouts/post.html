@@ -1,31 +1,80 @@
 ---
 layout: default
 ---
-<section class="section content content-basic border-bottom ">
-    <div class="" style="background-image: url('{{site.url}}/assets/images/blog/{{ page.image }}');">
-        <div class="bg-image-overlay-color-white py-5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12">
-                        <h2 class="h2 ">{{page.title}}</h2>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container mt-2">
-        <div class="row justify-content-around">
-            <div class="col-12 col-md-4 col-lg-7">
-                <img class="img-fluid w-100 shadow-huge" src="{{site.url}}/assets/images/blog/{{ page.image }}" alt="{{ post.imagealt }}">
-            </div>
-            <div class="col-12 col-md-8 col-lg-5">
-                <article class="user-content">
-                    {{ content }}
-                </article>
-            </div>
-        </div>
-    </div>
-</section>
-{% include block-employment.html %}
-{% include block-skills.html     %}
-{% include block-education.html  %}
+{% if page.project == 'project'%}
+<main class=" pb-20 pb-md-0">
+	<div class="bg-dark bg-black background-black">
+		<div class="container-fluid">
+			<div class="row no-gutters">
+				<div class="col-12 mt-md-4">
+					<div class="media">
+						<h2 class="badge badge-light mt-2 mr-2">{{page.project_type|upcase}}</h2>
+						<div class="media-body">
+							<h3 class="h3 text-white">{{page.title}}</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row gallery">
+				<div class="col-12 {% if page.images.size > 1 %} col-md-8 col-lg-9 {% endif %} mb-4">
+					{% assign image = page.images[0] %}
+					<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='img0' />
+				</div>
+				{% if page.images.size > 1 %} 
+					<div class="col-12 col-md-4 col-lg-3">
+						<div class="row thumbs">
+							{% for image in page.images limit:3 %}
+								<div class="col-6 col-lg-12 mb-2">
+									<a class="trigger" data-caption="Image showing {{page.title}} in a real life setting.">
+										<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='thumb{{forloop.index}}' />
+									</a>	
+								</div>
+							{% endfor %}
+						</div>
+					</div>
+				{% endif %}
+			</div>
+		</div>
+	</div>
+	<div class="container mt-8">
+		<div class="row justify-content-center">
+			<div class="col-12 col-md-10 col-lg-8 order-1 order-md-0">
+				<article class="content">
+					{{page.content}}
+				</article>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 mb-4 mb-md-0 order-0 order-md-1">
+				{% include employer-credit.html %}
+			</div>
+		</div>
+	</div>
+	{% include skills-block.html %}
+	{% include edu-emp-block.html %}
+</main>
+{% else %}
+{% assign image = page.images[0] %}
+{% include big-title-space.html %}
+<main class=" pb-20 pb-md-1">
+	{% assign image = page.image[0] %}
+	<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='tall{{id}}' />
+	<div class="container mt-8">
+		<div class="row justify-content-center">
+			<div class="col-12 col-md-6 ">
+				<article class="content">
+					{{page.content}}	
+				</article>
+			</div>
+			<div class="col-12 col-md-6 gallery">
+				<div class="row">
+					{% for image in page.images %}
+					<div class="col-12 {% if forloop.index == 1 %} mt-md-n20 {% endif %} mb-4">
+						<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='tall{{id}}' />
+					</div>
+					{% endfor %}
+				</div>
+					
+			</div>
+		</div>
+	</div>
+</main>
+{% endif %}

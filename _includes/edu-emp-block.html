@@ -1,0 +1,29 @@
+<hr>
+<div class="py-4 py-md-8 bg-white">
+	<div class="container">
+		<div class="row justify-content-between">
+			<div class="col-12 col-md-6">
+				<h3 class="h3">Employment</h3>
+				<div class="row align-items-center">
+					{% assign employers = site.employers %}
+					{% for employer in employers %}
+					<div class="col-6 col-md-4">
+						<img src="{{site.baseurl}}{{employer.employer_logo}}" alt="{{employer.title}} Logo." class="img-fluid">
+					</div>
+					{% endfor %}
+				</div>
+			</div>
+			<div class="col-12 col-md-5">
+				<h3 class="h3">Education</h3>
+				<div class="row align-items-center">
+					{% assign educations = site.educations %}
+					{% for education in educations %}
+					<div class="col-6 col-md-4">
+						<img src="{{site.baseurl}}{{education.education_logo}}" alt="{{education.title}} Logo." class="img-fluid">
+					</div>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

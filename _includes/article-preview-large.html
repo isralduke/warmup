@@ -1,0 +1,21 @@
+<div class="row align-items-end mb-md-8">
+	<div class="col-4 col-md-6">
+		<a href="{{url}}" title="Read {{title}}">
+			{%- if project_details -%}
+				{%- include picture-preview.html -%}
+			{%- else -%}
+				{%- include picture-preview.html -%}
+			{%- endif -%}
+		</a>
+	</div>
+	<div class="col-8 col-md-6">
+		<h3 class="h3">{{title}}</h3>
+		{%- if project_details -%}
+			<p class="d-none d-md-block">{{page.excerpt}}</p>
+		{%- else -%}
+			<p class="d-none d-md-block">{{page.excerpt}}</p>
+		{%- endif -%}
+		<a title="Read {{title}}" href="{{url}}" class="btn btn-azure">Read This</a>
+	</div>
+</div>
+<hr class="d-block my-4 d-md-none">

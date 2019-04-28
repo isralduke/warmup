@@ -1,16 +1,13 @@
-{% for page in site.pages %}
-	{% unless page.exclude %}
-	{% if page.title %}
-	<li class="nav-list-item">
-		<a href="{{site.url}}{{page.url}}" class="d-flex justify-content-center align-items-stretch nav-list-item-link" title="Go to {{page.title}}" tabindex="0">
-			{{ page.title }}
-		</a>
-	</li>
-	{% endif %}
-	{% endunless %}
-{% endfor %}
-{% comment %}
-<li class="nav-list-item">
-	<a href="{{site.baseurl}}/blog/" class="d-flex justify-content-center align-items-stretch nav-list-item-link" title="" tabindex="0">Blog</a>
+{%- for item in site.data.navigation -%}
+<li role="listitem" class="nav-link nav-link-text">
+	<a href="{{site.baseurl}}{{ item.link }}" {% if item.highlight %}style="border: 1px solid red;"{% endif %} {% if item.link == page.url %}class="active"{% endif %} title="Go to {{page.title}}.">
+		{{ item.name }}
+	</a>
+</li>			
+{%- endfor -%}
+<li role="listitem" class="nav-link nav-link-icon social-icon">
+	<a class="" href="https://twitter.com/isralduke" title="See Isral Duke on Twitter" target="_blank">{%-  include icon-twitter.html -%}</a>
 </li>
-{% endcomment %}
+<li role="listitem" class="nav-link nav-link-icon social-icon">
+	<a class="" href="https://www.linkedin.com/in/isralduke" title="Connect with Isral Duke on Linked In" target="_blank">{%-  include icon-linkedin.html -%}</a>
+</li>

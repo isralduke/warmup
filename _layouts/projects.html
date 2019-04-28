@@ -1,23 +1,23 @@
 ---
 layout: default
 ---
-{%  include block-page-title.html %}
-<section class="section listing projects">
-	<div class="listing-items">
-		<div class="container-fluid">
-			<div class="row">
-				{% assign projects = (site.projects | sort: 'date') | reverse %}
-				{% for project in projects %}
-				<article class="col-12 col-sm-6 col-lg-4">
-					<a href="{{site.url}}{{project.url}}" class="card listing-item" title="see {{include.title}}">
-						<img class="img-fluid" src="{{site.url}}/assets/images/projects/{{project.thumb}}" alt="Image of {{project.imagealt}}">
-						<div class="card-body">
-							<h3 class="card-title h4 mb-0">{{project.title}}</h3>
-						</div>
-					</a>	
+{% include big-title-space.html %}
+<main class="">
+	<div class="container-fluid mt-4">
+		<div class="row">
+			{% assign projects = site.posts | where:'project','project' | sort: 'date' | reverse %}
+			{% for project in projects %}
+			{% assign image = project.images[0] %}
+			<div class="col-12 col-md-6 col-lg-4 mb-4">
+				<article class="project project-review">
+					<a title="See images from {{project.title}}." href="{{site.baseurl}}{{project.url}}" class="">
+						<h3 class="h3 sr-only">{{project.project_type}}</h3>
+						<h4 class="h4 sr-only">{{project.title}}</h4>
+						<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='tall{{id}}' />
+					</a>
 				</article>
-				{% endfor %}
 			</div>
-		</div>	
+			{% endfor %}
+		</div>
 	</div>
-</section>
+</main>

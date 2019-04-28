@@ -1,10 +1,13 @@
-<header class="header d-flex justify-content-between align-items-center">
-	<a href="{{ site.url }}" title="Go to the Homepage" class="logo-site-link" tabindex="0">
-		<img src="{{site.url}}/assets/images/logos/isral-duke-design-logo.svg" alt="Logo for {{ site.title }}" class="logo-site">
+<h1 class="sr-only">{{site.title}}</h1>
+<nav class="nav nav-top d-flex justify-content-between fixed-top" role="navigation" aria-label="main navigation">
+	<a title="Go to Homepage" href="{{site.baseurl}}/" class="">
+		{%- include isral-duke-logo.html -%}
 	</a>
-	<nav id="navtop" class="d-none d-md-flex navigation navigation-top">
-		<ul class="d-flex justify-content-between align-items-center list-unstyled mb-0">
-			{% include nav-items.html %}
-		</ul>
-	</nav>
+	<ul role="list" class="m-0 list-unstyled d-flex">
+		{%- include nav-items.html -%}
+	</ul>
+</nav>
+<header class="d-none">
+	<h2 class="">Designer.</h2>
+	<p>UX <span class="">Designer</span>. Interation <span class="">Designer</span>. UI <span class="">Designer</span>. Graphic <span class="">Designer</span>.</p>
 </header>

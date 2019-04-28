@@ -1,0 +1,12 @@
+
+.btn-azure {
+	border-top:    2px solid lighten($azure,15%);
+	border-bottom: 2px solid darken($azure, 15%);
+	box-shadow: 0 2px 2px 0 fade-out($blue,.65);
+	.project & {
+		box-shadow: none;
+	}
+	&:hover, &:active {
+		box-shadow: none;
+	}
+}

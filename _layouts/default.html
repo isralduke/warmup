@@ -1,21 +1,27 @@
 <!DOCTYPE html>
-<html>
-{% include head.html %}
-<body>
-	{% include header.html %}
-	<main class="main">
-	{{ content }}
-	</main>
-	{% include footer.html %}
-	{% include nav-bottom.html %}
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js"></script>
-	<script>
-		$(document).ready(function() {
-			$('#navbuttonbottom').click(function(){
-				$('#navbottom').toggleClass('open');
-			});
+<html class="{{ page.htmlClass | default: "background-light" }}" lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="https://use.typekit.net/uay6gsf.css">
+	<link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+	<title>{% if page.title %} {{page.title}} | {% endif %} {{ site.title }}</title>
+	{% include favicons.html %}
+	{% include social-sharing.html %}
+</head>
+<body class="d-flex flex-column {{page.htmlClass}}">
+{% include header.html %}
+{{ content }}
+{% include footer.html %}
+<script src="/assets/scripts/baguettebox.min.js" async></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+<script>
+	$(document).ready(function(){
+		$('.trigger').click(function(){
+			var newImg = $(this).find('img').attr('src');
+			$('#img0').attr('src',newImg);
 		});
-	</script>
+	});
+</script>
 </body>
 </html>

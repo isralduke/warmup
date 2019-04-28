@@ -1,0 +1,14 @@
+
+<div class="big-title-space">
+	<div class="overlay overlay-dark" style="background-image: url('{{site.baseurl}}{{image}}'); opacity: .2;"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				{% if page.project_type %}
+				<h2 class="badge bg-white text-black">{{page.project_type|upcase}}</h2>
+				{% endif %}
+				<h3 class="big-title-text">{{page.title}}</h3>
+			</div>
+		</div>
+	</div>
+</div>

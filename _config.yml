@@ -1,53 +1,52 @@
-title: Isral C Duke, Designer
-author: Isral Duke
+---
+title: Isral Duke, Designer
+timezone: UTC
+collections:
+  awards:
+    title: Awards
+    output: false
+  educations:
+    title: Educations
+    output: false
+  employers:
+    title: Employers
+    output: false
+  posts:
+    title: Posts
+    output: true
+  skills:
+    title: Skills
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    permalink: articles/:title
+    layout: post
+    htmlClass: background-light
+author: GitHub User
 email: isralduke@gmail.com
-description: > # this means to ignore newlines until "twitter_username:"
-  Isral Duke is a multi-skilled Designer with an array of work spanning across design disciplines. His design work occurs in the web, user interface, icon, frontend, user experience areas, branding, and print areas.
-baseurl: "/site"
-url: "https://isralduke.com"
-common_username: isralduke
-twitter_username: isralduke
-github_username:  isralduke
-linkedin_username: isralduke
+description: 'Isral Duke is a UX, UI, and Graphic Designer who can also code frontend
+  designs.
 
-
-gems: [jekyll-paginate]
-paginate: 10
-paginate_path: "/blog/page:num"
-
-show_excerpts: false # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+'
+baseurl: "/portfolio"
+url: https://isralduke.com
+show_excerpts: false
 minima:
   date_format: "%b %-d, %Y"
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
+  social_links:
+    twitter: isralduke
+    github: isralduke
+    linkedin: isralduke
 theme: minima
-
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-redirect-from
- 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "project"
-      title: ""
-
-collections:
-  posts:
-      output: true
-      permalink: /blog/:title
-  projects:
-      output: true
-      permalink: /projects/:title
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-paginate
+paginate: 5
+paginate_path: "/articles/page:num/"

@@ -1,0 +1,60 @@
+.grid {
+	display: grid;
+	grid-template-columns: repeat( 6, 1fr);
+}
+.grid-gaps {
+	grid-gap: 10px;
+	gap: 10px;
+}
+.grid-centered {
+	width: calc(100% - 20px);
+	margin: 0 10px;
+}
+.grid-col-span-md-6 {
+	grid-column: span 6;
+}
+.grid-col-span-md-5 {
+	grid-column: span 5;
+}
+.grid-col-span-md-4 {
+	grid-column: span 4;
+}
+.grid-col-span-md-3 {
+	grid-column: span 3;
+}
+.grid-col-span-md-2 {
+	grid-column: span 2;
+}
+.grid-col-span-md-1 {
+	grid-column: span 1;
+}
+.grid-col-span-lg-6 {
+	@include media-breakpoint-up(lg){
+		grid-column: span 6;
+	}
+}
+.grid-col-span-lg-5 {
+	@include media-breakpoint-up(lg){
+		grid-column: span 5;
+	}
+}
+.grid-col-span-lg-4 {
+	@include media-breakpoint-up(lg){
+		grid-column: span 4;
+	}
+}
+.grid-col-span-lg-3 {
+	@include media-breakpoint-up(lg){
+		grid-column: span 3;
+	}
+}
+.grid-col-span-lg-2 {
+	@include media-breakpoint-up(lg){
+		grid-column: span 2;
+	}
+}
+.grid-col-span-lg-1 {
+	@include media-breakpoint-up(lg){
+		grid-column: span 1;
+	}
+}

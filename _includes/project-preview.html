@@ -1,0 +1,9 @@
+<div class="col-12 {% if forloop.index <= 2 %} col-md-6 {% elsif forloop.index > 2 %} col-md-4 {% endif %}">
+	<article class="project project-review">
+		<a title="See images from {{title}}." href="{{site.baseurl}}{{url}}" class="">
+			<h3 class="h3 sr-only">{{project_type}}</h3>
+			<h4 class="h4 sr-only">{{title}}</h4>
+			<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='tall{{id}}' />
+		</a>
+	</article>
+</div>
