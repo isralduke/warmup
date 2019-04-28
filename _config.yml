@@ -34,7 +34,7 @@ description: 'Isral Duke is a UX, UI, and Graphic Designer who can also code fro
   designs.
 
 '
-baseurl: "/site"
+baseurl: ""
 url: https://isralduke.com
 show_excerpts: false
 minima:
