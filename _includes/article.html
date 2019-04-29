@@ -1,8 +1,6 @@
-{% assign image = page.images[0] %}
+{% assign image = page.images[0].image.url %}
 {% include big-title-space.html %}
 <main class=" pb-20 pb-md-1">
-	{% assign image = page.image[0] %}
-	<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='tall{{id}}' />
 	<div class="container mt-8">
 		<div class="row justify-content-center">
 			<div class="col-12 col-md-6 order-1 order-md-0">
@@ -12,9 +10,12 @@
 			</div>
 			<div class="col-12 col-md-6 order-0 order-md-1 gallery">
 				<div class="row">
-					{% for image in page.images %}
+					{% for img in page.images %}
 					<div class="col-12 {% if forloop.index == 1 %} mt-md-n20 {% endif %} mb-4">
-						<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='tall{{id}}' />
+						<figure>
+							<img class="img-fluid shadow-small mb-2" src="{{site.baseurl}}{{img.image.url}}" alt="{{img.image.alt}}">
+							<figcaption>{{img.image.alt}}</figcaption>
+						</figure>
 					</div>
 					{% endfor %}
 				</div>

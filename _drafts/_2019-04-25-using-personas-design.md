@@ -1,11 +1,7 @@
 ---
 title: Using Personas in Design
 date: 2019-04-25 00:00:00 Z
-excerpt: Each person is different but they can be understood. Designers use the same
-  tools marketers to understand the user.
-images:
-- "/assets/articles/abecedarium_anguliscum_scan.jpg"
-- "/assets/articles/itc-bodoni-12-roman.jpg"
+excerpt: Each person is different but they can be understood. Designers use the same tools marketers to understand the user.
 ---
 
 #### Sources

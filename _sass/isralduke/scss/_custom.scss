@@ -67,9 +67,6 @@ svg.social-icon {
 .content {
 	
 }
-.nav-top {
-	height: 54px;
-}
 .nav-link {
 	a {
 		@extend .h-100;
@@ -91,6 +88,7 @@ svg.social-icon {
 	}
 }
 .nav-top {
+	height: 54px;
 	background-color: fade-out($gray-800, .05);
 	.nav-link-text {
 		display: none;
@@ -99,9 +97,6 @@ svg.social-icon {
 		}
 	}
 	.nav-link-icon {
-		
-		
-	
 		@include media-breakpoint-down(sm){
 			margin-right: 10px;
 			a {
@@ -168,7 +163,7 @@ hr {
 	}
   }
 .footer {
-	background-color: $black;
+	background-color: fade-out($gray-800, .05);
 	@include media-breakpoint-down(sm){
 		position: fixed;
 		bottom: 0;
@@ -198,4 +193,10 @@ blockquote {
 	padding: $spacer*.5 $spacer;
 	border-left: 4px solid $gray-500;
 	font-style: italic;
+}
+figure {
+	figcaption {
+		font-style: italic;
+		color: $gray-700;
+	}
 }
