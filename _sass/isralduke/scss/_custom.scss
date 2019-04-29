@@ -2,7 +2,7 @@ html, body {
 	min-height: 100vh;
 }
 body {
-	padding-top: 72px;
+	padding-top: 54px;
 }
 h1, .h1 {
 	font-family: $font-weight-bolder;
@@ -66,6 +66,9 @@ svg.social-icon {
 }
 .content {
 	
+}
+.nav-top {
+	height: 54px;
 }
 .nav-link {
 	a {
