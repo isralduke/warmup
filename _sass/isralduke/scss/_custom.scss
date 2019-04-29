@@ -25,7 +25,9 @@ h1, .h1 {
 	background-size: cover;
 	@extend .text-dark;
 }
-
+.logo {
+	width: 228px; height: 54px;
+}
 .big-title-space {
 	@extend .background-gradient-brand;
 	padding: $spacer 0;
