@@ -5,7 +5,7 @@ excerpt: Honorable Mention Award in an International Poster Design.
 images:
 - "/assets/projects/poster-study-germany-canadian-american-designed-isral-duke.jpg"
 project_roles:
-- graphicdesigner
+- Graphic Designer
 project_type: Marketing
 project: project
 featured: not-featured

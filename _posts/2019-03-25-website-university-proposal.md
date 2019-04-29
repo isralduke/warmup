@@ -3,9 +3,9 @@ title: University Website Design Proposal
 date: 2019-03-25 00:00:00 Z
 excerpt: Proposed design university website refresh.
 project_roles:
-- uidesigner
-- frontend
-- uxdesigner
+- UI Designer
+- Frontend
+- UX Designer
 project_type: website
 images:
 - /assets/projects/website-unversity-designed-by-isral-duke-envoc-employee.jpg

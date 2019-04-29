@@ -7,7 +7,7 @@ images:
 - "/assets/projects/stun-design-blog-illustrations-designed-by-isral-duke-2.jpg"
 - "/assets/projects/stun-design-blog-illustrations-designed-by-isral-duke-3.jpg"
 project_roles:
-- graphicdesigner
+- Graphic Designer
 project_type: Illustration
 project: project
 featured: not-featured

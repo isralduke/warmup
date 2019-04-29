@@ -6,9 +6,9 @@ excerpt: A guidebook app concept for SQL Saturday, an annual developer conferenc
 images:
 - /assets/projects/app-sql-saturday-guidebook-concept-designed-by-isral-duke.jpg
 project_roles:
-- uxdesigner
-- uidesigner
-- graphicdesigner
+- UX Designer
+- UI Designer
+- Graphic Designer
 project_type: app
 project: project
 featured: featured

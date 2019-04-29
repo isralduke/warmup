@@ -7,8 +7,8 @@ images:
   - /assets/projects/app-sports-marketing-lsu-baseball-designed-isral-duke.jpg
   - /assets/projects/app-sports-marketing-georgia-football-designed-isral-duke.jpg
 project_roles:
-- uidesigner
-- graphicdesigner
+- UI Designer
+- Graphic Designer
 project_type: app
 project: project
 featured: featured

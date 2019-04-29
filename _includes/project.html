@@ -1,0 +1,59 @@
+<main class=" pb-20 pb-md-0">
+	<div class="bg-dark bg-black background-black">
+		<div class="container-fluid">
+			<div class="row no-gutters">
+				<div class="col-12 mt-md-4">
+					<div class="media">
+						<h2 class="badge badge-light mt-2 mr-2">{{page.project_type|upcase}}</h2>
+						<div class="media-body">
+							<h3 class="h3 text-white">{{page.title}}</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row gallery">
+				<div class="col-12 {% if page.images.size > 1 %} col-md-8 col-lg-9 {% endif %} mb-4">
+					{% assign image = page.images[0] %}
+					<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='img0' />
+				</div>
+				{% if page.images.size > 1 %} 
+					<div class="col-12 col-md-4 col-lg-3">
+						<div class="row thumbs">
+							{% for image in page.images limit:3 %}
+								<div class="col-6 col-lg-12 mb-2">
+									<a class="trigger" data-caption="Image showing {{page.title}} in a real life setting.">
+										<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='thumb{{forloop.index}}' />
+									</a>	
+								</div>
+							{% endfor %}
+						</div>
+					</div>
+				{% endif %}
+			</div>
+		</div>
+	</div>
+	<div class="container mt-8">
+		<div class="row justify-content-center">
+			<div class="col-12 col-md-10 col-lg-8 order-1 order-md-0">
+				<article class="content">
+					{{page.content}}
+				</article>
+			</div>
+			<div class="col-12 col-md-6 col-lg-3 mb-4 mb-md-0 order-0 order-md-1">
+				{% include employer-credit.html %}
+				<div class="row">
+					<div class="col-12">
+						<ul class="list-group">
+							<li class="list-group-item"><h6 class="h6 mb-0">Project Roles</h6></li>
+							{% for role in page.project_roles %}
+							<li class="list-group-item">{{role}}</li>
+							{% endfor %}
+						</ul>	
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	{% include skills-block.html %}
+	{% include edu-emp-block.html %}
+</main>

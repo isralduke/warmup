@@ -7,8 +7,8 @@ images:
   - /assets/projects/app-ui-crane-management-data-2.jpg
   - /assets/projects/app-ui-crane-management-data-3.jpg
 project_roles:
-- graphicdesigner
-- uidesigner
+- Graphic Designer
+- UI Designer
 project_type: app
 project: project
 featured: featured

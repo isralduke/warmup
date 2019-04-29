@@ -7,8 +7,8 @@ images:
   - /assets/projects/app-ui-ios-note-designed-isral-c-duke-2.jpg
   - /assets/projects/app-ui-ios-note-designed-isral-c-duke-3.jpg
 project_roles:
-- uidesigner
-- graphicdesigner
+- UI Designer
+- Graphic Designer
 project_type: app
 project: project
 featured: featured

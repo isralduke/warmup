@@ -7,7 +7,7 @@ images:
 - /assets/projects/tiger-signal-shirt-designed-isral-duke-back.jpg
 - /assets/projects/tiger-signal-shirt-designed-isral-duke-front.jpg
 project_roles:
-- graphicdesigner
+- Graphic Designer
 project_type: marketing
 project: project
 featured: not-featured

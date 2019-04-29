@@ -7,9 +7,9 @@ images:
 - /assets/projects/adobe-creative-jam-awards-2018-michael-alford-isral-duke.jpg
 - /assets/projects/2018-adobe-creative-jam-new-orleans-michael-alford-isral-duke.jpg
 project_roles:
-- uxdesigner
-- uidesigner
-- graphicdesigner
+- UX Designer
+- UI Designer
+- Graphic Designer
 project_type: app
 project: project
 featured: featured

@@ -9,8 +9,8 @@ images:
 - /assets/projects/app-ui-pinion-learning-designed-isral-duke-4.jpg
 - /assets/projects/app-ui-pinion-learning-designed-isral-duke-5.png
 project_roles:
-- uidesigner
-- graphicdesigner
+- UI Designer
+- Graphic Designer
 project_type: app
 project: project
 featured: featured

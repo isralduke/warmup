@@ -7,9 +7,10 @@ images:
 - "/assets/projects/website-private-school-designed-isral-duke-2.jpg"
 - "/assets/projects/website-private-school-designed-isral-duke-3.jpg"
 project_roles:
-- uxdesigner
-- graphicdesigner
-- frontend
+- UX Designer
+- Information Architect
+- Graphic Designer
+- Frontend
 project_type: website
 project: project
 featured: featured

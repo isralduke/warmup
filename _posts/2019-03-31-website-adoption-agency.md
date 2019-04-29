@@ -8,9 +8,9 @@ images:
   - /assets/projects/website-user-experience-st-elizabeth-stun-design-isral-duke-2.jpg
   - /assets/projects/website-user-experience-st-elizabeth-stun-design-isral-duke-3.jpg
 project_roles:
-- uxdesigner
-- frontend
-- infoarchitect
+- UX Designer
+- Frontend
+- Information Architect
 project_type: website
 project: project
 featured: not-featured
