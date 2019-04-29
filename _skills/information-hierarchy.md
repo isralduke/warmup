@@ -1,4 +1,5 @@
 ---
-title: 'Information Hierarchy'
+title: Information Hierarchy
 group: usercentric
 ---
+

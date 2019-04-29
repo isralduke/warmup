@@ -1,4 +1,5 @@
 ---
-title: 'UI Design'
+title: UI Design
 group: design
 ---
+

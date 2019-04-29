@@ -3,9 +3,9 @@ title: Sports Marketing iPad Apps
 date: 2019-03-26 00:00:00 Z
 excerpt: Sports marketing iPad apps for recruiting college players.
 images:
-  - /assets/projects/app-sports-marketing-lsu-football-designed-isral-duke.jpg
-  - /assets/projects/app-sports-marketing-lsu-baseball-designed-isral-duke.jpg
-  - /assets/projects/app-sports-marketing-georgia-football-designed-isral-duke.jpg
+- "/assets/projects/app-sports-marketing-lsu-football-designed-isral-duke.jpg"
+- "/assets/projects/app-sports-marketing-lsu-baseball-designed-isral-duke.jpg"
+- "/assets/projects/app-sports-marketing-georgia-football-designed-isral-duke.jpg"
 project_roles:
 - UI Designer
 - Graphic Designer

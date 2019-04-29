@@ -1,4 +1,5 @@
 ---
-title: 'UX Design'
+title: UX Design
 group: design
 ---
+

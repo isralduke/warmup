@@ -4,9 +4,8 @@ date: 2010-10-25 00:00:00 Z
 excerpt: I was taught by my professors and mentors that I should never detract from
   the legibility of the message.
 images:
-- /assets/articles/abecedarium_anguliscum_scan.jpg
-- /assets/articles/itc-bodoni-12-roman.jpg
-
+- "/assets/articles/abecedarium_anguliscum_scan.jpg"
+- "/assets/articles/itc-bodoni-12-roman.jpg"
 ---
 
 <h4>What I Learned</h4>

@@ -1,11 +1,13 @@
 ---
 title: First Brand Name, from the Roman Empire
 date: 2015-03-25 00:00:00 Z
-excerpt: According to Gizmodo, the first brand name was that of a glassblower from the Roman Empire.
+excerpt: According to Gizmodo, the first brand name was that of a glassblower from
+  the Roman Empire.
 images:
-- /assets/articles/ennion-cup-1.jpg
-- /assets/articles/ennion-cup-2.jpg
+- "/assets/articles/ennion-cup-1.jpg"
+- "/assets/articles/ennion-cup-2.jpg"
 ---
+
 <p>According to Gizmodo, the first brand name was that of a glassblower from the Roman Empire. From the Gizmodo article:
 </p>
 <blockquote>
