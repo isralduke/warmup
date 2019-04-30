@@ -14,7 +14,7 @@
 			<div class="row gallery">
 				<div class="col-12 {% if page.images.size > 1 %} col-md-8 col-lg-9 {% endif %} mb-4">
 					{% assign image = page.images[0] %}
-					<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='img0' />
+					<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="An image for {{page.title}}." id='img0' />
 				</div>
 				{% if page.images.size > 1 %} 
 					<div class="col-12 col-md-4 col-lg-3">
@@ -22,7 +22,7 @@
 							{% for image in page.images limit:3 %}
 								<div class="col-6 col-lg-12 mb-2">
 									<a class="trigger" data-caption="Image showing {{page.title}} in a real life setting.">
-										<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='thumb{{forloop.index}}' />
+										<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="An image for {{page.title}}." id='thumb{{forloop.index}}' />
 									</a>	
 								</div>
 							{% endfor %}

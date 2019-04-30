@@ -1,4 +1,5 @@
 ---
-title: 'Statamic CMS'
+title: Statamic CMS
 group: technical
 ---
+

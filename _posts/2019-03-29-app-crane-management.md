@@ -3,9 +3,9 @@ title: User Interface for Crane Management Web Application
 date: 2019-03-29 00:00:00 Z
 excerpt: A web app user interface for crane reporting, planning, and maintenance.
 images:
-  - /assets/projects/app-ui-crane-management-data-1.jpg
-  - /assets/projects/app-ui-crane-management-data-2.jpg
-  - /assets/projects/app-ui-crane-management-data-3.jpg
+- "/assets/projects/app-ui-crane-management-data-1.jpg"
+- "/assets/projects/app-ui-crane-management-data-2.jpg"
+- "/assets/projects/app-ui-crane-management-data-3.jpg"
 project_roles:
 - Graphic Designer
 - UI Designer
@@ -14,6 +14,7 @@ project: project
 featured: featured
 employer: sjt
 ---
+
 <p class="lead">Crane Data System is hardware and software system which manages the workloads and lifecycles of mobile harbor cranes.</p>
 <h4>Product Information</h4>
 <p>Mobile harbor cranes are positioned on barges so they can transfer raw materials from cargo ships to barges. These barges are then pushed up the Mississippi River for further distribution.</p>

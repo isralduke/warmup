@@ -1,4 +1,5 @@
 ---
-title: 'User Training'
+title: User Training
 group: usercentric
 ---
+

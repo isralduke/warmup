@@ -1,4 +1,5 @@
 ---
-title: 'Frontend Development'
+title: Frontend Development
 group: technical
 ---
+

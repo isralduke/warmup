@@ -3,8 +3,8 @@ title: Blog Post Illustrations
 date: 2016-11-19 00:00:00 Z
 excerpt: Blog post graphics illustrated for STUN! Design.
 images:
-- "/assets/projects/stun-design-blog-illustrations-designed-by-isral-duke-1.jpg"
 - "/assets/projects/stun-design-blog-illustrations-designed-by-isral-duke-2.jpg"
+- "/assets/projects/stun-design-blog-illustrations-designed-by-isral-duke-1.jpg"
 - "/assets/projects/stun-design-blog-illustrations-designed-by-isral-duke-3.jpg"
 project_roles:
 - Graphic Designer
@@ -13,6 +13,7 @@ project: project
 featured: not-featured
 employer: stun
 ---
+
 <h4>Background</h4>
 <p>I once worked at STUN! Design, a small, but energetic design agency which cultivates tight relationships with its clients. I was a UX Designer and Frontend Developer. Eager to do more design work and resume my design side (after throwing myself into frontend development), I illustrated a set of blog posts.
 </p>

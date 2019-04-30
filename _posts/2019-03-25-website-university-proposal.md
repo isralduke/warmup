@@ -8,7 +8,7 @@ project_roles:
 - UX Designer
 project_type: website
 images:
-- /assets/projects/website-unversity-designed-by-isral-duke-envoc-employee.jpg
+- "/assets/projects/website-unversity-designed-by-isral-duke-envoc-employee.jpg"
 project: project
 featured: not-featured
 employer: envoc

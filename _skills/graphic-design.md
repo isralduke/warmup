@@ -1,4 +1,5 @@
 ---
-title: 'Graphic Design'
+title: Graphic Design
 group: design
 ---
+

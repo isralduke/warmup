@@ -9,11 +9,16 @@ layout: default
 <div class="container">
 	{% assign posts = site.posts | sort: 'date' | reverse %}
 	{% for post in paginator.posts %}
-	{% assign image = post.images[0] %}
 	<div class="row align-items-start align-items-md-end mb-md-8">
 		<div class="col-12 col-md-6 mb-4 mb-md-0">
 			<a title="Read {{post.title}}" href="{{site.baseurl}}{{post.url}}" class="">
+				{% if post.project == 'project' %}
+				{% assign image = post.images[0] %}
 				<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='tall{{id}}' />
+				{% else %}
+				{% assign image = post.images[0].image.url %}
+				<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="{{alt}}" id='tall{{id}}' />
+				{% endif %}
 			</a>
 		</div>
 		<div class="col-12 col-md-6">
@@ -33,9 +38,7 @@ layout: default
 			<ul class="pagination justify-content-center justify-content-md-start">
 				{% if paginator.previous_page %}
 					<li class="page-item text-center"><a class="page-link" href="{{site.baseurl}}{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; </a></li>
-					
 				{% endif %}
-
 				{% for page in (1..paginator.total_pages) %}
 					{% if page == paginator.page %}
 						<li class=" flex-fill page-item text-center"><a class="page-link active">{{ page }}</a></li>
@@ -45,12 +48,9 @@ layout: default
 						<li class=" flex-fill page-item text-center"><a class="page-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
 					{% endif %}
 				{% endfor %}
-
 				{% if paginator.next_page %}
 				<li class="page-item text-center"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"> &raquo;</a></li>
-				
 				{% endif %}
-
 			</ul>
 			{% endif %}
 		</div>

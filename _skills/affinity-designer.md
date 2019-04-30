@@ -1,4 +1,5 @@
 ---
-title: 'Affinity Designer'
-group: 'design'
+title: Affinity Designer
+group: design
 ---
+

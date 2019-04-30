@@ -11,6 +11,7 @@ project: project
 featured: not-featured
 employer: dda
 ---
+
 <p class="lead">While finishing my Graphic Design studies at Louisiana State University, I competed in an international poster competition. For my entry, I received an Honorable Mention.</p>
 <h4>Background and Context</h4>
 <p>While studying Graphic Design, I also enrolled in German language courses for two semesters. The inspiration for taking German language classes came by posters which promoted commerce, travel, and art exhibits in early twentieth century Switzerland and Germany before the dark days of World War 2. Somehow my German language professor and a Graphic Design professor discovered this poster competition to promote study abroad in Germany for American and Canadian students at DAAD. Immediately they knew this competition was right for me.</p>
