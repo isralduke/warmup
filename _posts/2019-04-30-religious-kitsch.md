@@ -48,11 +48,13 @@ Just as a photograph of a friend or loved one can never replace the actual perso
 
 #### The Best Image is Enduring Reality
 
-I am not aware of any existing claim that belief, temple, sacred words, ceremony, or image are all be embodied in a single form, a person before Jesus claimed it in John 8:58&sup1;, “Before Abraham, I AM.” Unlike the Athenians, clever as they were, Jesus left no room for that specific unknown. 
+I am not aware of any existing claim that belief, temple, sacred words, ceremony, or image are all be embodied in a single form, a person before Jesus claimed it in John 8:58 &sup1;, “Before Abraham, I AM.” Unlike the Athenians, clever as they were, Jesus left no room for that specific unknown. 
 
 To Paul’s sufficient, and specific knowledge, which he shared with the Athenians Jesus is the exact image of the Father’s own essence. Jesus is the crowning instance of a class of artwork, self-portraits by artists themselves. God put Himself into humanity and in the same moment in which He did this, created all things in such a state so as to enable us to access His self-portrait, allowing us to understand His essence. 
 
 If you’ve ever gone to an art museum, looked at a puzzling work of art, and wondered what the hell the artist was up to, then you know what God has prevented: the observer’s ignorance. <a href="http://net.bible.org/bible.php?book=Heb&chapter=1#n5" target="_blank" title="Bible verse for Jesus Christ being the Image of God.">Jesus Christ is the exact image, exact representation of God’s essence.</a> He’s the temple and the faith all in one. Christ is the singularity of existence who can transform us.
+
+###### Notes
 
 &sup1; Jesus claimed to be one with The Father. Several times He made this claim, and each time He met with vicious religious friction.
 
