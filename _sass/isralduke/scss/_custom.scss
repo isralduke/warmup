@@ -194,10 +194,11 @@ blockquote {
 	border-left: 4px solid $gray-500;
 	font-style: italic;
 }
-.content {
+
 	figure {
 		img {
 			@extend .border;
+			@extend .w-100;
 		}
 		figcaption {
 			font-style: italic;
@@ -210,4 +211,4 @@ blockquote {
 			margin-left:  -200px;
 		}
 	}	
-}
+
