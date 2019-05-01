@@ -1,9 +1,9 @@
 ---
 title: Religious Kitsch: Idle Idol isn’t Identical Incarnation
 date: 2019-04-30 00:00:00 Z
-excerpt: We use images to communicate ideas and knowledge. But do the images we use affect how the message is perceived?
+excerpt: We use images to communicate ideas and knowledge. But do the images we use affect how the message is perceived
 images:
-  - image
+  - image:
       alt: Does religious imagery cheapen faith?
       url: /assets/articles/does-religious-imagery-cheapen-faith-2.jpg
 ---
