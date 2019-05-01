@@ -3,8 +3,13 @@ title: Articles
 htmlClass: background-light
 layout: default
 ---
+{% assign postcheck = site.posts.first %}
+{% if postcheck.project %}
+	{% assign image = postcheck.images[0] %}
+{% else %}
+	{% assign image = postcheck.images[0].image.url %}
+{% endif %}
 
-{% assign image = site.posts.first.images[0] %}
 {% include big-title-space.html image=image %}
 <main class="pb-16 pb-md-0 mt-4"> 
 <div class="container">
