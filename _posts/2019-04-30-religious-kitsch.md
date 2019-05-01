@@ -15,11 +15,6 @@ images:
 
 Look at the <a href="http://www.huffingtonpost.com/2010/09/12/inside-lascaux-the-versai_n_712645.html" target="_blank">cave paintings of Lascaux, France</a> or <a href="http://en.wikipedia.org/wiki/Cave_painting" target="_blank">Alta Mira, Spain</a> wherein those early people told the stories of their hunts and possibly their social groups’ lives. We used images in the Sumerian Bulla to record business transactions. 
 
-<figure>
-<img class="img-fluid shadow-small mb-2" src="/assets/articles/lascaux-cave-art.jpg" alt="Lascaux Cave Art: Musée archéologie nationale.">
-<figcaption>Lascaux Cave Art. Image: Musée archéologie nationale.</figcaption>
-</figure>
-
 It’s no surprise that we use imagery to communicate religious ideas. In fact, religious imagery is a major type of cultural treasure. Think about the <a href="http://www.ancient-greece.org/architecture/parthenon.html" target="_blank">Parthenon</a>, the <a href="http://www.italyguides.it/us/roma/pantheon.htm" target="_blank">Pantheon</a>, the temple<a href="http://en.wikipedia.org/wiki/File:Angkor_Wat.jpg" target="_blank"> Angkor Wat</a>, <a href="http://www.google.com/images?q=Michelangelo's+The+Creation+of+Adam+site:.edu&hl=en&lr=&safe=active&prmd=ivns&source=lnms&tbs=isch:1&ei=8_IgTYSJIcLflge--YnSCw&sa=X&oi=mode_link&ct=mode&ved=0CAsQ_AU&biw=1046&bih=1234" target="_blank">Michelangelo’s "The Creation of Adam,"</a>  <a href="http://www.google.com/images?q=golden+pavilion+temple&oe=utf-8&um=1&ie=UTF-8&source=og&sa=N&hl=en&tab=wi&biw=1046&bih=1234" target="_blank">The Golden Pavillion of Kyoto</a>, the varied <a href="http://www.google.com/images?q=illuminated+manuscript&oe=utf-8&um=1&ie=UTF-8&source=og&sa=N&hl=en&tab=wi&biw=1046&bih=1234" target="_blank">illuminated manuscripts by the monks of pre-Renaissance Europe,</a> and yes, the <a href="http://www.google.com/images?q=pyramids+of+giza&oe=utf-8&um=1&ie=UTF-8&source=og&sa=N&hl=en&tab=wi&biw=1046&bih=1234" target="_blank">Pyramids in Egypt</a>. And, lately we’ve seen the frenetic pace of first responders’ actions in saving the art treasures in the 2019 fire at Notre Dame in Paris. These are all religious treasures which represent the finest efforts of their creators and their adherents. 
 
 #### Connected or Disconnected?
@@ -37,12 +32,6 @@ The subjects construction and artistic quality, the matter of forms and images d
 I think the Athenians did a wonderful thing by admitting to something they didn’t yet know. As a cosmopolitan town, a thinking place, they dared not imagine themselves the apex of civilization. They clearly were aware that they didn’t know some things about the world, even if they were playing it safe with a fail safe approach to being culturally thorough.
 
 To continue along this idea, let me mention the penman of Hebrews, the biblical book. Paul _(many think he penned this book)_ admits to the insufficiencies of his own faith’s temples and high priests: "<a href="http://net.bible.org/bible.php?book=Heb&chapter=8#n1" target="_blank">The place where they serve is a sketch and shadow of the heavenly sanctuary, just as Moses was <strong>warned</strong> by God... (Hebrews 8:5)</a>." 
-
-<figure>
-<a href="" title="Praying Hands by Albrecht Dürer" target="_blank"><img class="img-fluid shadow-small mb-2" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Albrecht_Dürer_-_Praying_Hands%2C_1508_-_Google_Art_Project.jpg" alt="Praying Hands, by Albrecht Dürer."></a>
-<figcaption>Praying Hands, by Albrecht Dürer.</figcaption>
-</figure>
-
 
 Just as a photograph of a friend or loved one can never replace the actual person you love, so all of these temples and beautiful art works can never truly transform you to the existence within the ultimate reality towards which  <a href="http://en.wikipedia.org/wiki/File:Duerer-Prayer.jpg" target="_blank" title="Albrecht Durer, Praying Hands.">Albrecht Dürers hands yearned.</a> 
 
