@@ -194,9 +194,20 @@ blockquote {
 	border-left: 4px solid $gray-500;
 	font-style: italic;
 }
-figure {
-	figcaption {
-		font-style: italic;
-		color: $gray-700;
-	}
+.content {
+	figure {
+		img {
+			@extend .border;
+		}
+		figcaption {
+			font-style: italic;
+			@extend .text-center;
+			@extend .text-muted;
+			font-size: $spacer * .75;
+		}
+		@include media-breakpoint-up(lg){
+			margin-right: -200px;
+			margin-left:  -200px;
+		}
+	}	
 }
