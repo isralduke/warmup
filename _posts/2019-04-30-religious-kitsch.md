@@ -31,8 +31,6 @@ The image featured above can never be associated with the same system for which 
 
 The subject”s construction and artistic quality tell us a lot about the producer’s own value of the subject. The carpenter who builds their own table probably spends extra time on the sanding and refinements. But some artisans may not be as skilled as others, I don’t mean to imply their work is less important or of lower quality. The kitsch we see is probably something that no one would miss if they owned and lost it. The producer obviously sees no value in it either. But, what if the buyer is leaning towards the other represented in the kitsch? Is their own heart just kitsch too?
 
- the matter of forms and images descended from higher ideas, higher realities, make me to think about the greatest possible image: the unknown God, referred to by the ancient Athenians referred with their empty, non-image, as described in Acts 17:34</a>. (A concept is mocked today by those who claim to make art with <i>nothing.</i>)</a> Those ancient Athenians kept a placeholder in their thinking for the unknown. They intentionally made space for what they didn’t know. _
-
 #### Insufficient Knowledge
 
 To answer that, let’s look to ancient Athens, Greece. The Athenians were intellectually curious and this curiosity gave them the awareness that there would be things they didn’t know. _(I’d even argue that they didn’t think themselves the apex of all culture because of that. A culture would have to be somewhat humble to admit it didn’t know something.)_ When the biblical writer Paul visited Athens in Acts 17, he found a myriad of religious images, even an altar for “the unknown God.” in <a href="https://netbible.org/bible/Acts+17" target="_blank">Acts 17:34</a>. 
