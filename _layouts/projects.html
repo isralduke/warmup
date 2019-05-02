@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
-{% include big-title-space.html %}
+{% assign projects = site.posts | where: 'project','project'%}
+{% assign image = projects.first.images[0] %}
+{% include big-title-space.html image=image %}
 <main class="">
 	<div class="container-fluid mt-4">
 		<div class="row">
