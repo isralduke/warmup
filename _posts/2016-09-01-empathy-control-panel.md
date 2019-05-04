@@ -63,3 +63,6 @@ You can see that Family Members’ roles are represented as checkboxes as these 
 When the Client feels at ease with the Control Panel, they will feel confident about updating their own site. It seems a small thing in our own techie eyes, but it means the world to them in saved time in their workday. In the case of the family growth organization, it means they can spend time growing families instead of laboring over an email trying to explain to me what they want changed.
 
 When you use empathy in developing the Control Panel of your own CMS-powered site work, or web application, you will also find that a little empathy goes a long way.
+
+<p>You can <a href="/projects/website-adoption-agency" target="_blank">see more images</a> from the design of their site.
+</p>

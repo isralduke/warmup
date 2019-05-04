@@ -3,13 +3,13 @@ title: Civic Marathon Visual Identity Assets
 date: 2016-06-26 00:00:00 Z
 excerpt:  An assortment of branding assets, including a logo, for a tricentennial celebration marathon for Natchez, Mississippi.
 images:
-  - 'assets/projects/marketing-natchez-marathon-designed-isral-duke-0.jpg'
-  - 'assets/projects/marketing-natchez-marathon-designed-isral-duke-1.jpg'
-  - 'assets/projects/marketing-natchez-marathon-designed-isral-duke-3.jpg'
-  - 'assets/projects/marketing-natchez-marathon-designed-isral-duke-5.jpg'
-  - 'assets/projects/marketing-natchez-marathon-designed-isral-duke-6.jpg'
-  - 'assets/projects/marketing-natchez-marathon-designed-isral-duke-7.jpg'
-  - 'assets/projects/marketing-natchez-marathon-designed-isral-duke-2.jpg'
+  - '/assets/projects/marketing-natchez-marathon-designed-isral-duke-0.jpg'
+  - '/assets/projects/marketing-natchez-marathon-designed-isral-duke-1.jpg'
+  - '/assets/projects/marketing-natchez-marathon-designed-isral-duke-3.jpg'
+  - '/assets/projects/marketing-natchez-marathon-designed-isral-duke-5.jpg'
+  - '/assets/projects/marketing-natchez-marathon-designed-isral-duke-6.jpg'
+  - '/assets/projects/marketing-natchez-marathon-designed-isral-duke-7.jpg'
+  - '/assets/projects/marketing-natchez-marathon-designed-isral-duke-2.jpg'
 project_roles:
 - Graphic Designer
 project_type: marketing
