@@ -19,7 +19,7 @@ employer: dda
 ---
 #### Background
 
-Natchez, Mississippi celebrated its tricentennial birthday with several days of marathons and fun runs in November 2016. The Natchez marathons were produced by <a href="" title="" tarhet="_blank">The Slow Polks, a marathon production agency</a>.
+Natchez, Mississippi celebrated its tricentennial birthday with several days of <a href="https://thenatchezhalf.itsyourrace.com/event.aspx?id=7774" title="Race Listing for The Natchez Half" target="_blank">marathons and fun runs in November 2016</a>. The Natchez marathons were produced by <a href="https://twitter.com/theslowpolks" title="The Slow Polks" tarhet="_blank">The Slow Polks, a marathon production agency</a>.
 
 #### Design Considerations
 
