@@ -3,14 +3,4 @@
 Gemfile.lock
 _site
 *.gem
-assets/.DS_Store
-.DS_Store
-.DS_Store
-assets/.DS_Store
-assets/articles/.DS_Store
-assets/.DS_Store
-.DS_Store
-.DS_Store
-assets/.DS_Store
-.DS_Store
-assets/.DS_Store
+*.DS_Store
