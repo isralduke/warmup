@@ -1,0 +1,1 @@
+https://baymard.com/blog/homepage-carousel

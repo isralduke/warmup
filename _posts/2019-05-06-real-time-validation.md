@@ -4,7 +4,7 @@ date: 2019-05-06 00:00:00 Z
 excerpt: Should you check a user’s input entry as they type it? A look at the arguments for real-time input validation.
 images:
 - image:
-    alt: Graphic illustrating success and failure form entry interactions.
+    alt: Graphic illustrating success and failure in form entry interactions.
     url: "/assets/articles/real-time-form-validation.svg"
 ---
 #### The Scenario
