@@ -16,11 +16,12 @@
 					{% assign image = page.images[0] %}
 					<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="An image for {{page.title}}." id='img0' />
 				</div>
-				{% if page.images.size > 1 %} 
+				{% assign thumbs = page.images.size %}
+				{% if thumbs > 1 %} 
 					<div class="col-12 col-md-4 col-lg-3">
 						<div class="row thumbs">
-							{% for image in page.images limit:3 %}
-								<div class="col-6 col-lg-12 mb-2">
+							{% for image in page.images %}
+								<div class="{% if thumbs < 4 %} col-6 col-lg-12 mb-2 {% else %} col-6 mb-2 {% endif %}">
 									<a class="trigger" data-caption="Image showing {{page.title}} in a real life setting.">
 										<img class="img-fluid shadow-small" src="{{site.baseurl}}{{image}}" alt="An image for {{page.title}}." id='thumb{{forloop.index}}' />
 									</a>	

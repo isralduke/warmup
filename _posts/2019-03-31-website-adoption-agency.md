@@ -26,5 +26,5 @@ employer: stun
 <p>The fields which they use to create data were labelled in friendly terms using their own language. The help text under the fields offered use-case scaenarios within the helper text. Taking cues from their language, I endeavored to make the website’s control panel <a href="https://medium.com/@isralcduke/empathy-or-control-issues-b36ebc82058f" target="_blank">incorporate their own daily vernacular into the control panel for their website</a>. This language required rewording many terms in the control panel and across in-depth training documents. They wanted to use the control panel to feature certain testimonials but sometimes those testimonials would require that specific other testimonials be excluded from public presentation for legal purposes. The take home for me was that data should mimic the people for whom it’s being put to use and that the user experience should be crafted around their specific needs.
 </p>
 <h4>In-Depth</h4>
-<p>You can <a href="https://medium.com/@isralcduke/empathy-or-control-issues-b36ebc82058f" target="_blank">read a more in-depth review of the thinking</a> involved for building the control panel for the client.
+<p>You can <a href="/articles/empathy-control-panel" target="_blank">read a more in-depth review of the thinking</a> involved for building the control panel for the client.
 </p>
