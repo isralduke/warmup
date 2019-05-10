@@ -1,5 +1,5 @@
 ---
-title: iOS Note App
+title: Church Logo
 date: 2006-04-01 00:00:00 Z
 excerpt: A logo exploration for an evangelical, theologically rigorous assembly.
 images:
