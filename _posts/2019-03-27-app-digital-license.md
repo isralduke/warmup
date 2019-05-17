@@ -1,7 +1,7 @@
 ---
 title: Digital License App
 date: 2019-03-27 00:00:00 Z
-excerpt: La Wallet is Louisiana’s Digital Driver’s License, for iOS and Android.
+excerpt: La Wallet is Louisiana’s Digital Driver’s License, for iOS and Android. Louisiana is the first state to roll out a completed, digital driver’s license.
 project_roles:
 - UX Designer
 - UI Designer
@@ -13,8 +13,7 @@ project: project
 featured: featured
 employer: envoc
 ---
-
-<p class="lead">Louisiana is the first state to roll out a completed, digital driver’s license in the form of a mobile application.</p>
+<p class="lead">{{page.excerpt}}</p>
 <h4>Context</h4>
 <p>The Louisiana legislature passed a law which makes it possible for a digital driver’s license app to be recognized and to be legally valid for traffic stops.</p>
 <h4>Development &amp; Design</h4>

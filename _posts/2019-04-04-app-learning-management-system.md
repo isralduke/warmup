@@ -16,7 +16,7 @@ project: project
 featured: featured
 employer: plms
 ---
-
+<p class="lead">{{page.excerpt}}</p>
 <h4>Stakeholder Hierarchy and User Profile</h4>
 <p>Pinion Courseware is a learning management system designed and built to improve safety compliance in the petrochemical industry among contractors and employees of those contractors.
 </p>

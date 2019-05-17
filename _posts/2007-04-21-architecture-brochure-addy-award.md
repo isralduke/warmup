@@ -8,10 +8,10 @@ project_roles:
 - Graphic Designer
 project_type: Marketing
 project: project
-featured: not-featured
+featured: featured
 employer: dda
 ---
-<p class="lead">A community service project for Habitat for Humanity becomes an award-winning, six panel brochure.</p>
+<p class="lead">{{page.excerpt}}</p>
 
 #### Background and Context
 

@@ -13,7 +13,7 @@ project: project
 featured: not-featured
 employer: dda
 ---
-
+<p class="lead">{{page.excerpt}}</p>
 <h4>The Audience</h4>
 <p>The audience for this-t-shirt design is the fans of the football team of the university where I got my Bachelor’s in Fine Arts for Graphic Design. I wasn’t only thinking of the core fanbase, but a subset of the fan base which is loyal a certain comic book property.</p>
 <h4>Credits</h4>

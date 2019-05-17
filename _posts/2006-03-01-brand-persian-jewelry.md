@@ -11,6 +11,8 @@ project: project
 featured: not-featured
 employer: dda
 ---
+<p class="lead">{{page.excerpt}}</p>
+
 #### About the Client
 
 Dazifarm Designs, a custom jeweller, wanted a new brand evocative of its Persian family heritage.

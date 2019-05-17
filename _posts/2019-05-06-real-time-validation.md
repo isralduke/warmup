@@ -7,6 +7,7 @@ images:
     alt: Graphic illustrating success and failure in form entry interactions.
     url: "/assets/articles/real-time-form-validation.svg"
 ---
+<p class="lead">{{page.excerpt}}</p>
 #### The Scenario
 
 A user or a website visitor is filling out a form. When they finish, they press “Submit” expecting to be finished with the form. But then, to their dismay, the browser kidnaps them and brings them to a page listing problems with the information they entered. 

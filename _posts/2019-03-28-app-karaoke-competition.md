@@ -1,7 +1,7 @@
 ---
 title: Karaoke Competition App
 date: 2019-03-28 00:00:00 Z
-excerpt: A karaoke competition app designed for social events.
+excerpt: A karaoke competition app designed for social events. My team took second place in professional category and tied for crowd favorite.
 images:
 - "/assets/projects/app-ux-duet-karoake-adobe-creative-jam-winner-michael-alford-isral-duke.jpg"
 - "/assets/projects/adobe-creative-jam-awards-2018-michael-alford-isral-duke.jpg"
@@ -15,7 +15,7 @@ project: project
 featured: featured
 employer: dda
 ---
-
+<p class="lead">{{page.excerpt}}</p>
 <h4>Context</h4>
 <p>Adobe produces <a href="https://adobecreativejams.com/" target="_blank">Creative Jam sessions across the United States</a> to promote its products and services. One such event was held in New Orleans, LA. Former co-worker, fellow designer <a href="https://www.linkedin.com/in/michael-alford-a12a1495/" target="_blank">Michael Alford</a> and I attended the event as a team and we called ourselves the “Punomatics.” These events, usually held every year, are produced around the challenge of using a single app from their Creative Cloud suite to meet a design challenge. The Creative Jam I participated in with Michael was organized around Adobe XD, a user experience and user interface design and prototyping app.</p>
 <p>Michael and I took home People&rsquo;s Choice First Place Award and Judge&rsquo;s Second Place Award and you can <a href="https://www.behance.net/gallery/66242371/New-Orleans-Creative-Jam-2018" title="See Isral Duke in 2018 Adobe XD Creative Jam in New Orleans" target="_blank">read about it here.</a> We faced tough colleagues in this challenge and we havent even used Adobe XD very much before this! Serious high fives to Judge&rsquo;s First Place Award, Team Mood Board Killers Tara Hebert and Bo Kim.</p>

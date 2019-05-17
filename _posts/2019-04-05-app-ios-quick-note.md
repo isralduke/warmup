@@ -1,7 +1,7 @@
 ---
 title: iOS Note App
 date: 2019-04-05 00:00:00 Z
-excerpt: A free note taking and sketch app on the Apple App Store.
+excerpt: A free note taking and sketch app on the Apple App Store. It’s meant to be fun and easy without being sparse.
 images:
 - "/assets/projects/app-ui-ios-note-designed-isral-c-duke-1.jpg"
 - "/assets/projects/app-ui-ios-note-designed-isral-c-duke-2.jpg"
@@ -15,7 +15,7 @@ featured: featured
 employer: dda
 ---
 
-<p class="lead">A mobile note-taking app with a limited feature set. It’s meant to be fun and easy for the user without being ugly or sparse.</p>
+<p class="lead">{{page.excerpt}}</p>
 <p>When my project partner Patrick Rills, the iOS developer (<a href="http://www.bigbluefly.com/patrickrills" target="_blank" title="Patrick Rills Website">you can read his website here</a>), and I began thinking about Squiddle, we decided that words we’d like to hear the user say about the app are “Easy” and “Fun.” This simple guideline was the primary user experience constraint which informed our decisions. Decisions regarding UI and UX details, and even features in the app, were critiqued along that primary constraint. Constraints are important as they guide many development and design decisions.
 </p>
 <p>We began with simple pencil and paper sketches in a notebook. Some of the hand sketches featured below are limited to features which appear in the App Store version of the app.

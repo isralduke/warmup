@@ -11,6 +11,8 @@ project: project
 featured: not-featured
 employer: dda
 ---
+<p class="lead">{{page.excerpt}}</p>
+
 #### About the Client
 
 Roux Luxury Travel is a premium travel agency which creates custom travel packages for business owners and executives who need some dedicated time to unwind.

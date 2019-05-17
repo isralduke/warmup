@@ -11,6 +11,8 @@ project: project
 featured: not-featured
 employer: dda
 ---
+<p class="lead">{{page.excerpt}}</p>
+
 #### About the Client
 
 Recursively Isomorphic is a computer engineering firm which is developing an approach to quantum computing to quickly parse extremely large datasets.

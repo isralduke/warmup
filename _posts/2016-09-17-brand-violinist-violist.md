@@ -11,6 +11,8 @@ project: project
 featured: not-featured
 employer: dda
 ---
+<p class="lead">{{page.excerpt}}</p>
+
 #### About the Client
 
 Jivka Duke is a classically-trained violinist and violist who has played in South Africa, Bulgaria, Sweden, and other countries. When she isn’t teaching others the joy of string music, she plays weddings, musicals, operas, and theatrical productions. <a href="https://dukestrings.com" title="Duke Strings" target="_blank">You can contact Jivka Duke at Duke Strings</a>. 

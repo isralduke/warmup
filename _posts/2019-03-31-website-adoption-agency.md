@@ -1,8 +1,7 @@
 ---
 title: Adoption Agency Website
 date: 2019-03-31 00:00:00 Z
-excerpt: A website&rsquo;s UX planned and informed by the client&rsquo;s internal
-  culture and workflow needs.
+excerpt: A website&rsquo;s UX planned and informed by the client&rsquo;s internal culture and workflow needs.
 images:
 - "/assets/projects/website-user-experience-st-elizabeth-stun-design-isral-duke-1.jpg"
 - "/assets/projects/website-user-experience-st-elizabeth-stun-design-isral-duke-2.jpg"
@@ -16,7 +15,7 @@ project: project
 featured: not-featured
 employer: stun
 ---
-
+<p class="lead">{{page.excerpt}}</p>
 <h4>Stakeholders, Users, and Persona Considerations</h4>
 <p>St Elizabeth’s, an adoption agency, is an organization which assembles families, and uses familial language in that mission, from describing organizational roles, public persona roles. All of the stakeholders and primary users are people-centric and non-technical. The website’s Content Management System’s control needed to offer the primary an easy way to describe and feature new family connections.
 </p>
