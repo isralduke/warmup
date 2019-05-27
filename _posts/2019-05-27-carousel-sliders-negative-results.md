@@ -9,17 +9,17 @@ images:
 ---
 <p class="lead">{{page.excerpt}}</p>
 
-# Carousels: Charming or Chaotic?
+#### Carousels: Charming or Chaotic?
 
 Carousels are large display feature on websites which contain and alternate between content, often called “slides”. Each slide might be imagery, or maybe there’s a call to action. The slides may move in some direction, or fade between slides. Whatever they contain, they can be popular among website owners.
 
-## Carried Away
+#### Carried Away
 
 Big images are engaging, something to consider when reading why [more sales conversions happen on tablets than phones](https://www.monetate.com/blog/smartphones-vs-tablets-forrester-reveals-the-differences), and [movement attracts our eyes](http://www.psych.usyd.edu.au/staff/alexh/research/papers/HowardHolcombe_APP_2010.pdf), so it’s no surprise your client wants them on their own website. Your client isn’t wrong to want features on their site which they hope would create more conversions. But are carousels the best thing for them?
 
 No. Let me explain.
 
-## Consider the Cost
+#### Consider the Cost
 
 For all their visual glory and “wow” factor, carousels come at certain opportunity costs.
 
@@ -29,7 +29,7 @@ They also require extra controls to communicate their functions to users, unless
 
 Development time isn’t an issue as there’s many freely-available carousel code packages. However we’re also relying on unknown providers and there’s no guarantee of their code quality. Something that’s free to us now could cost us later. In fact, one popular [WordPress slider actually allowed malware onto websites](https://blog.sucuri.net/2014/12/revslider-vulnerability-leads-to-massive-wordpress-soaksoak-compromise.html)!
 
-## They look cool. I want it.
+#### They look cool. I want it.
 
 I understand. These technical arguments aren’t making the point so let me try a different angle. May I appeal to your business sense? 
 
@@ -41,7 +41,7 @@ How do you feel about losing as much as 20% of possible users? Carousels can be 
 
 On smart phones, carousels cause the most grief. They can cause touch confusion to the operating system. This means that [carousels cause frustration to the user](https://www.nngroup.com/articles/mobile-carousels/).
 
-## Alternative Solutions
+#### Alternative Solutions
 
 Multiple online stores such as X and X have found that [it’s better to have a targeted or seasonal banner than a carousel](https://baymard.com/ux-benchmark). It  might be tempting to implement a carousel while your client is gathering data, but it’s better to use proven business strategies at first.
 
@@ -49,7 +49,7 @@ Brainstorm a value proposition banner or hero feature. An immediate, quickly-loa
 
 Why not present a video of your best product or offering? A new website for a new company or organization will do well to introduce themselves or their offering in a stable, open, edge-to-edge piece of content such as a video. [Videos convert better than a lot of alternatives](https://neilpatel.com/blog/product-videos-conversion/).
 
-## Resources to Consider
+#### Resources to Consider
 
 Okay, I get it. Your client has their mind made up. Maybe even you have your mind made up. In this case, I have compiled some potential solutions for you. I can’t account for or even know about all the potential scenarios in the world. So, let me help you adapt. But first I’ll start with alternatives to carousels.
 
@@ -67,6 +67,6 @@ I am presenting these carousels as a reluctant approach if a carousel must be pr
 - Consider [Slick](https://kenwheeler.github.io/slick/), a light markup slider.
 - Look at [BxSlider](https://kenwheeler.github.io/slick/_
 
-## Last Words
+#### Last Words
 
 I don’t think a website should have a carousel. They seemed cool when they first slid onto the scene over ten years ago. But, I understand that sometimes personal preference will be victorious over reason. 
