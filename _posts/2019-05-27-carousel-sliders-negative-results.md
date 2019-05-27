@@ -57,7 +57,7 @@ Okay, I get it. Your client has their mind made up. Maybe even you have your min
 
 - Show the user your top-performing product or service. If you already have a winner among your offerings, promote it to the top, front, and center of your website.
 - Say something about any current sales or promotions. This hsow your organization to be active, current, and vibrant.
-- USe a hero layout to be proud of your organization’s value proposition. Do you fast turn-arounds? Say it! 
+- Use a hero layout to be proud of your organization’s value proposition. Do you fast turn-arounds? Say it! 
 - Feature a short video of your product or offering. Remember to let the user activate the video and give them controls to play or pause it.
 
 **Carousels to Consider**
@@ -65,7 +65,7 @@ Okay, I get it. Your client has their mind made up. Maybe even you have your min
 I am presenting these carousels as a reluctant approach if a carousel must be present. I have used them myself but I don’t want to suggest that they are the only options.
 
 - Consider [Slick](https://kenwheeler.github.io/slick/), a light markup slider.
-- Look at [BxSlider](https://kenwheeler.github.io/slick/_
+- Look at [BxSlider](https://kenwheeler.github.io/slick/)
 
 #### Last Words
 
