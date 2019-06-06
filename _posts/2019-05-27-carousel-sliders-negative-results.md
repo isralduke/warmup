@@ -23,6 +23,8 @@ No. Let me explain.
 
 For all their visual glory and “wow” factor, carousels come at certain opportunity costs.
 
+According to Google, your [users are probably only seeing the first slide](https://www.thinkwithgoogle.com/advertising-channels/mobile-speed-optimization/). Users start scrolling as soon as the site loads to get a sense of the content. This means they don’t wait for something they probably won’t see. You can read Google’s own marketing report for yourself.
+
 Carousels have heavier download sizes and longer load times. The carousel has to load content for each slide, imagery, videos, or complex animations. [Each slide’s content has to be loaded, whether the user will see them or not](https://searchengineland.com/homepage-sliders-are-bad-for-seo-usability-163496).
 
 They also require extra controls to communicate their functions to users, unless you want to take control away from the user, which creates distrust. Oh, and [these extra controls often are poorly implemented on phones, creating a terrible experience](https://www.sitepoint.com/unbearable-accessible-slideshow/).
