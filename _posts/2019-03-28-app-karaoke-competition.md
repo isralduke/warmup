@@ -35,7 +35,6 @@ employer: dda
 	<li>No account setup. Sober people sometimes have a hard time setting up user accounts. Do you think that inebriated users will be more or less successful?</li>
 </ol>
 <h4>The Developer Experience</h4>
-</p>
 <p><strong></strong>This app won’t be difficult to develop (says the design guy!). The nature of such an app affords us the opportunity to drastically simplify the feature set, which accommodates a simpler user interface.<span></span>
 </p>
 <ol>
