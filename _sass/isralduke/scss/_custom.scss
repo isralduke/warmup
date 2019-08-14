@@ -1,9 +1,5 @@
 html, body {
 	min-height: 100vh;
-	font-variant-ligatures: common-ligatures;
-	-moz-font-feature-settings: "liga", "clig", "ss02";
-	-webkit-font-feature-settings: "liga", "clig", "ss02";
-	font-feature-settings: "liga", "clig", "ss02";
 }
 body {
 	padding-top: 54px;
@@ -191,9 +187,6 @@ hr {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
-.lead {
-	font-weight: 700;
-  }
 .trigger {
 	&:hover {
 		cursor: pointer;
