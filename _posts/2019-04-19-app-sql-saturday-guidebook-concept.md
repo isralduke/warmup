@@ -3,7 +3,7 @@ title: SQL Saturday Guidebook App Concept
 date: 2019-04-19 00:00:00 Z
 excerpt: A guidebook app concept for SQL Saturday, an annual developer conference, designed with Xamarin development in mind.
 images:
-- "/assets/projects/app-sql-saturday-guidebook-concept-designed-by-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/app-sql-saturday-guidebook-concept-designed-by-isral-duke.jpg"
 project_roles:
 - UX Designer
 - UI Designer
