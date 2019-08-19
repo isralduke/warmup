@@ -3,7 +3,7 @@ title: Tech Conference Poster
 date: 2018-02-28 00:00:00 Z
 excerpt: A poster designed for a tech conference for an attendee giveaway.
 images:
-- "/assets/projects/marketing-tech-conference-poster-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/marketing-tech-conference-poster-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: marketing

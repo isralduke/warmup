@@ -3,9 +3,9 @@ title: Adoption Agency Website
 date: 2019-03-31 00:00:00 Z
 excerpt: A website&rsquo;s UX planned and informed by the client&rsquo;s internal culture and workflow needs.
 images:
-- "/assets/projects/website-user-experience-st-elizabeth-stun-design-isral-duke-1.jpg"
-- "/assets/projects/website-user-experience-st-elizabeth-stun-design-isral-duke-2.jpg"
-- "/assets/projects/website-user-experience-st-elizabeth-stun-design-isral-duke-3.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/website-user-experience-st-elizabeth-stun-design-isral-duke-1.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/website-user-experience-st-elizabeth-stun-design-isral-duke-2.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/website-user-experience-st-elizabeth-stun-design-isral-duke-3.jpg"
 project_roles:
 - UX Designer
 - Frontend

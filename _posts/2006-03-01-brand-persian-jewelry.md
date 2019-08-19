@@ -3,7 +3,7 @@ title: Brand for Persian Jewelry Line
 date: 2006-03-01 00:00:00 Z
 excerpt: A line of persian jewelry needed a brand evocative of its heritage.
 images:
-- "/assets/projects/brand-dazifarm-jeweler-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/brand-dazifarm-jeweler-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: brand

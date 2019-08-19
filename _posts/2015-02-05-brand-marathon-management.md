@@ -3,7 +3,7 @@ title: Brand for Marathon Management Agency
 date: 2008-09-21 00:00:00 Z
 excerpt: An organization for managing corporate marathons needed a brand to hit the ground running.
 images:
-- "/assets/projects/brand-slow-polks-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/brand-slow-polks-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: brand

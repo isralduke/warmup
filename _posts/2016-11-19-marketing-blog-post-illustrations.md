@@ -3,9 +3,9 @@ title: Blog Post Illustrations
 date: 2016-11-19 00:00:00 Z
 excerpt: Blog post graphics illustrated for STUN! Design.
 images:
-- "/assets/projects/stun-design-blog-illustrations-designed-by-isral-duke-2.jpg"
-- "/assets/projects/stun-design-blog-illustrations-designed-by-isral-duke-1.jpg"
-- "/assets/projects/stun-design-blog-illustrations-designed-by-isral-duke-3.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/stun-design-blog-illustrations-designed-by-isral-duke-2.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/stun-design-blog-illustrations-designed-by-isral-duke-1.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/stun-design-blog-illustrations-designed-by-isral-duke-3.jpg"
 project_roles:
 - Graphic Designer
 project_type: Illustration

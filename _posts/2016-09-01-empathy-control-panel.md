@@ -19,7 +19,7 @@ The client has been trained to use the CMS, they have lots of documentation with
 After some reflection on clients’ feedback, I think the Control Panel is one culprit.
 
 <figure>
-	<img class="img-fluid shadow-small mb-2" src="/assets/projects/website-user-experience-st-elizabeth-stun-design-isral-duke-5.png" alt="The basic Control Panel screen for this Case Study">
+	<img class="img-fluid shadow-small mb-2" src="https://isralduke-site-files.s3.amazonaws.com/images/website-user-experience-st-elizabeth-stun-design-isral-duke-5.png" alt="The basic Control Panel screen for this Case Study">
 	<figcaption>The basic Control Panel screen for this Case Study</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Great communication happens when you speak your audience’s langauge. So, why n
 Here’s an example from a family growth organization. They don’t think in terms of data points, permissions, or roles like we in the tech and dev world do. They think about _Family Members_ and these members’ roles in their organizational family. So, why not use those same words?
 
 <figure>
-	<img class="img-fluid shadow-small mb-2" src="/assets/projects/website-user-experience-st-elizabeth-stun-design-isral-duke-4.png" alt="The screen in the Control Panel in which the client creates Family Members">
+	<img class="img-fluid shadow-small mb-2" src="https://isralduke-site-files.s3.amazonaws.com/images/website-user-experience-st-elizabeth-stun-design-isral-duke-4.png" alt="The screen in the Control Panel in which the client creates Family Members">
 	<figcaption>The screen in the Control Panel in which the client creates “Family Members”</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ The client, in their own day, isn’t creating data files, post types, or entrie
 It’s a well-known fact, a user experience maxim, that <a href="https://www.nngroup.com/articles/web-form-design/" title="UX Research Demonstrating that Labels Help Users." target="_blank">form labels help people complete forms</a>. As the Control Panel is basically a set of forms dedicated to editing their site, use these labels liberally, and in the client’s own language. This means we should name the fields with their words and offer explanations how the content fits into their organization.
 
 <figure>
-	<img class="img-fluid shadow-small mb-2" src="/assets/projects/website-user-experience-st-elizabeth-stun-design-isral-duke-6.png" alt="The screen in which they talk about their Family Members">
+	<img class="img-fluid shadow-small mb-2" src="https://isralduke-site-files.s3.amazonaws.com/images/website-user-experience-st-elizabeth-stun-design-isral-duke-6.png" alt="The screen in which they talk about their Family Members">
 	<figcaption>The screen in which they talk about their Family Members</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ In the Video fields, I explain to the clients what happens when they input the Y
 Of course, part of making the control panel great for the client means that I have to cosnider my own experience too. As I am creating spaces for their information, I need to find the best way to encode their goals into data. Everything the client adds is data. While we are collecting data, we have to consider how to best represent in data what we’re asking the client to input into the Control Panel. The data’s representation affects how we can manipulate it on the site.
 
 <figure>
-	<img class="img-fluid shadow-small mb-2" src="/assets/projects/website-user-experience-st-elizabeth-stun-design-isral-duke-3.png" alt="Screenshot showing how input fields are mapped to data types">
+	<img class="img-fluid shadow-small mb-2" src="https://isralduke-site-files.s3.amazonaws.com/images/website-user-experience-st-elizabeth-stun-design-isral-duke-3.png" alt="Screenshot showing how input fields are mapped to data types">
 	<figcaption>Screenshot showing how input fields are mapped to data types</figcaption>
 </figure>
 

@@ -3,9 +3,9 @@ title: Brand for Software Consultancy
 date: 2007-06-23 00:00:00 Z
 excerpt: A custom software consultancy needed a brand refresh as it grew its services and footprint.
 images:
-- "/assets/projects/brand-ads-software-consultancy-designed-by-isral-duke.jpg"
-- "/assets/projects/brand-it-by-design-software-designed-isral-duke.jpg"
-- "/assets/projects/brand-book-software-philosophy-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/brand-ads-software-consultancy-designed-by-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/brand-it-by-design-software-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/brand-book-software-philosophy-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: brand

@@ -3,9 +3,9 @@ title: Karaoke Competition App
 date: 2019-03-28 00:00:00 Z
 excerpt: A karaoke competition app designed for social events. My team took second place in professional category and tied for crowd favorite.
 images:
-- "/assets/projects/app-ux-duet-karoake-adobe-creative-jam-winner-michael-alford-isral-duke.jpg"
-- "/assets/projects/adobe-creative-jam-awards-2018-michael-alford-isral-duke.jpg"
-- "/assets/projects/2018-adobe-creative-jam-new-orleans-michael-alford-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ux-duet-karoake-adobe-creative-jam-winner-michael-alford-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/adobe-creative-jam-awards-2018-michael-alford-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/2018-adobe-creative-jam-new-orleans-michael-alford-isral-duke.jpg"
 project_roles:
 - UX Designer
 - UI Designer

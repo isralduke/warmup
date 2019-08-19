@@ -3,9 +3,9 @@ title: User Interface for Crane Management Web Application
 date: 2019-03-29 00:00:00 Z
 excerpt: A web app user interface for crane reporting, planning, and maintenance.
 images:
-- "/assets/projects/app-ui-crane-management-data-1.jpg"
-- "/assets/projects/app-ui-crane-management-data-2.jpg"
-- "/assets/projects/app-ui-crane-management-data-3.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-crane-management-data-1.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-crane-management-data-2.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-crane-management-data-3.jpg"
 project_roles:
 - Graphic Designer
 - UI Designer

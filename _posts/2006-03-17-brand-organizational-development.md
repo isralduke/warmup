@@ -3,7 +3,7 @@ title: Logo for Organizational Development Consultants
 date: 2005-03-28 00:00:00 Z
 excerpt: Logo created for an human resources consultancy.
 images:
-- "/assets/projects/brand-organizational-development-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/brand-organizational-development-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: brand

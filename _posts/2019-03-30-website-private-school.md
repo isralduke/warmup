@@ -3,9 +3,9 @@ title: Private School Website
 date: 2019-03-30 00:00:00 Z
 excerpt: Website Design and Content Management System set up for a Private School.
 images:
-- "/assets/projects/website-private-school-designed-isral-duke-1.jpg"
-- "/assets/projects/website-private-school-designed-isral-duke-2.jpg"
-- "/assets/projects/website-private-school-designed-isral-duke-3.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/website-private-school-designed-isral-duke-1.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/website-private-school-designed-isral-duke-2.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/website-private-school-designed-isral-duke-3.jpg"
 project_roles:
 - UX Designer
 - Information Architect

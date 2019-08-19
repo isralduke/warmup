@@ -3,9 +3,9 @@ title: iOS Note App
 date: 2019-04-05 00:00:00 Z
 excerpt: A free note taking and sketch app on the Apple App Store. It’s meant to be fun and easy without being sparse.
 images:
-- "/assets/projects/app-ui-ios-note-designed-isral-c-duke-1.jpg"
-- "/assets/projects/app-ui-ios-note-designed-isral-c-duke-2.jpg"
-- "/assets/projects/app-ui-ios-note-designed-isral-c-duke-3.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-ios-note-designed-isral-c-duke-1.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-ios-note-designed-isral-c-duke-2.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-ios-note-designed-isral-c-duke-3.jpg"
 project_roles:
 - UI Designer
 - Graphic Designer

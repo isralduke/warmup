@@ -3,11 +3,11 @@ title: Learning Management System
 date: 2019-04-04 00:00:00 Z
 excerpt: A Web application for safety training and certification of pipeline workers.
 images:
-- "/assets/projects/app-ui-pinion-learning-designed-isral-duke-1.jpg"
-- "/assets/projects/app-ui-pinion-learning-designed-isral-duke-2.jpg"
-- "/assets/projects/app-ui-pinion-learning-designed-isral-duke-3.jpg"
-- "/assets/projects/app-ui-pinion-learning-designed-isral-duke-4.jpg"
-- "/assets/projects/app-ui-pinion-learning-designed-isral-duke-5.png"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-1.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-2.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-3.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-4.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-5.png"
 project_roles:
 - UI Designer
 - Graphic Designer

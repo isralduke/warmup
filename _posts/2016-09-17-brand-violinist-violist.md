@@ -3,7 +3,7 @@ title: Logo for Violinist and Violist
 date: 2016-09-17 00:00:00 Z
 excerpt: Logo created for a classically-trained violinist, violist.
 images:
-- "/assets/projects/brand-jivka-duke-violinist-musician-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/brand-jivka-duke-violinist-musician-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: brand

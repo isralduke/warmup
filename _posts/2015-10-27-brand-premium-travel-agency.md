@@ -3,7 +3,7 @@ title: Brand for Premium Travel Agency
 date: 2007-06-23 00:00:00 Z
 excerpt: A premium travel agency for discerning travellers needed a brand to start its marketing efforts.
 images:
-- "/assets/projects/brand-roux-travel-agent-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/brand-roux-travel-agent-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: brand

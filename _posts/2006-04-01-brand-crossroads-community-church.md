@@ -3,7 +3,7 @@ title: Church Logo
 date: 2006-04-01 00:00:00 Z
 excerpt: A logo exploration for an evangelical, theologically rigorous assembly.
 images:
-- "/assets/projects/brand-crossroads-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/brand-crossroads-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: brand

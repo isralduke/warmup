@@ -4,8 +4,8 @@ date: 2019-03-24 00:00:00 Z
 excerpt: The college football team has a fiercely loyal following. This design mixes
   imagery from another fan base.
 images:
-- "/assets/projects/tiger-signal-shirt-designed-isral-duke-back.jpg"
-- "/assets/projects/tiger-signal-shirt-designed-isral-duke-front.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/tiger-signal-shirt-designed-isral-duke-back.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/tiger-signal-shirt-designed-isral-duke-front.jpg"
 project_roles:
 - Graphic Designer
 project_type: marketing

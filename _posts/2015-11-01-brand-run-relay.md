@@ -3,7 +3,7 @@ title: Logo for Athletics-Focused Public Relations Media Agency
 date: 2015-11-01 00:00:00 Z
 excerpt: Public relations agency for marathon events gets a logo playing on victory and hashtags.
 images:
-- "/assets/projects/brand-run-relay-marathon-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/brand-run-relay-marathon-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: brand

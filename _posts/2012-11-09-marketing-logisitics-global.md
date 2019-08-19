@@ -3,7 +3,7 @@ title: Collateral for Global Logistics Engineering
 date: 2012-11-09 00:00:00 Z
 excerpt: Marketing collateral for a global logisitics hardware and software company.
 images:
-- "/assets/projects/marketing-assets-global-logistics-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/marketing-assets-global-logistics-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: brand

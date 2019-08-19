@@ -3,7 +3,7 @@ title: Medical Diagnosis Web Application
 date: 2019-05-23 00:00:00 Z
 excerpt: A telemedicine company begins operation with a custom web and mobile app.
 images:
-  - "/assets/projects/app-medical-user-interface-designed-isral-duke.jpg"
+  - "https://isralduke-site-files.s3.amazonaws.com/images/app-medical-user-interface-designed-isral-duke.jpg"
 project_roles:
 - UI Designer
 - UX Designer

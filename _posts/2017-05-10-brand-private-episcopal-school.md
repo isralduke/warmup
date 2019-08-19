@@ -3,7 +3,7 @@ title: Logo for Private School
 date: 2017-05-10 00:00:00 Z
 excerpt: Logo created for St. Luke’s Episcopal School.
 images:
-- "/assets/projects/brand-st-luke-episcopal-school-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/brand-st-luke-episcopal-school-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: brand

@@ -3,7 +3,7 @@ title: International Poster Competition Honorable Mention
 date: 2007-05-12 00:00:00 Z
 excerpt: Honorable Mention Award in an International Poster Design.
 images:
-- "/assets/projects/poster-study-germany-canadian-american-designed-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/poster-study-germany-canadian-american-designed-isral-duke.jpg"
 project_roles:
 - Graphic Designer
 project_type: Marketing

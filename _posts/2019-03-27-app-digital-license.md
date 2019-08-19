@@ -8,7 +8,7 @@ project_roles:
 - Graphic Designer
 project_type: app
 images:
-- "/assets/projects/app-la-wallet-digital-license-by-envoc-employee-designer-isral-duke.jpg"
+- "https://isralduke-site-files.s3.amazonaws.com/images/app-la-wallet-digital-license-by-envoc-employee-designer-isral-duke.jpg"
 project: project
 featured: featured
 employer: envoc
