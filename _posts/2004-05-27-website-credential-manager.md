@@ -3,7 +3,7 @@ title: Credential Manager Website
 date: 2004-05-27 00:00:00 Z
 excerpt: A large organization provides a single sign on portal for its employees to manage their intranet credentials.
 images:
-  - "/assets/projects/website-single-sign-on-designed-isral-duke.jpg"
+  - "https://isralduke-site-files.s3.amazonaws.com/images/website-single-sign-on-designed-isral-duke.jpg"
 project_roles:
 - UI Designer
 - UX Designer
