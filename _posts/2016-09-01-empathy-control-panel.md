@@ -5,7 +5,7 @@ excerpt: One way to make it easy for users is to use their language in a website
 images:
 - image:
     alt: Graphic expressing that Empathy is an explicit choice.
-    url: "/assets/articles/empathy.svg"
+    url: "https://isralduke-site-files.s3.amazonaws.com/images/empathy.svg"
 ---
 <p class="lead">{{page.excerpt}}</p>
 

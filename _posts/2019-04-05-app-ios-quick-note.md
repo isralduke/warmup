@@ -27,5 +27,5 @@ employer: dda
 <p>The development code was written with XCode by Patrick Rills, an iOS developer</a> based in Boston. The UI was designed with <a href="https://www.paintcodeapp.com" target="_blank">PaintCode</a>, and the homescreen icon was designed with <a href="https://affinity.serif.com/en-us/" target="_blank">Affinity Designer</a>.
 </p>
 <p></p>
-<p><a href="https://itunes.apple.com/us/app/squiddle/id1161266643?mt=8" title="Get Squiddle on the App Store"><img src="/assets/articles/Download_on_the_App_Store.svg" alt="Download Squiddle on the App Store"></a><br>
+<p><a href="https://itunes.apple.com/us/app/squiddle/id1161266643?mt=8" title="Get Squiddle on the App Store"><img src="https://isralduke-site-files.s3.amazonaws.com/images/Download_on_the_App_Store.svg" alt="Download Squiddle on the App Store"></a><br>
 </p>

@@ -5,7 +5,7 @@ excerpt: Carousels appeal to website owners because of the movement and engaging
 images:
 - image:
     alt: Illustration of a cartoon character who has hit himself in the face.
-    url: "/assets/articles/cartoon-man-hit-himself-in-face.png"
+    url: "https://isralduke-site-files.s3.amazonaws.com/images/cartoon-man-hit-himself-in-face.png"
 ---
 <p class="lead">{{page.excerpt}}</p>
 

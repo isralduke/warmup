@@ -9,7 +9,7 @@ categories:
 images:
   - image:
       alt: Does religious imagery cheapen faith?
-      url: /assets/articles/does-religious-imagery-cheapen-faith-2.jpg
+      url: https://isralduke-site-files.s3.amazonaws.com/images/does-religious-imagery-cheapen-faith-2.jpg
 ---
 <p class="lead">{{page.excerpt}}</p>
 #### Images are Useful

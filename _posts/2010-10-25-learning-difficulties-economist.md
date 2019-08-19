@@ -6,10 +6,10 @@ excerpt: I was taught by my professors and mentors that I should never detract f
 images:
 - image:
     alt: Written sample of old Latin alphabet.
-    url: "/assets/articles/abecedarium_anguliscum_scan.jpg"
+    url: "https://isralduke-site-files.s3.amazonaws.com/images/abecedarium_anguliscum_scan.jpg"
 - image:
     alt: Sample of the Bodoni typeface, one of the test typefaces.
-    url: "/assets/articles/itc-bodoni-12-roman.jpg"
+    url: "https://isralduke-site-files.s3.amazonaws.com/images/itc-bodoni-12-roman.jpg"
 ---
 <p class="lead">{{page.excerpt}}</p>
 

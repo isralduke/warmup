@@ -5,7 +5,7 @@ excerpt: According to Gizmodo, the first brand name was that of a glassblower fr
 images:
 - image:
     alt: An example of the cups on which the Ennion credit was found.
-    url: "/assets/articles/ennion-cup-1.jpg"
+    url: "https://isralduke-site-files.s3.amazonaws.com/images/ennion-cup-1.jpg"
 ---
 <p class="lead">{{page.excerpt}}</p>
 <p>According to Gizmodo, the first brand name was that of a glassblower from the Roman Empire. From the Gizmodo article:
@@ -19,7 +19,7 @@ images:
 <p>Brand Managers watch the marketplace, its trends and fads, how the products and the company which they represent is perceived. Brand Managers help the companies and products they represent to navigate any positive or negative movements which may affect sales.
 </p>
 <figure>
-	<img class="img-fluid shadow-small mb-2" src="/assets/articles/ennion-cup-2.jpg" alt="Another example of the cups on which the Ennion credit was found.">
+	<img class="img-fluid shadow-small mb-2" src="https://isralduke-site-files.s3.amazonaws.com/images/ennion-cup-2.jpg" alt="Another example of the cups on which the Ennion credit was found.">
 	<figcaption>Another example of the cups on which the Ennion credit was found.</figcaption>
 </figure>
 <p>A Brand Manager, for example, may be someone who works for a pizza franchise and decides to change that company’s ad campaign’s direction or even corporate identities as whole after some unfortunate food quality incident. A Brand Manager may also decide to alter these things in response to favorable sentiments in social media for that pizza company. A Brand Manager is like the intersection of public relations and art direction.

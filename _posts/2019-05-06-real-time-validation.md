@@ -5,7 +5,7 @@ excerpt: Should you check a user’s input entry as they type it? A look at the 
 images:
 - image:
     alt: Graphic illustrating success and failure in form entry interactions.
-    url: "/assets/articles/real-time-form-validation.svg"
+    url: "https://isralduke-site-files.s3.amazonaws.com/images/real-time-form-validation.svg"
 ---
 <p class="lead">{{page.excerpt}}</p>
 #### The Scenario
@@ -25,14 +25,14 @@ Now, the extra step for a great user experience would be to check what they ente
 We can show them what needs to be entered. I have already said this, but it nevers hurts to repeat this: show them what you need. Again, we’ll use the password field as an example. Look at the image below. It explains, in simple language, what makes a great and acceptable password.
 
 <figure>
-	<img class="shadow-small mb-2" src="/assets/articles/on-blur-validation-exhibit-image-1.png" alt="An example of a password field.">
+	<img class="shadow-small mb-2" src="https://isralduke-site-files.s3.amazonaws.com/images/on-blur-validation-exhibit-image-1.png" alt="An example of a password field.">
 	<figcaption>An example of a password field with requirements explained in simple language.</figcaption>
 </figure>
 
 Sorry I don’t have a GIF _(say it with a hard “G” sound)_ here, but imagine the user had to wait to see this error message after they tried to submit this. Their work is multipled because they have to come back to a screen they already tried to move on from in their workflow. But, if this message is displayed as soon as they move to a new field, they still have a chance to fix the error with a minimal impact on their attention, workload, and cognitive load.
 
 <figure>
-	<img class="shadow-small mb-2" src="/assets/articles/on-blur-validation-exhibit-image-2.png" alt="An example of the error message.">
+	<img class="shadow-small mb-2" src="https://isralduke-site-files.s3.amazonaws.com/images/on-blur-validation-exhibit-image-2.png" alt="An example of the error message.">
 	<figcaption>An example of the error message.</figcaption>
 </figure>
 
