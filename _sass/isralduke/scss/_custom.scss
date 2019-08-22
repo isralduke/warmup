@@ -1,11 +1,9 @@
 html, body {
 	min-height: 100vh;
+	font-feature-settings: 'ss02';
 }
 body {
 	padding-top: 54px;
-}
-h1, .h1 {
-	font-family: $font-weight-bolder;
 }
 .background-gradient-brand {
 	background: $azure;
@@ -211,4 +209,8 @@ figure {
 		margin-right: -200px;
 		margin-left:  -200px;
 	}
-}	
+}
+
+p + h4 {
+	margin-top: $font-size-base * 2;
+}

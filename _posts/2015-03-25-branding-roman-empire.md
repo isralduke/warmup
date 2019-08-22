@@ -7,7 +7,6 @@ images:
     alt: An example of the cups on which the Ennion credit was found.
     url: "https://isralduke-site-files.s3.amazonaws.com/images/ennion-cup-1.jpg"
 ---
-<p class="lead">{{page.excerpt}}</p>
 <p>According to Gizmodo, the first brand name was that of a glassblower from the Roman Empire. From the Gizmodo article:
 </p>
 <blockquote>

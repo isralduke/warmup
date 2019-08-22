@@ -11,8 +11,6 @@ project: project
 featured: not-featured
 employer: dda
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### About the Client
 
 Ceritified Home Inspection is a service which inspects houses to give potential buyers the data to make an informed house purchase decision.

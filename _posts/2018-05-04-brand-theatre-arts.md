@@ -11,8 +11,6 @@ project: project
 featured: not-featured
 employer: dda
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### About the Client
 
 Rozzie Square Theatre is a theatre in Boston which hosts live comedy and improv classes.

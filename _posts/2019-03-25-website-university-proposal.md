@@ -13,7 +13,6 @@ project: project
 featured: not-featured
 employer: envoc
 ---
-<p class="lead">{{page.excerpt}}</p>
 <h4>Context &amp; Background</h4>
 <p>An established univversity wanted to refresh its design. The university also wanted to move from an outdated content management system (CMS) onto a new enterprise-ready CMS.</p>
 <h4>Proposed Design</h4>

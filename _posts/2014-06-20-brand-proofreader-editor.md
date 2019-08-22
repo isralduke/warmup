@@ -11,8 +11,6 @@ project: project
 featured: not-featured
 employer: dda
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### About the Client
 
 Miss Red Pen is a remote, available for hire, proofreading and editorial service.

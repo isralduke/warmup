@@ -13,7 +13,6 @@ project: project
 featured: featured
 employer: envoc
 ---
-<p class="lead">{{page.excerpt}}</p>
 <h4>Context</h4>
 <p>The Louisiana legislature passed a law which makes it possible for a digital driver’s license app to be recognized and to be legally valid for traffic stops.</p>
 <h4>Development &amp; Design</h4>
