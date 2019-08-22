@@ -211,6 +211,6 @@ figure {
 	}
 }
 
-p + h4 {
+p + h4, ul + h4, ol + h4  {
 	margin-top: $font-size-base * 2;
 }
