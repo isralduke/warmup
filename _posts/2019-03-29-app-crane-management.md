@@ -14,8 +14,6 @@ project: project
 featured: featured
 employer: sjt
 ---
-
-<p class="lead">{{page.excerpt}}</p>
 <h4>Product Information</h4>
 <p>Mobile harbor cranes are positioned on barges so they can transfer raw materials from cargo ships to barges. These barges are then pushed up the Mississippi River for further distribution.</p>
 <p>Crane Data System (CDS) communicates real time and historical data to stakeholders about many aspects of their goods’ transit. CDS streamlines the efficiency of the bulk cargo handler by offering real-time metrics of the cargo being handled, the cranes performing the work, and even ambient weather conditions which might affect the operations, as well real-time transfer progress.

@@ -11,8 +11,6 @@ project: project
 featured: featured
 employer: dda
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### Background and Context
 
 During  my Graphic Design studies at Louisiana State University, I took on a project associated with Habitat for Humanity. One of the architecture professors at LSU, David Baird, led his class to design and build a house with Habitat for Humanity. From the design phase to construction completion, the entire project took only one semester!

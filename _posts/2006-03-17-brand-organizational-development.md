@@ -11,8 +11,6 @@ project: project
 featured: not-featured
 employer: dda
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### About the Client
 
 Tom Haralson and Associates is an organizational development consultancy which uses human resources and learning theory to create training programs for businesses. Their results stem from their use of personality alignments with educational theory to produce learning materials. Their philosophy holds that leaders should be the first to initiate positive change.

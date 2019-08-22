@@ -12,8 +12,6 @@ project: project
 featured: not-featured
 employer: dda
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### Client Information
 
 A large organization with over 100 employees was in the process of modernizing and consolidating its internal software systems. As the process was scheduled to be completed within a couple of years, they needed a way to use a single set of credentials for each employee to simplify some of the internal friction of the systems’ transition. The solution was to build a single sign on system to use across their locations and systems.

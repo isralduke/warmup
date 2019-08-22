@@ -11,7 +11,6 @@ images:
       alt: Does religious imagery cheapen faith?
       url: https://isralduke-site-files.s3.amazonaws.com/images/does-religious-imagery-cheapen-faith-2.jpg
 ---
-<p class="lead">{{page.excerpt}}</p>
 #### Images are Useful
 
 Images are useful methods of communication and they are wonderful at encoding information. The cliché “A picture is worth a thousand words” captures the useful aspect of images. But, for vital information, especially information relating to our survival as a species, can an image be enough. I think both “No” and “Yes.” I say “No” because most images have to truncate nuances or compress the informational scope about a topic. I say “Yes” because there is one image that is the object and the subject of its reference.

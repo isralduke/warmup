@@ -11,8 +11,6 @@ project: project
 featured: not-featured
 employer: dda
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### About the Client
 
 Crossroads Community Church is an assembly of readers who want to strive for a correct understanding of the bible before drawing conclusions about their doctrine. They wanted a muted, but stark logo to represent their faith position. They hold that as a church they are not important, that the importance is the redemptive work of Jesus Christ on the cross and the victorious resurrection.

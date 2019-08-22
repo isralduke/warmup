@@ -14,7 +14,6 @@ project: project
 featured: featured
 employer: itbd
 ---
-<p class="lead">{{page.excerpt}}</p>
 <h4>Stakeholder Information</h4>
 <p>College sports’ recruting efforts are competitive, no big surprise. Several universities’ athletics departments are the primary stakeholders for these sports marketing iPad apps.</p>
 <h4>Primary User Information</h4>

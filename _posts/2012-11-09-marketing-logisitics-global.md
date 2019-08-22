@@ -11,8 +11,6 @@ project: project
 featured: not-featured
 employer: sjt
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### About the Client
 
 Harbor Telematics is a company which designs software and hardware specifically for the bulk cargo shipping industry. Their client base is any harbor around the world which uses cranes to load or unload bulk cargo. Their products are used to manage and monitor crane health and productivity.
