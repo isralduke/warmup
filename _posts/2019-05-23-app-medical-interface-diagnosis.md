@@ -12,8 +12,6 @@ project: project
 featured: featured
 employer: dda
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### Client Information
 
 Relief Telemed began life as a startup looking to provide mobile diagnosis to its customers with a network of nurse practitioners. Their approach, to put a mobile app in the hands of the patient, and a web application to a nurse practitioner working remotely, would enable both patient and medical expert to receive and complete a medical visit from home.

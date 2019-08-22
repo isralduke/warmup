@@ -13,8 +13,6 @@ project: project
 featured: not-featured
 employer: itbd
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### About the Client
 
 I.T. by Design is a .NET, Microsoft Certified, custom software development consultancy. They service many engineering, insurance, and government agencies.

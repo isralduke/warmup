@@ -7,8 +7,6 @@ images:
     alt: Illustration of a cartoon character who has hit himself in the face.
     url: "https://isralduke-site-files.s3.amazonaws.com/images/cartoon-man-hit-himself-in-face.png"
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### Carousels: Charming or Chaotic?
 
 Carousels are large display feature on websites which contain and alternate between content, often called “slides”. Each slide might be imagery, or maybe there’s a call to action. The slides may move in some direction, or fade between slides. Whatever they contain, they can be popular among website owners.

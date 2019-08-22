@@ -11,8 +11,6 @@ project: project
 featured: not-featured
 employer: dda
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### About the Client
 
 EcoLogos wants to help businesses become better environmental stewards. Founder Tara Mundi wants to show businesses that just as we must use our economic resources wisely, so we must use our environmental resources wisely too. Something responsibily used and cared for will continue to provide dividends. If we care for the environment, we can use it more. Their name is a play on conversations and dialogue. 

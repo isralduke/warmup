@@ -11,8 +11,6 @@ project: project
 featured: featured
 employer: dda
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### About the Client
 
 The Slow Polks is a family-owned and operated marathon management agency. They organize, produce, and handle all of the details for any organization which wants to produce a marathon for fund raising or awareness.

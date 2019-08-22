@@ -11,8 +11,6 @@ project: project
 featured: not-featured
 employer: dda
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### Background and Client
 
 The <a href="https://www.activateconf.com" target="_blank" title="Activate Conference Website">Activate Conference</a> is an annual technical conference which focuses and web and interactive technologies by featuring workshops, speakers, and a hackathon. The workshops are usually oriented around real, hands-on experience with guided mentoring during a project. The speakers are industry professionals who bring years of experience and a valuable project experience. Finally, in the hackathon, participants use real data to build projects on a theme of civic improvement.

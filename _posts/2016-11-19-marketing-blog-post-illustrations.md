@@ -13,7 +13,6 @@ project: project
 featured: not-featured
 employer: stun
 ---
-<p class="lead">{{page.excerpt}}</p>
 <h4>Background</h4>
 <p>I once worked at STUN! Design, a small, but energetic design agency which cultivates tight relationships with its clients. I was a UX Designer and Frontend Developer. Eager to do more design work and resume my design side (after throwing myself into frontend development), I illustrated a set of blog posts.
 </p>

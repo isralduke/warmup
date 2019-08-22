@@ -11,8 +11,6 @@ project: project
 featured: not-featured
 employer: envoc
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### About the Client
 
 St. Luke’s Episcopal School is a small, tightly-knit, private school attached to St. Luke’s Episcopal Church. Seeking to become a recognized, separate organization, they looked to create a new brand for themselves. 

@@ -11,8 +11,6 @@ images:
     alt: Sample of the Bodoni typeface, one of the test typefaces.
     url: "https://isralduke-site-files.s3.amazonaws.com/images/itc-bodoni-12-roman.jpg"
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 <h4>What I Learned</h4>
 <p>It’s long been consensus among designers and advertising people that the easier to read an ad is the more people will read that ad (if it catches their attention because the ad person was wise enough to let the designer do their job unfettered). We were taught by our professors and mentors that we should never detract from the legibility of the message. <a href="http://www.economist.com/node/17248892?story_id=17248892&fsrc=rss" target="_blank">A recent article by The Economist</a> cites material that challenges this commonly-held maxim.
 </p>

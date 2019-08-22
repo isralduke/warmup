@@ -7,8 +7,6 @@ images:
     alt: Graphic expressing that Empathy is an explicit choice.
     url: "https://isralduke-site-files.s3.amazonaws.com/images/empathy.svg"
 ---
-<p class="lead">{{page.excerpt}}</p>
-
 #### The Problem
 The client has a Content Management System powering their website. They can edit and change things whenever the want. It’s perfect and well-structured. The only problem is that they still want me to edit their site for them.
 

@@ -14,8 +14,6 @@ project: project
 featured: featured
 employer: dda
 ---
-
-<p class="lead">{{page.excerpt}}</p>
 <p>When my project partner Patrick Rills, the iOS developer (<a href="http://www.bigbluefly.com/patrickrills" target="_blank" title="Patrick Rills Website">you can read his website here</a>), and I began thinking about Squiddle, we decided that words we’d like to hear the user say about the app are “Easy” and “Fun.” This simple guideline was the primary user experience constraint which informed our decisions. Decisions regarding UI and UX details, and even features in the app, were critiqued along that primary constraint. Constraints are important as they guide many development and design decisions.
 </p>
 <p>We began with simple pencil and paper sketches in a notebook. Some of the hand sketches featured below are limited to features which appear in the App Store version of the app.
