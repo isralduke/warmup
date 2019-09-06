@@ -1,12 +1,12 @@
 <hr class="mt-8">
-<div class="py-4 py-md-8 bg-white">
+<div class="py-8 bg-dark">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
-				<h2 class="h2">Skills</h2>
+				<h2 class="h2 text-white mb-8">Skills</h2>
 			</div>
 				<div class="col-12 col-md-4">
-					<h5>Design</h5>
+					<h5 class="text-white">Design</h5>
 					<p>
 						{% assign design = site.skills | where:'group','design' %}
 						{% for skill in design %}
@@ -15,7 +15,7 @@
 					</p>
 				</div>
 				<div class="col-12 col-md-4">
-					<h5>Technical</h5>
+					<h5 class="text-white">Technical</h5>
 					<p>
 						{% assign technical = site.skills | where:'group','technical' %}
 						{% for skill in technical %}
@@ -24,7 +24,7 @@
 					</p>
 				</div>
 				<div class="col-12 col-md-4">
-					<h5>User-Centric</h5>
+					<h5 class="text-white">User-Centric</h5>
 					<p>
 						{% assign usercentric = site.skills | where:'group','usercentric' %}
 						{% for skill in usercentric %}
