@@ -54,6 +54,7 @@ $enable-responsive-font-sizes:                true;
 $font-family-sans-serif:      Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
 
 $font-size-base:              1.125rem;
+$paragraph-margin-bottom:     .5rem !default;
 
 $h1-font-size:                $font-size-base * 2.5;
 $h2-font-size:                $font-size-base * 2;
@@ -111,10 +112,10 @@ $yellow:  #ffc107 !default;
 $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #17a2b8 !default;
-$azure:#0082BB;
-$violet:#952D98;
-$scarlet:#E00034;
-$gold:#F5B400;
+$azure:   #0082BB;
+$violet:  #952D98;
+$scarlet: #E00034;
+$gold:    #F5B400;
 
 $colors: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
@@ -157,11 +158,11 @@ $theme-colors: map-merge(
     "warning":    $warning,
     "danger":     $danger,
     "light":      $light,
-	"dark":       $dark,
-	"azure":	  $azure,
-	"violet":     $violet,
-	"scarlet":	  $scarlet,
-	"gold":       $gold
+	  "dark":       $dark,
+	  "azure":	    $azure,
+	  "violet":     $violet,
+	  "scarlet":	  $scarlet,
+	  "gold":       $gold
   ),
   $theme-colors
 );
