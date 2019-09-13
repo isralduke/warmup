@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/isralduke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://isralduke.com
+  * I am isralduke (https://keybase.io/isralduke) on keybase.
+  * I have a public key ASAxv-4SobbtO6wNi6fAEct2nBHI7CyztIxTPKD6Hw1WtQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f5c0969e4457f1bb32f5ba92f241cddda4f493da7ff449a0ddaa1addef887e370a",
+      "host": "keybase.io",
+      "kid": "012031bfee12a1b6ed3bac0d8ba7c011cb769c11c8ec2cb3b48c533ca0fa1f0d56b50a",
+      "uid": "50bf9b859faae13bda57b322b334c519",
+      "username": "isralduke"
+    },
+    "merkle_root": {
+      "ctime": 1568412875,
+      "hash": "b1d20c1669442ce8dcc942e32415878b87349809aa67afc65fe519515b4c21849e0a3335d2f9b77a0b35d651e2c4742f6ece38075362a1636eb6f9bdc6542001",
+      "hash_meta": "0a2228bafcb49f8548fe85f47e78827dfe019079f79df4b6ae16bbd5114b8df0",
+      "seqno": 7218735
+    },
+    "service": {
+      "entropy": "5OVM6M0fF+Figx8AiAlatHDY",
+      "hostname": "isralduke.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568412880,
+  "expire_in": 504576000,
+  "prev": "822e9c366ba9b27131fa158d6bac9856798dfdfec19a3be7414921b4abbf76fd",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMb/uEqG27TusDYunwBHLdpwRyOwss7SMUzyg+h8NVrUKp3BheWxvYWTESpcCFMQggi6cNmupsnEx+hWNa6yYVnmN/f7BmjvnQUkhtKu/dv3EILG5X7yIpzcA6EQm+XgqX2eGOGFLRxUpoFyv+7Q0JK2eAgHCo3NpZ8RA9e7NbiBEupXdVSmxSP+14+bHG8G7NHXKgBPyG5wtzojBGdMVfaUPAeDQm3nVYB1SwSG2syw9z7i7/gIjJ0VYAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC+lyCOgPjpVQShtVi8vGTlBdODjHpA2JM2cx7wAfFAlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/isralduke
+
+==================================================================
