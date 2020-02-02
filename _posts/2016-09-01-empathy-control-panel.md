@@ -1,12 +1,14 @@
 ---
 title: Empathy in the Control Panel
 date: 2016-09-01 00:00:00 Z
-excerpt: One way to make it easy for users is to use their language in a website’s control panel.
+excerpt: One way to make it easy for users is to use their language in a website’s
+  control panel.
 images:
 - image:
     alt: Graphic expressing that Empathy is an explicit choice.
-    url: "https://isralduke-site-files.s3.amazonaws.com/images/empathy.svg"
+    url: https://isralduke-site-files.s3.amazonaws.com/images/empathy.svg
 ---
+
 #### The Problem
 The client has a Content Management System powering their website. They can edit and change things whenever the want. It’s perfect and well-structured. The only problem is that they still want me to edit their site for them.
 

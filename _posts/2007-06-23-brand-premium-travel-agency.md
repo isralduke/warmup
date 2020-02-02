@@ -1,9 +1,10 @@
 ---
 title: Brand for Premium Travel Agency
 date: 2007-06-23 00:00:00 Z
-excerpt: A premium travel agency for discerning travellers needed a brand to start its marketing efforts.
+excerpt: A premium travel agency for discerning travellers needed a brand to start
+  its marketing efforts.
 images:
-- "https://isralduke-site-files.s3.amazonaws.com/images/brand-roux-travel-agent-designed-isral-duke.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/brand-roux-travel-agent-designed-isral-duke.jpg
 project_roles:
 - Graphic Designer
 project_type: brand
@@ -11,6 +12,7 @@ project: project
 featured: not-featured
 employer: dda
 ---
+
 #### About the Client
 
 Roux Luxury Travel is a premium travel agency which creates custom travel packages for business owners and executives who need some dedicated time to unwind.

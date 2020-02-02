@@ -3,7 +3,7 @@ title: Tech Conference Poster
 date: 2018-02-28 00:00:00 Z
 excerpt: A poster designed for a tech conference for an attendee giveaway.
 images:
-- "https://isralduke-site-files.s3.amazonaws.com/images/marketing-tech-conference-poster-designed-isral-duke.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/marketing-tech-conference-poster-designed-isral-duke.jpg
 project_roles:
 - Graphic Designer
 project_type: marketing
@@ -11,6 +11,7 @@ project: project
 featured: not-featured
 employer: dda
 ---
+
 #### Background and Client
 
 The <a href="https://www.activateconf.com" target="_blank" title="Activate Conference Website">Activate Conference</a> is an annual technical conference which focuses and web and interactive technologies by featuring workshops, speakers, and a hackathon. The workshops are usually oriented around real, hands-on experience with guided mentoring during a project. The speakers are industry professionals who bring years of experience and a valuable project experience. Finally, in the hackathon, participants use real data to build projects on a theme of civic improvement.

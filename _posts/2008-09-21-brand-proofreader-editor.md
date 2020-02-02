@@ -3,7 +3,7 @@ title: Brand for Proofreader
 date: 2008-09-21 00:00:00 Z
 excerpt: A remote editor and proofreader got an elegant brand package to promote itself.
 images:
-- "https://isralduke-site-files.s3.amazonaws.com/images/brand-miss-red-pen-designed-isral-duke.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/brand-miss-red-pen-designed-isral-duke.jpg
 project_roles:
 - Graphic Designer
 project_type: brand
@@ -11,6 +11,7 @@ project: project
 featured: not-featured
 employer: dda
 ---
+
 #### About the Client
 
 Miss Red Pen is a remote, available for hire, proofreading and editorial service.

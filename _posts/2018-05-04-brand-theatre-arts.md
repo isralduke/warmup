@@ -3,7 +3,7 @@ title: Brand for Theatre
 date: 2018-05-04 00:00:00 Z
 excerpt: A theatre in Boston needed a logo to reflect its unique space.
 images:
-- "https://isralduke-site-files.s3.amazonaws.com/images/brand-rozzie-theatre-designed-isral-duke.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/brand-rozzie-theatre-designed-isral-duke.jpg
 project_roles:
 - Graphic Designer
 project_type: brand
@@ -11,6 +11,7 @@ project: project
 featured: not-featured
 employer: dda
 ---
+
 #### About the Client
 
 Rozzie Square Theatre is a theatre in Boston which hosts live comedy and improv classes.

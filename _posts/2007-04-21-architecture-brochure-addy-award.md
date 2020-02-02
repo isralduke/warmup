@@ -1,9 +1,10 @@
 ---
 title: Architecture Brochure
 date: 2007-04-21 00:00:00 Z
-excerpt: Local Advertising Federation organization awards me a Silver Addy in the student category for an architectural brochure.
+excerpt: Local Advertising Federation organization awards me a Silver Addy in the
+  student category for an architectural brochure.
 images:
-- "https://isralduke-site-files.s3.amazonaws.com/images/architecture-brochure-designed-by-isral-Duke-addy-award-2007.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/architecture-brochure-designed-by-isral-Duke-addy-award-2007.jpg
 project_roles:
 - Graphic Designer
 project_type: Marketing
@@ -11,6 +12,7 @@ project: project
 featured: featured
 employer: dda
 ---
+
 #### Background and Context
 
 During  my Graphic Design studies at Louisiana State University, I took on a project associated with Habitat for Humanity. One of the architecture professors at LSU, David Baird, led his class to design and build a house with Habitat for Humanity. From the design phase to construction completion, the entire project took only one semester!

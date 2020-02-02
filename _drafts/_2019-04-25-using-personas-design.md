@@ -4,6 +4,7 @@ date: 2019-04-25 00:00:00 Z
 excerpt: Each person is different but they can be understood. Designers use the same
   tools marketers to understand the user.
 ---
+
 #### Personas Help Design
 #### Sources
 http://www.strategicbusinessinsights.com/vals/ustypes.shtml

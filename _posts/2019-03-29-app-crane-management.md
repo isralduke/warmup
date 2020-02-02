@@ -3,9 +3,9 @@ title: User Interface for Crane Management Web Application
 date: 2019-03-29 00:00:00 Z
 excerpt: A web app user interface for crane reporting, planning, and maintenance.
 images:
-- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-crane-management-data-1.jpg"
-- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-crane-management-data-2.jpg"
-- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-crane-management-data-3.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/app-ui-crane-management-data-1.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/app-ui-crane-management-data-2.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/app-ui-crane-management-data-3.jpg
 project_roles:
 - Graphic Designer
 - UI Designer
@@ -14,6 +14,7 @@ project: project
 featured: featured
 employer: sjt
 ---
+
 <h4>Product Information</h4>
 <p>Mobile harbor cranes are positioned on barges so they can transfer raw materials from cargo ships to barges. These barges are then pushed up the Mississippi River for further distribution.</p>
 <p>Crane Data System (CDS) communicates real time and historical data to stakeholders about many aspects of their goods’ transit. CDS streamlines the efficiency of the bulk cargo handler by offering real-time metrics of the cargo being handled, the cranes performing the work, and even ambient weather conditions which might affect the operations, as well real-time transfer progress.

@@ -3,7 +3,7 @@ title: Brand for Home Inspector
 date: 2008-09-21 00:00:00 Z
 excerpt: Simple brand designed for a home inspection service.
 images:
-- "https://isralduke-site-files.s3.amazonaws.com/images/brand-certified-home-inspection-designed-isral-duke.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/brand-certified-home-inspection-designed-isral-duke.jpg
 project_roles:
 - Graphic Designer
 project_type: brand
@@ -11,6 +11,7 @@ project: project
 featured: not-featured
 employer: dda
 ---
+
 #### About the Client
 
 Ceritified Home Inspection is a service which inspects houses to give potential buyers the data to make an informed house purchase decision.

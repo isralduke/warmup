@@ -3,11 +3,11 @@ title: Learning Management System
 date: 2019-04-04 00:00:00 Z
 excerpt: A Web application for safety training and certification of pipeline workers.
 images:
-- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-1.jpg"
-- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-2.jpg"
-- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-3.jpg"
-- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-4.jpg"
-- "https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-5.png"
+- https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-1.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-2.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-3.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-4.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/app-ui-pinion-learning-designed-isral-duke-5.png
 project_roles:
 - UI Designer
 - Graphic Designer
@@ -16,6 +16,7 @@ project: project
 featured: featured
 employer: plms
 ---
+
 <h4>Stakeholder Hierarchy and User Profile</h4>
 <p>Pinion Courseware is a learning management system designed and built to improve safety compliance in the petrochemical industry among contractors and employees of those contractors.
 </p>

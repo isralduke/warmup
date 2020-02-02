@@ -1,12 +1,14 @@
 ---
 title: Arguments for Real-Time Validation
 date: 2019-05-06 00:00:00 Z
-excerpt: Should you check a user’s input entry as they type it? A look at the arguments for real-time input validation.
+excerpt: Should you check a user’s input entry as they type it? A look at the arguments
+  for real-time input validation.
 images:
 - image:
     alt: Graphic illustrating success and failure in form entry interactions.
-    url: "https://isralduke-site-files.s3.amazonaws.com/images/real-time-form-validation.svg"
+    url: https://isralduke-site-files.s3.amazonaws.com/images/real-time-form-validation.svg
 ---
+
 #### The Scenario
 
 A user or a website visitor is filling out a form. When they finish, they press “Submit” expecting to be finished with the form. But then, to their dismay, the browser kidnaps them and brings them to a page listing problems with the information they entered. 

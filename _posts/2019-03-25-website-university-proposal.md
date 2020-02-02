@@ -8,11 +8,12 @@ project_roles:
 - UX Designer
 project_type: website
 images:
-- "https://isralduke-site-files.s3.amazonaws.com/images/website-unversity-designed-by-isral-duke-envoc-employee.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/website-unversity-designed-by-isral-duke-envoc-employee.jpg
 project: project
 featured: not-featured
 employer: envoc
 ---
+
 <h4>Context &amp; Background</h4>
 <p>An established univversity wanted to refresh its design. The university also wanted to move from an outdated content management system (CMS) onto a new enterprise-ready CMS.</p>
 <h4>Proposed Design</h4>

@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign projects = site.posts | where: 'project','project'%}
 {% assign image = projects.first.images[0] %}
 {% include big-title-space.html image=image %}

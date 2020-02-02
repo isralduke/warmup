@@ -1,9 +1,10 @@
 ---
 title: Brand for Marathon Management Agency
 date: 2008-09-21 00:00:00 Z
-excerpt: An organization for managing corporate marathons needed a brand to hit the ground running.
+excerpt: An organization for managing corporate marathons needed a brand to hit the
+  ground running.
 images:
-- "https://isralduke-site-files.s3.amazonaws.com/images/brand-slow-polks-designed-isral-duke.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/brand-slow-polks-designed-isral-duke.jpg
 project_roles:
 - Graphic Designer
 project_type: brand
@@ -11,6 +12,7 @@ project: project
 featured: featured
 employer: dda
 ---
+
 #### About the Client
 
 The Slow Polks is a family-owned and operated marathon management agency. They organize, produce, and handle all of the details for any organization which wants to produce a marathon for fund raising or awareness.

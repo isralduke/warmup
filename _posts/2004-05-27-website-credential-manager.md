@@ -1,9 +1,10 @@
 ---
 title: Credential Manager Website
 date: 2004-05-27 00:00:00 Z
-excerpt: A large organization provides a single sign on portal for its employees to manage their intranet credentials.
+excerpt: A large organization provides a single sign on portal for its employees to
+  manage their intranet credentials.
 images:
-  - "https://isralduke-site-files.s3.amazonaws.com/images/website-single-sign-on-designed-isral-duke.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/website-single-sign-on-designed-isral-duke.jpg
 project_roles:
 - UI Designer
 - UX Designer
@@ -12,6 +13,7 @@ project: project
 featured: not-featured
 employer: dda
 ---
+
 #### Client Information
 
 A large organization with over 100 employees was in the process of modernizing and consolidating its internal software systems. As the process was scheduled to be completed within a couple of years, they needed a way to use a single set of credentials for each employee to simplify some of the internal friction of the systems’ transition. The solution was to build a single sign on system to use across their locations and systems.

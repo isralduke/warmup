@@ -1,15 +1,16 @@
 ---
 title: Civic Marathon Visual Identity Assets
 date: 2016-06-26 00:00:00 Z
-excerpt:  An assortment of branding assets, including a logo, for a tricentennial celebration marathon for Natchez, Mississippi.
+excerpt: An assortment of branding assets, including a logo, for a tricentennial celebration
+  marathon for Natchez, Mississippi.
 images:
-  - 'https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-0.jpg'
-  - 'https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-1.jpg'
-  - 'https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-3.jpg'
-  - 'https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-5.jpg'
-  - 'https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-6.jpg'
-  - 'https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-7.jpg'
-  - 'https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-2.jpg'
+- https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-0.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-1.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-3.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-5.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-6.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-7.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/marketing-natchez-marathon-designed-isral-duke-2.jpg
 project_roles:
 - Graphic Designer
 project_type: marketing
@@ -17,6 +18,7 @@ project: project
 featured: not-featured
 employer: dda
 ---
+
 #### Background
 
 Natchez, Mississippi celebrated its tricentennial birthday with several days of <a href="https://thenatchezhalf.itsyourrace.com/event.aspx?id=7774" title="Race Listing for The Natchez Half" target="_blank">marathons and fun runs in November 2016</a>. The Natchez marathons were produced by <a href="https://twitter.com/theslowpolks" title="The Slow Polks" tarhet="_blank">The Slow Polks, a marathon production agency</a>.

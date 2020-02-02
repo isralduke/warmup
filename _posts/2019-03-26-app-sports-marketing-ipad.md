@@ -3,9 +3,9 @@ title: Sports Marketing iPad Apps
 date: 2019-03-26 00:00:00 Z
 excerpt: Sports marketing iPad apps for recruiting college players.
 images:
-- "https://isralduke-site-files.s3.amazonaws.com/images/app-sports-marketing-lsu-football-designed-isral-duke.jpg"
-- "https://isralduke-site-files.s3.amazonaws.com/images/app-sports-marketing-lsu-baseball-designed-isral-duke.jpg"
-- "https://isralduke-site-files.s3.amazonaws.com/images/app-sports-marketing-georgia-football-designed-isral-duke.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/app-sports-marketing-lsu-football-designed-isral-duke.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/app-sports-marketing-lsu-baseball-designed-isral-duke.jpg
+- https://isralduke-site-files.s3.amazonaws.com/images/app-sports-marketing-georgia-football-designed-isral-duke.jpg
 project_roles:
 - UI Designer
 - Graphic Designer
@@ -14,6 +14,7 @@ project: project
 featured: featured
 employer: itbd
 ---
+
 <h4>Stakeholder Information</h4>
 <p>College sports’ recruting efforts are competitive, no big surprise. Several universities’ athletics departments are the primary stakeholders for these sports marketing iPad apps.</p>
 <h4>Primary User Information</h4>

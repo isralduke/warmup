@@ -3,7 +3,7 @@ title: Medical Diagnosis Web Application
 date: 2019-05-23 00:00:00 Z
 excerpt: A telemedicine company begins operation with a custom web and mobile app.
 images:
-  - "https://isralduke-site-files.s3.amazonaws.com/images/app-medical-user-interface-designed-isral-duke.jpg"
+- https://isralduke-site-files.s3.amazonaws.com/images/app-medical-user-interface-designed-isral-duke.jpg
 project_roles:
 - UI Designer
 - UX Designer
@@ -12,6 +12,7 @@ project: project
 featured: featured
 employer: dda
 ---
+
 #### Client Information
 
 Relief Telemed began life as a startup looking to provide mobile diagnosis to its customers with a network of nurse practitioners. Their approach, to put a mobile app in the hands of the patient, and a web application to a nurse practitioner working remotely, would enable both patient and medical expert to receive and complete a medical visit from home.
