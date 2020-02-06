@@ -15,7 +15,7 @@ Design is not exclusive to the modern world: humans have been creating for purpo
 <figure>
     <img class="img-fluid" src="https://isralduke-site-files.s3.amazonaws.com/images/roads-of-arabia-national-roman-museum-alda-fendi-foundation-klinamen-designboom05-2.jpg"
          alt="A tunic or shawl which will be in display at the Roman Museum.">
-    <figcaption>A tunic or shawl which will be in display at the Roman Museum.</figcaption>
+    <figcaption>A tunic or shawl which will be on display at the Roman Museum.</figcaption>
 </figure>
 
 #### Great design is timeless.
@@ -25,7 +25,7 @@ Looking at the images on the exhibit’s news article at DesignBoom, these objec
 <figure>
     <img class="img-fluid" src="https://isralduke-site-files.s3.amazonaws.com/images/roads-of-arabia-national-roman-museum-alda-fendi-foundation-klinamen-designboom07.jpg"
          alt="A tunic or shawl which will be in display at the Roman Museum.">
-    <figcaption>A bronze lion head sculpture which will be in display at the Roman Museum.</figcaption>
+    <figcaption>A bronze lion head sculpture which will be on display at the Roman Museum.</figcaption>
 </figure>
 
 #### Look back to the future.
