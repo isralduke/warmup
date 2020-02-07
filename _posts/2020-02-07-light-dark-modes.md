@@ -4,7 +4,7 @@ date: 2020-02-07 00:00:00 Z
 excerpt: In the past only developers had access to dark modes. Now it’s a trend to include dark modes in apps and websites. But does it work for usability?
 images:
 - image:
-    alt: Screenshot of iOS light mode or dakr mode toggle. 
+    alt: Screenshot of iOS light mode or dark mode toggle. 
     url: https://isralduke-site-files.s3.amazonaws.com/images/dark-light-example.png
 ---
 #### Introduction
