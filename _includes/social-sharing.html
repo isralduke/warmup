@@ -9,9 +9,9 @@
 	<meta property="og:description" content="{{if page.excerpt}}{{page.excerpt}} {{else}}{{site.description}} | {{site.title}}{{/if}}" />
 {% endif %}
 {% if page.project %}
-	<meta property="og:image" content="{{site.url}}{{page.images[0]}}" />
+	<meta property="og:image" content="{{page.images[0]}}" />
 {% else %}
-	<meta property="og:image" content="{{site.url}}{{page.images[0].image.url}}" />
+	<meta property="og:image" content="{{page.images[0].image.url}}" />
 {% endif %}
 
 
