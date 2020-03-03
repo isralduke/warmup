@@ -1,0 +1,11 @@
+#!/bin/bash
+
+>test.csv
+
+for i in _posts/*.md; do
+    content=$(cat $i | paste -sd " " - | sed 's/"/""/g' )
+    filename=$(echo "${i##*/}")
+    row="${filename},\"${content}\""
+
+    echo "$row" >> test.csv
+done
