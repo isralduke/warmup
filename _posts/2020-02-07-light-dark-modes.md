@@ -15,8 +15,8 @@ iOS 13 introduced dark mode in 2019, which followed dark mode for MacOS in 2018.
 
 <figure>
     <img class="img-fluid" src="https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2018/10/google_maps_dark_mode_night_1.jpg?w=2000&quality=82&strip=all&ssl=1"
-         alt="Hand holding a phone with Google Maps running.">
-    <figcaption>Hand holding a phone with Google Maps running.</figcaption>
+         alt="Hand holding a phone with Google Maps running. Courtesy of 9to5 Google.">
+    <figcaption>Hand holding a phone with Google Maps running. Courtesy of 9to5 Google.</figcaption>
 </figure>
 
 #### The Analysis
