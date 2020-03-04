@@ -12,7 +12,7 @@ images:
 
 #### Introduction
 
-Pantone is the color authority in North America when we discuss colors in print. Pantone has an indexed color catalog which assigns numbers to colors. Instead of just saying “deep red” to a client, a designer can show their client that “deep red” in a swatch book. Then, that designer can tell the printer that <a href="" target="_blank" title="See PMS 485 C at Pantone website.">PMS 485 C</a> is the red which is required. Pantone’s color index eliminates ambiguity when describing which color is required for a project.
+Pantone is the color authority in North America when we discuss colors in print. Pantone has an indexed color catalog which assigns numbers to colors. Instead of just saying “deep red” to a client, a designer can show their client that “deep red” in a swatch book. Then, that designer can tell the printer that <a href="https://www.pantone.com/color-finder/485-C" target="_blank" title="See PMS 485 C at Pantone website.">PMS 485 C</a> is the red which is required. Pantone’s color index eliminates ambiguity when describing which color is required for a project.
 
 <figure>
     <img class="img-fluid" src="https://isralduke-site-files.s3.amazonaws.com/images/pantone-485.png"
