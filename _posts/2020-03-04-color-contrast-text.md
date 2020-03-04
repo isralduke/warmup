@@ -8,7 +8,7 @@ images:
     url: https://isralduke-site-files.s3.amazonaws.com/images/color-contrast-banner.png
 ---
 
-{{page.excerpt}}
+<p class="lead">{{page.excerpt}}</p>
 
 #### What is Color Contrast
 
