@@ -7,9 +7,6 @@ images:
     alt: Tree branch held up by sculpture of a human hand. Photo by Neil Thomas from Unsplash 
     url: https://isralduke-site-files.s3.amazonaws.com/images/neil-thomas-SIU1Glk6v5k-unsplash.jpg
 ---
-
-<small><a href="https://unsplash.com/@finleydesign" target="blank">Photo by Neil Thomas on Unsplash</a></small>
-
 #### Introduction
 
 People are wonderfully enabled to bring their contributions to projects, communities, or shared initiatives. As each person is individually enabled, so to can each person be individually hindered. Some people encounter hindrances which can totally prevent them from taking part in simple life tasks. These hindrances can be vision deficiencies, hearing loss, muscular motor challenges, or or they might be some form of cognitive friction.
@@ -69,7 +66,12 @@ We ask questions such as:
 </figure>
 
 
-#### Additional Reading
+#### Additional Resources
 
+I’ve listed some additional reading material below. I use the resources often in my own daily work and projects.
+
+- <a href="https://accessibility.digital.gov/visual-design/color-and-contrast/" target="blank">Accessibility for Teams: Visual Design</a>
+- <a href="https://accessibility.digital.gov/front-end/getting-started/" target="blank">Accessibility for Teams: Front-end Development</a>
+- <a href="https://webaim.org/resources/contrastchecker/" target="blank">WebAIM Color Contrast Checker</a>
 
 
